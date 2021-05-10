@@ -1,6 +1,7 @@
 package servent.handler;
 
 import app.AppConfig;
+import app.snapshot_bitcake.ABBitcakeManager;
 import app.snapshot_bitcake.AVBitcakeManager;
 import app.snapshot_bitcake.BitcakeManager;
 import servent.message.Message;
@@ -18,27 +19,10 @@ public class TransactionHandler implements MessageHandler {
 
 	@Override
 	public void run() {
-		if (clientMessage.getMessageType() == MessageType.TRANSACTION) {
-			String amountString = clientMessage.getMessageText();
-			
-			int amountNumber = 0;
-			try {
-				amountNumber = Integer.parseInt(amountString);
-			} catch (NumberFormatException e) {
-				AppConfig.timestampedErrorPrint("Couldn't parse amount: " + amountString);
-				return;
-			}
-			
-			bitcakeManager.addSomeBitcakes(amountNumber);
-			synchronized (AppConfig.colorLock) {
-				if (bitcakeManager instanceof AVBitcakeManager && clientMessage.isWhite()) {
-					AVBitcakeManager avBitcakeManager = (AVBitcakeManager)bitcakeManager;
-					
-					avBitcakeManager.recordGetTransaction(clientMessage.getOriginalSenderInfo().getId(), amountNumber);
-				}
-			}
-		} else {
-			AppConfig.timestampedErrorPrint("Transaction handler got: " + clientMessage);
+		if (bitcakeManager instanceof ABBitcakeManager) {
+			ABBitcakeManager manager = (ABBitcakeManager)bitcakeManager;
+			manager.addPendingMessage(clientMessage);
+			manager.checkPendingMessages();
 		}
 	}
 

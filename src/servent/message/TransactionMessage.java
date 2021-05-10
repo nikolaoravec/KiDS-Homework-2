@@ -1,6 +1,9 @@
 package servent.message;
 
+import java.util.Map;
+
 import app.ServentInfo;
+import app.snapshot_bitcake.ABBitcakeManager;
 import app.snapshot_bitcake.AVBitcakeManager;
 import app.snapshot_bitcake.BitcakeManager;
 
@@ -15,10 +18,17 @@ public class TransactionMessage extends BasicMessage {
 	private static final long serialVersionUID = -333251402058492901L;
 
 	private transient BitcakeManager bitcakeManager;
+	private Map<Integer, Integer> senderClock;
 	
-	public TransactionMessage(ServentInfo sender, ServentInfo receiver, int amount, BitcakeManager bitcakeManager) {
+	public TransactionMessage(ServentInfo sender, ServentInfo receiver, int amount, BitcakeManager bitcakeManager,
+			Map<Integer, Integer> senderClock) {
 		super(MessageType.TRANSACTION, sender, receiver, String.valueOf(amount));
 		this.bitcakeManager = bitcakeManager;
+		this.senderClock = senderClock;
+	}
+	
+	public Map<Integer, Integer> getSenderClock() {
+		return senderClock;
 	}
 	
 	/**
@@ -31,10 +41,9 @@ public class TransactionMessage extends BasicMessage {
 		int amount = Integer.parseInt(getMessageText());
 		
 		bitcakeManager.takeSomeBitcakes(amount);
-		if (bitcakeManager instanceof AVBitcakeManager && isWhite()) {
-			AVBitcakeManager avFinancialManager = (AVBitcakeManager)bitcakeManager;
-			
-			avFinancialManager.recordGiveTransaction(getReceiverInfo().getId(), amount);
+		if (bitcakeManager instanceof ABBitcakeManager) {
+			ABBitcakeManager manager = (ABBitcakeManager)bitcakeManager;
+			manager.recordSendTransaction(getReceiverInfo().getId(), amount);
 		}
 	}
 }

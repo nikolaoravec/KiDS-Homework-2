@@ -9,7 +9,9 @@ import java.util.concurrent.ConcurrentLinkedQueue;
 import java.util.concurrent.CopyOnWriteArrayList;
 import java.util.function.BiFunction;
 
+import app.snapshot_bitcake.AVBitcakeManager;
 import servent.message.Message;
+import servent.message.MessageType;
 import servent.message.snapshot.ABMarkerMessage;
 import servent.message.snapshot.AVMarkerMessage;
 
@@ -109,7 +111,34 @@ public class CausalShared {
 							
 							break;
 						}
-					}if (pendingMessage instanceof AVMarkerMessage) {
+					}
+					
+					if (pendingMessage.getMessageType() == MessageType.TRANSACTION) {
+						String amountString = pendingMessage.getMessageText();
+						
+						int amountNumber = 0;
+						try {
+							amountNumber = Integer.parseInt(amountString);
+						} catch (NumberFormatException e) {
+							AppConfig.timestampedErrorPrint("Couldn't parse amount: " + amountString);
+							return;
+						}
+					/*	
+						bitcakeManager.addSomeBitcakes(amountNumber);
+						synchronized (AppConfig.colorLock) {
+						if (bitcakeManager instanceof AVBitcakeManager && clientMessage.isWhite()) {
+								AVBitcakeManager avBitcakeManager = (AVBitcakeManager)bitcakeManager;
+								
+								avBitcakeManager.recordGetTransaction(clientMessage.getOriginalSenderInfo().getId(), amountNumber);
+							}
+						}
+					} else {
+						AppConfig.timestampedErrorPrint("Transaction handler got: " + clientMessage);
+					}
+					
+					*/	
+					
+					if (pendingMessage instanceof AVMarkerMessage) {
 						AVMarkerMessage causalPendingMessage = (AVMarkerMessage)pendingMessage;			
 						
 						if (!otherClockGreater(myVectorClock, causalPendingMessage.getSenderVectorClock())) {

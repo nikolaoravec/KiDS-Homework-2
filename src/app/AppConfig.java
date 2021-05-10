@@ -50,7 +50,7 @@ public class AppConfig {
 	 */
 	public static SnapshotType SNAPSHOT_TYPE;
 	
-	public static AtomicBoolean isWhite = new AtomicBoolean(true);
+	public static AtomicBoolean hasMarker = new AtomicBoolean(false);
 	public static Object colorLock = new Object();
 	
 	/**

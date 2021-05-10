@@ -8,7 +8,7 @@ import java.util.concurrent.atomic.AtomicBoolean;
 
 import app.AppConfig;
 import servent.message.Message;
-import servent.message.snapshot.NaiveAskAmountMessage;
+//import servent.message.snapshot.NaiveAskAmountMessage;
 import servent.message.util.MessageUtil;
 
 /**

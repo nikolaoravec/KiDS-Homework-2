@@ -9,7 +9,7 @@ import java.util.concurrent.ConcurrentHashMap;
  * Snapshot result for servent with id serventId.
  * The amount of bitcakes on that servent is recordedAmount,
  * and messages from others to that servent are recorded in
- * allChannelMessages.
+ * received, all messages that I sent to others are in received.
  * 
  * @author bmilojkovic
  *
@@ -20,22 +20,29 @@ public class ABSnapshotResult implements Serializable {
 
 	private final int serventId;
 	private final int recordedAmount;
-	private final Map<String, List<Integer>> allChannelMessages;
+	private final Map<Integer, Integer> sent;
+	private final Map<Integer, Integer> received;
 	
-	public ABSnapshotResult(int serventId, int recordedAmount, Map<String, List<Integer>> allChannelMessages) {
+	public ABSnapshotResult(int serventId, int recordedAmount, Map<Integer, Integer> sent, Map<Integer, Integer> received) {
 		this.serventId = serventId;
 		this.recordedAmount = recordedAmount;
-		this.allChannelMessages = new ConcurrentHashMap<>(allChannelMessages);
+		this.sent = new ConcurrentHashMap<>(sent);
+		this.received = new ConcurrentHashMap<>(received);
 	}
+	
 	public int getServentId() {
 		return serventId;
 	}
 	public int getRecordedAmount() {
 		return recordedAmount;
 	}
-	public Map<String, List<Integer>> getAllChannelMessages() {
-		return allChannelMessages;
+	public Map<Integer, Integer> getSent() {
+		return sent;
 	}
+	public Map<Integer, Integer> getReceived() {
+		return received;
+	}
+	
 	
 	
 }
