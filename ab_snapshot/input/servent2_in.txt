@@ -1,4 +1,6 @@
-pause 1000
-transaction_burst
-pause 29000
+info
+pause 3000
+basic c
+pause 10000
+print_causal
 stop

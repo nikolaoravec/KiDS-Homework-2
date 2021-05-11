@@ -1,6 +1,5 @@
 package servent.handler.snapshot;
 
-import app.CausalBroadcastShared;
 import app.CausalShared;
 import app.snapshot_bitcake.ABBitcakeManager;
 import app.snapshot_bitcake.SnapshotCollector;

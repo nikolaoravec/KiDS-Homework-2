@@ -39,10 +39,9 @@ public class TransactionBurstCommand implements CLICommand {
 					 * The sending might be delayed, so we want to make sure we do the
 					 * reducing at the right time, not earlier.
 					 */
-					Message transactionMessage = new TransactionMessage(
-							AppConfig.myServentInfo, neighborInfo, amount, bitcakeManager);
+					//Message transactionMessage = new TransactionMessage(AppConfig.myServentInfo, neighborInfo, null,amount, bitcakeManager);
 					
-					MessageUtil.sendMessage(transactionMessage);
+				//	MessageUtil.sendMessage(transactionMessage);
 				}
 				
 			}

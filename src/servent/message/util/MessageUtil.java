@@ -76,20 +76,9 @@ public class MessageUtil {
 	
 	public static void sendMessage(Message message) {
 		
-		if (AppConfig.IS_FIFO) {
-			try {
-				if (message.getMessageType() == MessageType.AB_MARKER) {
-					pendingMarkers.get(message.getReceiverInfo().getId()).put(message);
-				} else {
-					pendingMessages.get(message.getReceiverInfo().getId()).put(message);
-				}
-			} catch (InterruptedException e) {
-				e.printStackTrace();
-			}
-		} else {
-			Thread delayedSender = new Thread(new DelayedMessageSender(message));
-			
-			delayedSender.start();
-		}
+		Thread delayedSender = new Thread(new DelayedMessageSender(message));
+		
+		delayedSender.start();
+		
 	}
 }

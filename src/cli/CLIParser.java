@@ -7,15 +7,15 @@ import java.util.Scanner;
 import app.AppConfig;
 import app.Cancellable;
 import app.snapshot_bitcake.SnapshotCollector;
+import cli.command.BasicCommand;
 import cli.command.BitcakeInfoCommand;
 import cli.command.CLICommand;
 import cli.command.InfoCommand;
 import cli.command.PauseCommand;
-import cli.command.PingCommand;
+import cli.command.PrintCausalCommand;
 import cli.command.StopCommand;
 import cli.command.TransactionBurstCommand;
 import servent.SimpleServentListener;
-import servent.message.util.FifoSendWorker;
 
 /**
  * A simple CLI parser. Each command has a name and arbitrary arguments.
@@ -41,16 +41,17 @@ public class CLIParser implements Runnable, Cancellable {
 	
 	private final List<CLICommand> commandList;
 	
-	public CLIParser(SimpleServentListener listener, List<FifoSendWorker> senderThreads,
+	public CLIParser(SimpleServentListener listener, 
 			SnapshotCollector snapshotCollector) {
 		this.commandList = new ArrayList<>();
 		
 		commandList.add(new InfoCommand());
 		commandList.add(new PauseCommand());
-		commandList.add(new PingCommand());
 		commandList.add(new TransactionBurstCommand(snapshotCollector.getBitcakeManager()));
 		commandList.add(new BitcakeInfoCommand(snapshotCollector));
-		commandList.add(new StopCommand(this, listener, senderThreads, snapshotCollector));
+		commandList.add(new StopCommand(this, listener, snapshotCollector));
+		commandList.add(new BasicCommand());
+		commandList.add(new PrintCausalCommand());
 	}
 	
 	@Override

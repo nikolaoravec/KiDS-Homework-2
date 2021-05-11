@@ -15,28 +15,29 @@ import servent.message.MessageType;
 import servent.message.TransactionMessage;
 import servent.message.snapshot.ABMarkerMessage;
 import servent.message.snapshot.AVMarkerMessage;
-import servent.message.snapshot.CLMarkerMessage;
 import servent.message.util.MessageUtil;
 
 public class ABBitcakeManager implements BitcakeManager {
 
-	private static final AtomicInteger currentAmount = new AtomicInteger(1000);
+	public static ABBitcakeManager instancе = null;
+	private final AtomicInteger currentAmount = new AtomicInteger(1000);
 	public int recordedAmount = 0;
+	private  Map<Integer, Integer> vectorClock = new ConcurrentHashMap<>();
+	private  Map<Integer, Integer> sent = new ConcurrentHashMap<>();
+	private  Map<Integer, Integer> received = new ConcurrentHashMap<>();
+	private  List<Message> commitedCausalMessageList = new CopyOnWriteArrayList<>();
+	private  Queue<Message> pendingMessages = new ConcurrentLinkedQueue<>();
+	private  Object pendingMessagesLock = new Object();
 	
-	private static Map<Integer, Integer> sent = new ConcurrentHashMap<>();
-	private static Map<Integer, Integer> received = new ConcurrentHashMap<>();
-	private static List<Message> commitedCausalMessageList = new CopyOnWriteArrayList<>();
-	private static Queue<Message> pendingMessages = new ConcurrentLinkedQueue<>();
-	private static Object pendingMessagesLock = new Object();
-	
-	public static void initializeVectorClock(int serventCount) {
+	public void initializeVectorClock(int serventCount) {
 		for(Integer neighbor : AppConfig.myServentInfo.getNeighbors()) {
 			sent.put(neighbor, 0);
 			received.put(neighbor, 0);
+			vectorClock.put(neighbor, 0);
 		}
 	}
 	
-	public static void incrementSentClock(int serventId, int sentBitCakes) {
+	public void incrementSentClock(int serventId, int sentBitCakes) {
 		sent.computeIfPresent(serventId, new BiFunction<Integer, Integer, Integer>() {
 
 			@Override
@@ -46,7 +47,7 @@ public class ABBitcakeManager implements BitcakeManager {
 		});
 	}
 	
-	public static void incrementReceivedClock(int serventId, int receivedBitCakes) {
+	public void incrementReceivedClock(int serventId, int receivedBitCakes) {
 		sent.computeIfPresent(serventId, new BiFunction<Integer, Integer, Integer>() {
 
 			@Override
@@ -71,58 +72,54 @@ public class ABBitcakeManager implements BitcakeManager {
 		return false;
 	}
 	
-	public static int getCurrentBitcakeAmount() {
-		return currentAmount.get();
+	public AtomicInteger getCurrentAmount() {
+		return currentAmount;
 	}
 	
-	
-	public void markerEvent(int collectorId) {
-		synchronized (AppConfig.colorLock) {
-			AppConfig.timestampedStandardPrint("Going red");
-			AppConfig.hasMarker.set(true);
-			recordedAmount = getCurrentBitcakeAmount();
-			
-			for (Integer neighbor : AppConfig.myServentInfo.getNeighbors()) {
-				//closedChannels.put(neighbor, false)
-				Message marker = new ABMarkerMessage(AppConfig.myServentInfo, AppConfig.getInfoById(neighbor), sent);
-				MessageUtil.sendMessage(marker);
-				try {
-					/**
-					 * This sleep is here to artificially produce some white node -> red node messages
-					 */
-					Thread.sleep(100);
-				} catch (InterruptedException e) {
-					e.printStackTrace();
-				}
-			}
-		}
-		
-	}
+//	public void markerEvent(int collectorId) {
+//		synchronized (AppConfig.colorLock) {
+//			AppConfig.timestampedStandardPrint("Going red");
+//			AppConfig.hasMarker.set(true);
+//			recordedAmount = getCurrentBitcakeAmount();
+//			
+//			for (Integer neighbor : AppConfig.myServentInfo.getNeighbors()) {
+//				
+//				Message marker = new ABMarkerMessage(AppConfig.myServentInfo, AppConfig.getInfoById(neighbor), sent);
+//				MessageUtil.sendMessage(marker);
+//				try {
+//					Thread.sleep(100);
+//				} catch (InterruptedException e) {
+//					e.printStackTrace();
+//				}
+//			}
+//		}
+//		
+//	}
 	
 	
-	public static Map<Integer, Integer> getSent() {
+	public Map<Integer, Integer> getSent() {
 		return sent;
 	}
 
 	
-	public static Map<Integer, Integer> getReceived() {
+	public Map<Integer, Integer> getReceived() {
 		return received;
 	}
 
 
-	public static List<Message> getCommitedCausalMessages() {
+	public List<Message> getCommitedCausalMessages() {
 		List<Message> toReturn = new CopyOnWriteArrayList<>(commitedCausalMessageList);
 		
 		return toReturn;
 	}
 	
-	public static void addPendingMessage(Message msg) {
+	public void addPendingMessage(Message msg) {
 		pendingMessages.add(msg);
 	}
 	
-	public static void commitCausalMessage(Message newMessage) {
+	public void commitCausalMessage(Message newMessage) {
 		commitedCausalMessageList.add(newMessage);
-		incrementClock(newMessage.getOriginalSenderInfo().getId());
+		//incrementClock(newMessage.getOriginalSenderInfo().getId());
 		
 		checkPendingMessages();
 	}
@@ -167,7 +164,7 @@ public class ABBitcakeManager implements BitcakeManager {
 		});
 	}
 	
-	public static void recordReceivedTransaction(int neighbor, int amount) {
+	public void recordReceivedTransaction(int neighbor, int amount) {
 		received.compute(neighbor,  (k,v) -> {
               return v+1;
        });
@@ -175,7 +172,7 @@ public class ABBitcakeManager implements BitcakeManager {
 	
 	
 	
-	public static void checkPendingMessages() {
+	public void checkPendingMessages() {
 		boolean gotWork = true;
 		
 		while (gotWork) {
@@ -239,8 +236,8 @@ public class ABBitcakeManager implements BitcakeManager {
 					
 					*/	
 					
-					if (pendingMessage instanceof AVMarkerMessage) {
-						AVMarkerMessage causalPendingMessage = (AVMarkerMessage)pendingMessage;			
+					if (pendingMessage instanceof ABMarkerMessage) {
+						ABMarkerMessage causalPendingMessage = (ABMarkerMessage)pendingMessage;			
 						
 						if (!otherClockGreater(getReceived(), causalPendingMessage.getSenderVectorClock())) {
 							gotWork = true;
@@ -260,7 +257,8 @@ public class ABBitcakeManager implements BitcakeManager {
 		}
 		
 	}
-		
+	
+	
 	
 
 

@@ -1,15 +1,10 @@
 package app.snapshot_bitcake;
 
-import java.util.List;
 import java.util.Map;
-import java.util.Map.Entry;
 import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.atomic.AtomicBoolean;
 
 import app.AppConfig;
-import servent.message.Message;
-//import servent.message.snapshot.NaiveAskAmountMessage;
-import servent.message.util.MessageUtil;
 
 /**
  * Main snapshot collector class. Has support AB and AV snapshot algorithms.
@@ -55,9 +50,6 @@ public class SnapshotCollectorWorker implements SnapshotCollector {
 	public void run() {
 		while(working) {
 			
-			/*
-			 * Not collecting yet - just sleep until we start actual work, or finish
-			 */
 			while (collecting.get() == false) {
 				try {
 					Thread.sleep(1000);
@@ -80,10 +72,10 @@ public class SnapshotCollectorWorker implements SnapshotCollector {
 			//1 send asks
 			switch (snapshotType) {
 			case AB:
-				((ABBitcakeManager)bitcakeManager).markerEvent(AppConfig.myServentInfo.getId());
+				//((ABBitcakeManager)bitcakeManager).markerEvent(AppConfig.myServentInfo.getId());
 				break;
 			case AV:
-				((AVBitcakeManager)bitcakeManager).markerEvent(AppConfig.myServentInfo.getId(), this);
+				//((AVBitcakeManager)bitcakeManager).markerEvent(AppConfig.myServentInfo.getId(), this);
 				break;
 			case NONE:
 				//Shouldn't be able to come here. See constructor. 
@@ -124,61 +116,9 @@ public class SnapshotCollectorWorker implements SnapshotCollector {
 			int sum;
 			switch (snapshotType) {
 			case AB:
-				sum = 0;
-				for (Entry<Integer, ABSnapshotResult> nodeResult : collectedABValues.entrySet()) {
-					sum += nodeResult.getValue().getRecordedAmount();
-					AppConfig.timestampedStandardPrint(
-							"Recorded bitcake amount for " + nodeResult.getKey() + " = " + nodeResult.getValue().getRecordedAmount());
-					if (nodeResult.getValue().getAllChannelMessages().size() == 0) {
-						AppConfig.timestampedStandardPrint("No channel bitcake for " + nodeResult.getKey());
-					} else {
-						for (Entry<String, List<Integer>> channelMessages : nodeResult.getValue().getAllChannelMessages().entrySet()) {
-							int channelSum = 0;
-							for (Integer val : channelMessages.getValue()) {
-								channelSum += val;
-							}
-							AppConfig.timestampedStandardPrint("Channel bitcake for " + channelMessages.getKey() +
-									": " + channelMessages.getValue() + " with channel bitcake sum: " + channelSum);
-							
-							sum += channelSum;
-						}
-					}
-				}
-				
-				AppConfig.timestampedStandardPrint("System bitcake count: " + sum);
-				
-				collectedABValues.clear(); //reset for next invocation
 				break;
 			case AV:
-				sum = 0;
-				for (Entry<Integer, AVSnapshotResult> nodeResult : collectedAVValues.entrySet()) {
-					sum += nodeResult.getValue().getRecordedAmount();
-					AppConfig.timestampedStandardPrint(
-							"Recorded bitcake amount for " + nodeResult.getKey() + " = " + nodeResult.getValue().getRecordedAmount());
-				}
-				for(int i = 0; i < AppConfig.getServentCount(); i++) {
-					for (int j = 0; j < AppConfig.getServentCount(); j++) {
-						if (i != j) {
-							if (AppConfig.getInfoById(i).getNeighbors().contains(j) &&
-								AppConfig.getInfoById(j).getNeighbors().contains(i)) {
-								int ijAmount = collectedAVValues.get(i).getGiveHistory().get(j);
-								int jiAmount = collectedAVValues.get(j).getGetHistory().get(i);
-								
-								if (ijAmount != jiAmount) {
-									String outputString = String.format(
-											"Unreceived bitcake amount: %d from servent %d to servent %d",
-											ijAmount - jiAmount, i, j);
-									AppConfig.timestampedStandardPrint(outputString);
-									sum += ijAmount - jiAmount;
-								}
-							}
-						}
-					}
-				}
 				
-				AppConfig.timestampedStandardPrint("System bitcake count: " + sum);
-				
-				collectedAVValues.clear(); //reset for next invocation
 				break;
 			case NONE:
 				//Shouldn't be able to come here. See constructor. 

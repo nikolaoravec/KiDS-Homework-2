@@ -1,5 +1,6 @@
 package servent.message;
 
+import java.util.List;
 import java.util.Map;
 
 import app.ServentInfo;
@@ -15,17 +16,19 @@ import app.snapshot_bitcake.BitcakeManager;
  */
 public class TransactionMessage extends BasicMessage {
 
+	protected TransactionMessage(MessageType type, ServentInfo originalSenderInfo, ServentInfo receiverInfo,
+			ServentInfo targetInfo, List<ServentInfo> routeList, String messageText, int messageId,
+			Map<Integer, Integer> vectorClock) {
+		super(type, originalSenderInfo, receiverInfo, targetInfo, routeList, messageText, messageId, vectorClock);
+		// TODO Auto-generated constructor stub
+	}
+
 	private static final long serialVersionUID = -333251402058492901L;
 
 	private transient BitcakeManager bitcakeManager;
 	private Map<Integer, Integer> senderClock;
 	
-	public TransactionMessage(ServentInfo sender, ServentInfo receiver, int amount, BitcakeManager bitcakeManager,
-			Map<Integer, Integer> senderClock) {
-		super(MessageType.TRANSACTION, sender, receiver, String.valueOf(amount));
-		this.bitcakeManager = bitcakeManager;
-		this.senderClock = senderClock;
-	}
+	
 	
 	public Map<Integer, Integer> getSenderClock() {
 		return senderClock;

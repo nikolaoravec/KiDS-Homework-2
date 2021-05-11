@@ -1,19 +1,34 @@
 package app;
 
+import java.util.Collections;
+import java.util.HashMap;
 import java.util.Iterator;
 import java.util.List;
 import java.util.Map;
 import java.util.Queue;
+import java.util.Set;
 import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.ConcurrentLinkedQueue;
 import java.util.concurrent.CopyOnWriteArrayList;
+import java.util.concurrent.Executor;
+import java.util.concurrent.ExecutorService;
+import java.util.concurrent.Executors;
 import java.util.function.BiFunction;
 
 import app.snapshot_bitcake.AVBitcakeManager;
+import servent.handler.BasicMessageHandler;
+import servent.handler.MessageHandler;
+import servent.handler.NullHandler;
+import servent.handler.RebroadcastHandler;
+import servent.handler.TransactionHandler;
+import servent.handler.snapshot.ABMarkerHandler;
+import servent.handler.snapshot.ABTellHandler;
+import servent.handler.snapshot.AVMarkerHandler;
 import servent.message.Message;
 import servent.message.MessageType;
 import servent.message.snapshot.ABMarkerMessage;
 import servent.message.snapshot.AVMarkerMessage;
+
 
 /**
  * This class contains shared data for the Causal Broadcast implementation:
@@ -24,15 +39,18 @@ import servent.message.snapshot.AVMarkerMessage;
  * </ul>
  * As well as operations for working with all of the above.
  * 
- * @author bmilojkovic
+
  *
  */
 public class CausalShared {
 
-	private static Map<Integer, Integer> vectorClock = new ConcurrentHashMap<>();
-	private static List<Message> commitedCausalMessageList = new CopyOnWriteArrayList<>();
-	private static Queue<Message> pendingMessages = new ConcurrentLinkedQueue<>();
-	private static Object pendingMessagesLock = new Object();
+	private final static Map<Integer, Integer> vectorClock = new ConcurrentHashMap<>();
+	private final static List<Message> commitedCausalMessageList = new CopyOnWriteArrayList<>();
+	private final static Queue<Message> pendingMessages = new ConcurrentLinkedQueue<>();
+	private final static Object pendingMessagesLock = new Object();
+	private static Set<Message> receivedBroadcasts = Collections.newSetFromMap(new ConcurrentHashMap<Message, Boolean>());
+	
+	private final static ExecutorService threadPool = Executors.newCachedThreadPool();
 	
 	public static void initializeVectorClock(int serventCount) {
 		for(int i = 0; i < serventCount; i++) {
@@ -41,17 +59,25 @@ public class CausalShared {
 	}
 	
 	public static void incrementClock(int serventId) {
-		vectorClock.computeIfPresent(serventId, new BiFunction<Integer, Integer, Integer>() {
-
-			@Override
-			public Integer apply(Integer key, Integer oldValue) {
-				return oldValue+1;
-			}
+		vectorClock.computeIfPresent(serventId,  (k,v) -> {
+            return v+1;
 		});
 	}
 	
 	public static Map<Integer, Integer> getVectorClock() {
 		return vectorClock;
+	}
+	
+	public static void addPendingMessage(Message msg) {
+		pendingMessages.add(msg);
+	}
+	
+	public static void commitCausalMessage(Message newMessage) {
+		System.out.println("Committing my msg " + newMessage);
+		commitedCausalMessageList.add(newMessage);
+		incrementClock(newMessage.getOriginalSenderInfo().getId());
+		
+		checkPendingMessages();
 	}
 	
 	public static List<Message> getCommitedCausalMessages() {
@@ -60,15 +86,8 @@ public class CausalShared {
 		return toReturn;
 	}
 	
-	public static void addPendingMessage(Message msg) {
-		pendingMessages.add(msg);
-	}
-	
-	public static void commitCausalMessage(Message newMessage) {
-		commitedCausalMessageList.add(newMessage);
-		incrementClock(newMessage.getOriginalSenderInfo().getId());
-		
-		checkPendingMessages();
+	public static ExecutorService getThreadpool() {
+		return threadPool;
 	}
 	
 	private static boolean otherClockGreater(Map<Integer, Integer> clock1, Map<Integer, Integer> clock2) {
@@ -97,66 +116,55 @@ public class CausalShared {
 				Map<Integer, Integer> myVectorClock = getVectorClock();
 				while (iterator.hasNext()) {
 					Message pendingMessage = iterator.next();
-					if (pendingMessage instanceof ABMarkerMessage) {
-						ABMarkerMessage causalPendingMessage = (ABMarkerMessage)pendingMessage;			
+					
+					if(pendingMessage.getOriginalSenderInfo().getId() == AppConfig.myServentInfo.getId()) {
+						iterator.remove();
+						continue;
+					}
+					
+					if(!receivedBroadcasts.add(pendingMessage)) {
+						iterator.remove();
+						continue;
+					}
+					
+					MessageHandler messagehandler = new NullHandler(pendingMessage);
+					if(!AppConfig.IS_CLIQUE) {
+						messagehandler = new RebroadcastHandler(pendingMessage);
+						threadPool.submit(messagehandler);
+					}
+					
+					
+					if (!otherClockGreater(myVectorClock, pendingMessage.getVectorClock())) {
+						gotWork = true;
 						
-						if (!otherClockGreater(myVectorClock, causalPendingMessage.getSenderVectorClock())) {
-							gotWork = true;
-							// ovde treba da hendlujemo dalje poruku koja je dosla na red
-							AppConfig.timestampedStandardPrint("Committing " + pendingMessage);
-							commitedCausalMessageList.add(pendingMessage);
-							incrementClock(pendingMessage.getOriginalSenderInfo().getId());
-							
-							iterator.remove();
-							
+						switch (pendingMessage.getMessageType()) {
+						case BASIC: 
+							messagehandler = new BasicMessageHandler(pendingMessage);
+						case TRANSACTION:
+							//messagehandler = new TransactionHandler(clientMessage, snapshotCollector.getBitcakeManager());
 							break;
-						}
-					}
-					
-					if (pendingMessage.getMessageType() == MessageType.TRANSACTION) {
-						String amountString = pendingMessage.getMessageText();
-						
-						int amountNumber = 0;
-						try {
-							amountNumber = Integer.parseInt(amountString);
-						} catch (NumberFormatException e) {
-							AppConfig.timestampedErrorPrint("Couldn't parse amount: " + amountString);
-							return;
-						}
-					/*	
-						bitcakeManager.addSomeBitcakes(amountNumber);
-						synchronized (AppConfig.colorLock) {
-						if (bitcakeManager instanceof AVBitcakeManager && clientMessage.isWhite()) {
-								AVBitcakeManager avBitcakeManager = (AVBitcakeManager)bitcakeManager;
-								
-								avBitcakeManager.recordGetTransaction(clientMessage.getOriginalSenderInfo().getId(), amountNumber);
-							}
-						}
-					} else {
-						AppConfig.timestampedErrorPrint("Transaction handler got: " + clientMessage);
-					}
-					
-					*/	
-					
-					if (pendingMessage instanceof AVMarkerMessage) {
-						AVMarkerMessage causalPendingMessage = (AVMarkerMessage)pendingMessage;			
-						
-						if (!otherClockGreater(myVectorClock, causalPendingMessage.getSenderVectorClock())) {
-							gotWork = true;
-							
-							AppConfig.timestampedStandardPrint("Committing " + pendingMessage);
-							commitedCausalMessageList.add(pendingMessage);
-							incrementClock(pendingMessage.getOriginalSenderInfo().getId());
-							
-							iterator.remove();
-							
+						case AB_MARKER:
+							//messagehandler = new ABMarkerHandler(clientMessage, snapshotCollector);
 							break;
+						case AB_TELL:
+							//messagehandler = new ABTellHandler(clientMessage, snapshotCollector);
+							break;
+						case AV_MARKER:
+							//messagehandler = new AVMarkerHandler();
+							break;
+					//	case AV_TELL:
+							//messageHandler = new АVTellHandler(clientMessage, snapshotCollector);
 						}
+						commitedCausalMessageList.add(pendingMessage);
+						System.out.println("Commiting from : " + pendingMessage);
+						incrementClock(pendingMessage.getOriginalSenderInfo().getId());
+						
+						iterator.remove();
+						
+						break;
 					}
-					
-				}
 			}
 		}
 		
-	}
+	}}
 }
