@@ -1,6 +1,5 @@
 package servent.handler.snapshot;
 
-import app.CausalShared;
 import app.snapshot_bitcake.ABBitcakeManager;
 import app.snapshot_bitcake.SnapshotCollector;
 import servent.handler.MessageHandler;
@@ -15,16 +14,17 @@ public class ABMarkerHandler implements MessageHandler {
 
 	public ABMarkerHandler(Message clientMessage, SnapshotCollector snapshotCollector) {
 		this.clientMessage = clientMessage;
-		this.bitcakeManager = (ABBitcakeManager)snapshotCollector.getBitcakeManager();
+		this.bitcakeManager = (ABBitcakeManager) snapshotCollector.getBitcakeManager();
 		this.snapshotCollector = snapshotCollector;
 	}
 
 	@Override
 	public void run() {
 		if (clientMessage.getMessageType() == MessageType.AB_MARKER) {
-//			bitcakeManager.handleMarker(clientMessage, snapshotCollector);	
-			CausalShared.addPendingMessage(clientMessage);
-			CausalShared.checkPendingMessages();
+			if (snapshotCollector.getBitcakeManager() instanceof ABBitcakeManager) {
+				bitcakeManager = (ABBitcakeManager) snapshotCollector.getBitcakeManager();
+				bitcakeManager.handleMarker(clientMessage, snapshotCollector);
+			}
 		}
 
 	}

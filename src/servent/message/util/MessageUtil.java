@@ -31,7 +31,7 @@ public class MessageUtil {
 	 * Normally this should be true, because it helps with debugging.
 	 * Flip this to false to disable printing every message send / receive.
 	 */
-	public static final boolean MESSAGE_UTIL_PRINTING = true;
+	public static final boolean MESSAGE_UTIL_PRINTING = false;
 	
 	public static Map<Integer, BlockingQueue<Message>> pendingMessages = new ConcurrentHashMap<>();
 	public static Map<Integer, BlockingQueue<Message>> pendingMarkers = new ConcurrentHashMap<>();

@@ -21,8 +21,8 @@ public class TransactionHandler implements MessageHandler {
 	public void run() {
 		if (bitcakeManager instanceof ABBitcakeManager) {
 			ABBitcakeManager manager = (ABBitcakeManager)bitcakeManager;
-			manager.addPendingMessage(clientMessage);
-			manager.checkPendingMessages();
+//			manager.addPendingMessage(clientMessage);
+//			manager.checkPendingMessages();
 		}
 	}
 

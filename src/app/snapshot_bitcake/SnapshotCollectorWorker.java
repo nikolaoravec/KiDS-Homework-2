@@ -1,6 +1,7 @@
 package app.snapshot_bitcake;
 
 import java.util.Map;
+import java.util.Map.Entry;
 import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.atomic.AtomicBoolean;
 
@@ -72,7 +73,7 @@ public class SnapshotCollectorWorker implements SnapshotCollector {
 			//1 send asks
 			switch (snapshotType) {
 			case AB:
-				//((ABBitcakeManager)bitcakeManager).markerEvent(AppConfig.myServentInfo.getId());
+				((ABBitcakeManager)bitcakeManager).markerEvent(AppConfig.myServentInfo.getId());
 				break;
 			case AV:
 				//((AVBitcakeManager)bitcakeManager).markerEvent(AppConfig.myServentInfo.getId(), this);
@@ -116,6 +117,10 @@ public class SnapshotCollectorWorker implements SnapshotCollector {
 			int sum;
 			switch (snapshotType) {
 			case AB:
+				for (Entry<Integer, ABSnapshotResult> nodeResult : collectedABValues.entrySet()) {
+				
+					AppConfig.timestampedStandardPrint("Recorded bitcake amount for " + nodeResult.getKey() + " = " + nodeResult.getValue().getRecordedAmount());
+				}
 				break;
 			case AV:
 				

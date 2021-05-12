@@ -32,7 +32,10 @@ public class BasicMessage implements Message {
 	private static AtomicInteger messageCounter = new AtomicInteger(0);
 	private final int messageId;
 	
-	public BasicMessage(MessageType type, ServentInfo originalSenderInfo, ServentInfo receiverInfo, ServentInfo targetInfo,
+	public BasicMessage(MessageType type,
+			ServentInfo originalSenderInfo,
+			ServentInfo receiverInfo,
+			ServentInfo targetInfo,
 			Map<Integer, Integer> vectorClock) {
 		this.type = type;
 		this.originalSenderInfo = originalSenderInfo;
@@ -44,8 +47,12 @@ public class BasicMessage implements Message {
 		this.messageId = messageCounter.getAndIncrement();
 	}
 	
-	public BasicMessage(MessageType type, ServentInfo originalSenderInfo, ServentInfo receiverInfo,ServentInfo targetInfo,
-			String messageText, Map<Integer, Integer> vectorClock) {
+	public BasicMessage(MessageType type, 
+			ServentInfo originalSenderInfo, 
+			ServentInfo receiverInfo,
+			ServentInfo targetInfo,
+			String messageText, 
+			Map<Integer, Integer> vectorClock) {
 		this.type = type;
 		this.originalSenderInfo = originalSenderInfo;
 		this.receiverInfo = receiverInfo;
@@ -198,4 +205,5 @@ public class BasicMessage implements Message {
 	public void sendEffect() {
 		
 	}
+
 }

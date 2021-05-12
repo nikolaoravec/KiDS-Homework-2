@@ -1,20 +1,3 @@
-15:35:27 - Starting servent [2|localhost|1300]
-15:35:27 - My info: [2|localhost|1300]
-15:35:27 - Neighbors:
-15:35:27 - 0 1 3 4 
-15:35:27 - Pausing for 3000 ms
-15:35:29 - Got message [0|0|a|BASIC|2]
-Commiting from : [0|0|a|BASIC|2]
-Committing my msg [2|1|c|BASIC|2]
-15:35:30 - Pausing for 10000 ms
-15:35:30 - Got message [1|0|b|BASIC|2]
-Commiting from : [1|0|b|BASIC|2]
-15:35:31 - Sending message [2|0|c|BASIC|1]
-15:35:31 - Sending message [2|0|c|BASIC|0]
-15:35:31 - Sending message [2|0|c|BASIC|4]
-15:35:31 - Sending message [2|0|c|BASIC|3]
-15:35:40 - Current causal messages:
-15:35:40 - Message 0: a from 0
-15:35:40 - Message 1: c from 2
-15:35:40 - Message 2: b from 1
-15:35:40 - Stopping...
+19:36:36 - Starting servent [2|localhost|1300]
+19:36:36 - Pausing for 30000 ms
+19:37:06 - Stopping...

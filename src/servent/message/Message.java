@@ -84,7 +84,7 @@ public interface Message extends Serializable {
 	 * Alters the message and returns a new copy with everything intact, except
 	 * the receiver being changed to the one with the specified <code>id</code>.
 	 */
-	Message changeReceiver(Integer newReceiverId);
+	Message changeReceiver(Integer newReceiverId);	
 	
 	
 	/**

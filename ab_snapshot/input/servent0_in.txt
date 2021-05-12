@@ -1,6 +1,4 @@
-info
-pause 1000
-basic a
-pause 10000
-print_causal
+pause 500
+snapshot
+pause 25000
 stop

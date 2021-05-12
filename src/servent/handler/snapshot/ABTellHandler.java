@@ -21,10 +21,7 @@ public class ABTellHandler implements MessageHandler {
 	public void run() {
 		if (clientMessage.getMessageType() == MessageType.AB_TELL) {
 			ABTellMessage abTellMessage = (ABTellMessage)clientMessage;
-			
-			snapshotCollector.addABSnapshotInfo(
-					abTellMessage.getOriginalSenderInfo().getId(),
-					abTellMessage.getCLSnapshotResult());
+			snapshotCollector.addABSnapshotInfo(abTellMessage.getOriginalSenderInfo().getId(),abTellMessage.getABSnapshotResult());
 		} else {
 			AppConfig.timestampedErrorPrint("Tell amount handler got: " + clientMessage);
 		}

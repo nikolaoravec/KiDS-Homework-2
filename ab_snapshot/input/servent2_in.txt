@@ -1,6 +1,2 @@
-info
-pause 3000
-basic c
-pause 10000
-print_causal
+pause 30000
 stop

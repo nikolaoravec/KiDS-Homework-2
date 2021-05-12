@@ -67,6 +67,7 @@ public class ServentMain {
 			snapshotCollector = new NullSnapshotCollector();
 		} else {
 			snapshotCollector = new SnapshotCollectorWorker(AppConfig.SNAPSHOT_TYPE);
+			CausalShared.setSnapshotCollector(snapshotCollector);
 		}
 		Thread snapshotCollectorThread = new Thread(snapshotCollector);
 		snapshotCollectorThread.start();

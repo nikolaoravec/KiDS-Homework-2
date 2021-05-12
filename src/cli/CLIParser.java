@@ -13,6 +13,7 @@ import cli.command.CLICommand;
 import cli.command.InfoCommand;
 import cli.command.PauseCommand;
 import cli.command.PrintCausalCommand;
+import cli.command.SnapshotCommand;
 import cli.command.StopCommand;
 import cli.command.TransactionBurstCommand;
 import servent.SimpleServentListener;
@@ -52,6 +53,7 @@ public class CLIParser implements Runnable, Cancellable {
 		commandList.add(new StopCommand(this, listener, snapshotCollector));
 		commandList.add(new BasicCommand());
 		commandList.add(new PrintCausalCommand());
+		commandList.add(new SnapshotCommand(snapshotCollector));
 	}
 	
 	@Override

@@ -1,6 +1,5 @@
 package servent.message.snapshot;
 
-import java.util.List;
 import java.util.Map;
 
 import app.ServentInfo;
@@ -10,23 +9,18 @@ import servent.message.MessageType;
 
 public class ABTellMessage extends BasicMessage {
 
-	protected ABTellMessage(MessageType type, ServentInfo originalSenderInfo, ServentInfo receiverInfo,
-			ServentInfo targetInfo, List<ServentInfo> routeList, String messageText, int messageId,
-			Map<Integer, Integer> vectorClock) {
-		super(type, originalSenderInfo, receiverInfo, targetInfo, routeList, messageText, messageId, vectorClock);
-		// TODO Auto-generated constructor stub
+	private static final long serialVersionUID = 8224274653159843559L;
+	private ABSnapshotResult abSnapshotResult;
+
+	public ABTellMessage(MessageType type, ServentInfo originalSenderInfo, ServentInfo receiverInfo,
+			ServentInfo targetInfo, Map<Integer, Integer> vectorClock, ABSnapshotResult abSnapshotResult) {
+		super(type, originalSenderInfo, receiverInfo, targetInfo, vectorClock);
+		
+		this.abSnapshotResult = abSnapshotResult;
 	}
 
-
-
-	private static final long serialVersionUID = 8224274653159843559L;
-
-	private ABSnapshotResult clSnapshotResult;
-	
-	
-
-	public ABSnapshotResult getCLSnapshotResult() {
-		return clSnapshotResult;
+	public ABSnapshotResult getABSnapshotResult() {
+		return abSnapshotResult;
 	}
 	
 }

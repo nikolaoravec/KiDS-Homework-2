@@ -51,7 +51,7 @@ public class AppConfig {
 	public static SnapshotType SNAPSHOT_TYPE;
 	
 	public static AtomicBoolean hasMarker = new AtomicBoolean(false);
-	public static Object colorLock = new Object();
+	public static Object lock = new Object();
 	
 	/**
 	 * Print a message to stdout with a timestamp
