@@ -1,0 +1,1004 @@
+22:03:53 - 4 salje 0
+22:03:53 - 4 salje 0
+22:03:53 - 4 salje 0
+22:03:53 - 4 salje 0
+22:03:53 - Novi receiver 3
+22:03:53 - Novi receiver 3
+22:03:53 - Novi receiver 3
+22:03:53 - Novi receiver 3
+22:03:53 - Novi receiver 3
+22:03:53 - Novi receiver 3
+22:03:53 - da li je ab_tell: false
+22:03:53 - Novi receiver 3
+22:03:53 - Novi receiver 3
+22:03:53 - 4 salje 0
+22:03:53 - 4 salje 0
+22:03:53 - 4 salje 0
+22:03:53 - 4 salje 0
+22:03:53 - 4 salje 0
+22:03:53 - 4 salje 0
+22:03:53 - Novi receiver 3
+22:03:53 - Novi receiver 3
+22:03:53 - Novi receiver 3
+22:03:53 - 4 salje 0
+22:03:53 - Novi receiver 3
+22:03:53 - Novi receiver 3
+22:03:53 - Novi receiver 3
+22:03:53 - Novi receiver 3
+22:03:53 - 4 salje 0
+22:03:53 - 4 salje 0
+22:03:53 - Novi receiver 3
+22:03:53 - Novi receiver 3
+22:03:53 - Novi receiver 3
+22:03:53 - Novi receiver 3
+22:03:53 - Novi receiver 3
+22:03:53 - 4 salje 0
+22:03:53 - 4 salje 0
+22:03:53 - 4 salje 0
+22:03:53 - 4 salje 0
+22:03:53 - Novi receiver 3
+22:03:53 - Novi receiver 3
+22:03:53 - Novi receiver 3
+22:03:53 - Novi receiver 3
+22:03:53 - Novi receiver 3
+22:03:53 - Novi receiver 3
+22:03:53 - 4 salje 0
+22:03:54 - 4 salje 0
+22:03:54 - 4 salje 0
+22:03:54 - 4 salje 0
+22:03:54 - Novi receiver 3
+22:03:54 - Novi receiver 3
+22:03:54 - Novi receiver 3
+22:03:54 - Novi receiver 3
+22:03:54 - Novi receiver 3
+22:03:54 - Novi receiver 3
+22:03:54 - Novi receiver 3
+22:03:54 - da li je ab_tell: false
+22:03:54 - Novi receiver 3
+22:03:54 - Novi receiver 3
+22:03:54 - Novi receiver 3
+22:03:54 - Novi receiver 3
+22:03:54 - Novi receiver 3
+22:03:54 - Novi receiver 3
+22:03:54 - 4 salje 0
+22:03:54 - 4 salje 0
+22:03:54 - Novi receiver 3
+22:03:54 - Novi receiver 3
+22:03:54 - Novi receiver 3
+22:03:54 - Novi receiver 3
+22:03:54 - Novi receiver 3
+22:03:54 - Novi receiver 3
+22:03:54 - Novi receiver 3
+22:03:54 - da li je ab_tell: false
+22:03:54 - Novi receiver 3
+22:03:54 - Novi receiver 3
+22:03:54 - Novi receiver 3
+22:03:54 - Novi receiver 3
+22:03:54 - Novi receiver 3
+22:03:54 - Novi receiver 3
+22:03:54 - 4 salje 0
+22:03:54 - Novi receiver 3
+22:03:54 - Novi receiver 3
+22:03:54 - Novi receiver 3
+22:03:54 - Novi receiver 3
+22:03:54 - Novi receiver 3
+22:03:54 - Novi receiver 3
+22:03:54 - Novi receiver 3
+22:03:54 - 4 salje 0
+22:03:54 - Novi receiver 3
+22:03:54 - Novi receiver 3
+22:03:54 - Novi receiver 3
+22:03:54 - Novi receiver 3
+22:03:54 - Novi receiver 3
+22:03:54 - Novi receiver 3
+22:03:54 - Novi receiver 3
+22:03:54 - Novi receiver 3
+22:03:54 - da li je ab_tell: false
+22:03:54 - Novi receiver 3
+22:03:54 - Novi receiver 3
+22:03:54 - Novi receiver 3
+22:03:54 - Novi receiver 3
+22:03:54 - Novi receiver 3
+22:03:54 - Novi receiver 3
+22:03:54 - Novi receiver 3
+22:03:54 - 4 salje 0
+22:03:54 - 4 salje 0
+22:03:54 - 4 salje 0
+22:03:54 - Novi receiver 3
+22:03:54 - Novi receiver 3
+22:03:54 - Novi receiver 3
+22:03:54 - Novi receiver 3
+22:03:54 - Novi receiver 3
+22:03:54 - Novi receiver 3
+22:03:54 - Novi receiver 3
+22:03:54 - Novi receiver 3
+22:03:54 - 4 salje 0
+22:03:54 - Novi receiver 3
+22:03:54 - Novi receiver 3
+22:03:54 - Novi receiver 3
+22:03:54 - Novi receiver 3
+22:03:54 - Novi receiver 3
+22:03:54 - Novi receiver 3
+22:03:54 - Novi receiver 3
+22:03:54 - Novi receiver 3
+22:03:54 - Novi receiver 3
+22:03:54 - 4 salje 0
+22:03:54 - 4 salje 0
+22:03:54 - Novi receiver 3
+22:03:54 - Novi receiver 3
+22:03:54 - Novi receiver 3
+22:03:54 - Novi receiver 3
+22:03:54 - Novi receiver 3
+22:03:54 - Novi receiver 3
+22:03:54 - Novi receiver 3
+22:03:54 - Novi receiver 3
+22:03:54 - Novi receiver 3
+22:03:54 - Novi receiver 3
+22:03:54 - 4 salje 0
+22:03:54 - 4 salje 0
+22:03:54 - Novi receiver 3
+22:03:54 - Novi receiver 3
+22:03:54 - Novi receiver 3
+22:03:54 - Novi receiver 3
+22:03:54 - Novi receiver 3
+22:03:54 - Novi receiver 3
+22:03:54 - Novi receiver 3
+22:03:54 - Novi receiver 3
+22:03:54 - Novi receiver 3
+22:03:54 - Novi receiver 3
+22:03:54 - Novi receiver 3
+22:03:54 - 4 salje 0
+22:03:54 - 4 salje 0
+22:03:54 - 4 salje 0
+22:03:54 - Novi receiver 3
+22:03:54 - Novi receiver 3
+22:03:54 - Novi receiver 3
+22:03:54 - Novi receiver 3
+22:03:54 - Novi receiver 3
+22:03:54 - Novi receiver 3
+22:03:54 - Novi receiver 3
+22:03:54 - Novi receiver 3
+22:03:54 - Novi receiver 3
+22:03:54 - Novi receiver 3
+22:03:54 - Novi receiver 3
+22:03:54 - Novi receiver 3
+22:03:54 - 4 salje 0
+22:03:54 - Novi receiver 3
+22:03:54 - Novi receiver 3
+22:03:54 - Novi receiver 3
+22:03:54 - Novi receiver 3
+22:03:54 - Novi receiver 3
+22:03:54 - Novi receiver 3
+22:03:54 - Novi receiver 3
+22:03:54 - Novi receiver 3
+22:03:54 - Novi receiver 3
+22:03:54 - Novi receiver 3
+22:03:54 - Novi receiver 3
+22:03:54 - Novi receiver 3
+22:03:54 - Novi receiver 3
+22:03:54 - 4 salje 0
+22:03:54 - 4 salje 0
+22:03:54 - 4 salje 0
+22:03:54 - 4 salje 0
+22:03:54 - 4 salje 0
+22:03:54 - 4 salje 0
+22:03:54 - Novi receiver 3
+22:03:54 - Novi receiver 3
+22:03:54 - Novi receiver 3
+22:03:54 - Novi receiver 3
+22:03:54 - Novi receiver 3
+22:03:54 - Novi receiver 3
+22:03:54 - Novi receiver 3
+22:03:54 - Novi receiver 3
+22:03:54 - Novi receiver 3
+22:03:54 - Novi receiver 3
+22:03:54 - Novi receiver 3
+22:03:54 - Novi receiver 3
+22:03:54 - Novi receiver 3
+22:03:54 - Novi receiver 3
+22:03:54 - 4 salje 0
+22:03:55 - 4 salje 0
+22:03:55 - 4 salje 0
+22:03:55 - 4 salje 0
+22:03:55 - 4 salje 0
+22:03:55 - 4 salje 0
+22:03:55 - 4 salje 0
+22:03:55 - 4 salje 0
+22:03:55 - 4 salje 0
+22:03:55 - 4 salje 0
+22:03:55 - 4 salje 0
+22:03:55 - 4 salje 0
+22:03:56 - 4 salje 0
+22:03:56 - 4 salje 0
+22:03:56 - Novi receiver 3
+22:03:56 - Novi receiver 3
+22:03:56 - Novi receiver 3
+22:03:56 - Novi receiver 3
+22:03:56 - Novi receiver 3
+22:03:56 - Novi receiver 3
+22:03:56 - 4 salje 0
+22:03:56 - 4 salje 0
+22:03:56 - 4 salje 0
+22:03:56 - 4 salje 0
+22:03:56 - 4 salje 0
+22:03:56 - 4 salje 0
+22:03:56 - 4 salje 0
+22:03:56 - 4 salje 0
+22:03:56 - 4 salje 0
+22:03:56 - 4 salje 0
+22:03:56 - 4 salje 0
+22:03:56 - 4 salje 0
+22:03:56 - 4 salje 0
+22:03:56 - Novi receiver 3
+22:03:56 - Novi receiver 3
+22:03:56 - Novi receiver 3
+22:03:56 - Novi receiver 3
+22:03:56 - Novi receiver 3
+22:03:56 - Novi receiver 3
+22:03:56 - Novi receiver 3
+22:03:56 - Novi receiver 3
+22:03:56 - Novi receiver 3
+22:03:56 - Novi receiver 3
+22:03:56 - Novi receiver 3
+22:03:56 - Novi receiver 3
+22:03:56 - Novi receiver 3
+22:03:56 - Novi receiver 3
+22:03:56 - Novi receiver 3
+22:03:56 - Novi receiver 3
+22:03:57 - 4 salje 0
+22:03:57 - Novi receiver 3
+22:03:57 - Novi receiver 3
+22:03:57 - Novi receiver 3
+22:03:57 - Novi receiver 3
+22:03:57 - Novi receiver 3
+22:03:57 - Novi receiver 3
+22:03:57 - Novi receiver 3
+22:03:57 - Novi receiver 3
+22:03:57 - Novi receiver 3
+22:03:57 - Novi receiver 3
+22:03:57 - Novi receiver 3
+22:03:57 - Novi receiver 3
+22:03:57 - da li je ab_tell: false
+22:03:57 - Novi receiver 3
+22:03:57 - da li je ab_tell: false
+22:03:57 - Novi receiver 3
+22:03:57 - Novi receiver 3
+22:03:57 - Novi receiver 3
+22:03:57 - Novi receiver 3
+22:03:57 - Novi receiver 3
+22:03:57 - Novi receiver 3
+22:03:57 - Novi receiver 3
+22:03:57 - Novi receiver 3
+22:03:57 - Novi receiver 3
+22:03:57 - Novi receiver 3
+22:03:57 - Novi receiver 3
+22:03:57 - Novi receiver 3
+22:03:57 - Novi receiver 3
+22:03:57 - Novi receiver 3
+22:03:57 - Novi receiver 3
+22:03:57 - Novi receiver 3
+22:03:57 - 4 salje 0
+22:03:57 - 4 salje 0
+22:03:57 - 4 salje 0
+22:03:57 - 4 salje 0
+22:03:57 - 4 salje 0
+22:03:57 - 4 salje 0
+22:03:57 - 4 salje 0
+22:03:57 - 4 salje 0
+22:03:57 - 4 salje 0
+22:03:57 - 4 salje 0
+22:03:57 - 4 salje 0
+22:03:57 - 4 salje 0
+22:03:57 - 4 salje 0
+22:03:57 - 4 salje 0
+22:03:57 - 4 salje 0
+22:03:57 - 4 salje 0
+22:03:57 - Novi receiver 3
+22:03:57 - Novi receiver 3
+22:03:57 - Novi receiver 3
+22:03:57 - Novi receiver 3
+22:03:57 - Novi receiver 3
+22:03:57 - Novi receiver 3
+22:03:57 - Novi receiver 3
+22:03:57 - Novi receiver 3
+22:03:57 - Novi receiver 3
+22:03:57 - Novi receiver 3
+22:03:57 - Novi receiver 3
+22:03:57 - Novi receiver 3
+22:03:57 - Novi receiver 3
+22:03:57 - Novi receiver 3
+22:03:57 - Novi receiver 3
+22:03:57 - Novi receiver 3
+22:03:57 - 4 salje 0
+22:03:57 - 4 salje 0
+22:03:57 - 4 salje 0
+22:03:57 - 4 salje 0
+22:03:57 - 4 salje 0
+22:03:57 - 4 salje 0
+22:03:57 - 4 salje 0
+22:03:57 - 4 salje 0
+22:03:57 - 4 salje 0
+22:03:57 - 4 salje 0
+22:03:57 - 4 salje 0
+22:03:57 - Novi receiver 3
+22:03:57 - Novi receiver 3
+22:03:57 - Novi receiver 3
+22:03:57 - Novi receiver 3
+22:03:57 - Novi receiver 3
+22:03:57 - Novi receiver 3
+22:03:57 - Novi receiver 3
+22:03:57 - Novi receiver 3
+22:03:57 - Novi receiver 3
+22:03:57 - Novi receiver 3
+22:03:57 - Novi receiver 3
+22:03:57 - Novi receiver 3
+22:03:57 - Novi receiver 3
+22:03:57 - Novi receiver 3
+22:03:57 - Novi receiver 3
+22:03:57 - Novi receiver 3
+22:03:57 - Novi receiver 3
+22:03:57 - 4 salje 0
+22:03:57 - Novi receiver 3
+22:03:57 - 4 salje 0
+22:03:57 - 4 salje 0
+22:03:57 - 4 salje 0
+22:03:57 - Novi receiver 3
+22:03:57 - 4 salje 0
+22:03:57 - 4 salje 0
+22:03:57 - 4 salje 0
+22:03:57 - Novi receiver 3
+22:03:57 - Novi receiver 3
+22:03:57 - Novi receiver 3
+22:03:57 - Novi receiver 3
+22:03:57 - Novi receiver 3
+22:03:57 - Novi receiver 3
+22:03:57 - Novi receiver 3
+22:03:57 - Novi receiver 3
+22:03:57 - Novi receiver 3
+22:03:57 - Novi receiver 3
+22:03:57 - Novi receiver 3
+22:03:57 - Novi receiver 3
+22:03:57 - Novi receiver 3
+22:03:57 - Novi receiver 3
+22:03:57 - Novi receiver 3
+22:03:57 - Novi receiver 3
+22:03:57 - Novi receiver 3
+22:03:57 - Novi receiver 3
+22:03:57 - 4 salje 0
+22:03:57 - 4 salje 0
+22:03:57 - 4 salje 0
+22:03:57 - 4 salje 0
+22:03:57 - Novi receiver 3
+22:03:57 - Novi receiver 3
+22:03:57 - Novi receiver 3
+22:03:57 - Novi receiver 3
+22:03:57 - Novi receiver 3
+22:03:57 - Novi receiver 3
+22:03:57 - Novi receiver 3
+22:03:57 - Novi receiver 3
+22:03:57 - Novi receiver 3
+22:03:57 - Novi receiver 3
+22:03:57 - Novi receiver 3
+22:03:57 - Novi receiver 3
+22:03:57 - Novi receiver 3
+22:03:57 - Novi receiver 3
+22:03:57 - Novi receiver 3
+22:03:57 - Novi receiver 3
+22:03:57 - Novi receiver 3
+22:03:57 - Novi receiver 3
+22:03:57 - Novi receiver 3
+22:03:57 - da li je ab_tell: false
+22:03:57 - Novi receiver 3
+22:03:57 - Novi receiver 3
+22:03:57 - Novi receiver 3
+22:03:57 - Novi receiver 3
+22:03:57 - Novi receiver 3
+22:03:57 - Novi receiver 3
+22:03:57 - Novi receiver 3
+22:03:57 - Novi receiver 3
+22:03:57 - Novi receiver 3
+22:03:57 - Novi receiver 3
+22:03:57 - Novi receiver 3
+22:03:57 - Novi receiver 3
+22:03:57 - Novi receiver 3
+22:03:57 - Novi receiver 3
+22:03:57 - Novi receiver 3
+22:03:57 - Novi receiver 3
+22:03:57 - Novi receiver 3
+22:03:57 - Novi receiver 3
+22:03:57 - 4 salje 0
+22:03:57 - Novi receiver 3
+22:03:57 - Novi receiver 3
+22:03:57 - Novi receiver 3
+22:03:57 - Novi receiver 3
+22:03:57 - Novi receiver 3
+22:03:57 - Novi receiver 3
+22:03:57 - Novi receiver 3
+22:03:57 - Novi receiver 3
+22:03:57 - Novi receiver 3
+22:03:57 - Novi receiver 3
+22:03:57 - Novi receiver 3
+22:03:57 - Novi receiver 3
+22:03:57 - Novi receiver 3
+22:03:57 - Novi receiver 3
+22:03:57 - Novi receiver 3
+22:03:57 - Novi receiver 3
+22:03:57 - Novi receiver 3
+22:03:57 - Novi receiver 3
+22:03:57 - Novi receiver 3
+22:03:57 - 4 salje 0
+22:03:57 - 4 salje 0
+22:03:57 - 4 salje 0
+22:03:57 - 4 salje 0
+22:03:57 - 4 salje 0
+22:03:57 - 4 salje 0
+22:03:57 - 4 salje 0
+22:03:57 - 4 salje 0
+22:03:57 - 4 salje 0
+22:03:57 - Novi receiver 3
+22:03:58 - 4 salje 0
+22:03:58 - 4 salje 0
+22:03:58 - Novi receiver 3
+22:03:58 - Novi receiver 3
+22:03:58 - Novi receiver 3
+22:03:58 - Novi receiver 3
+22:03:58 - Novi receiver 3
+22:03:58 - Novi receiver 3
+22:03:58 - Novi receiver 3
+22:03:58 - Novi receiver 3
+22:03:58 - Novi receiver 3
+22:03:58 - Novi receiver 3
+22:03:58 - Novi receiver 3
+22:03:58 - Novi receiver 3
+22:03:58 - Novi receiver 3
+22:03:58 - Novi receiver 3
+22:03:58 - Novi receiver 3
+22:03:58 - Novi receiver 3
+22:03:58 - Novi receiver 3
+22:03:58 - Novi receiver 3
+22:03:58 - Novi receiver 3
+22:03:58 - Novi receiver 3
+22:03:58 - da li je ab_tell: false
+22:03:58 - Novi receiver 3
+22:03:58 - Novi receiver 3
+22:03:58 - Novi receiver 3
+22:03:58 - Novi receiver 3
+22:03:58 - Novi receiver 3
+22:03:58 - Novi receiver 3
+22:03:58 - Novi receiver 3
+22:03:58 - Novi receiver 3
+22:03:58 - Novi receiver 3
+22:03:58 - Novi receiver 3
+22:03:58 - Novi receiver 3
+22:03:58 - Novi receiver 3
+22:03:58 - Novi receiver 3
+22:03:58 - Novi receiver 3
+22:03:58 - Novi receiver 3
+22:03:58 - Novi receiver 3
+22:03:58 - Novi receiver 3
+22:03:58 - Novi receiver 3
+22:03:58 - Novi receiver 3
+22:03:58 - 4 salje 0
+22:03:58 - 4 salje 0
+22:03:58 - 4 salje 0
+22:03:58 - 4 salje 0
+22:03:58 - 4 salje 0
+22:03:58 - 4 salje 0
+22:03:58 - 4 salje 0
+22:03:58 - 4 salje 0
+22:03:58 - Novi receiver 3
+22:03:58 - Novi receiver 3
+22:03:58 - Novi receiver 3
+22:03:58 - Novi receiver 3
+22:03:58 - Novi receiver 3
+22:03:58 - Novi receiver 3
+22:03:58 - Novi receiver 3
+22:03:58 - Novi receiver 3
+22:03:58 - Novi receiver 3
+22:03:58 - Novi receiver 3
+22:03:58 - Novi receiver 3
+22:03:58 - Novi receiver 3
+22:03:58 - Novi receiver 3
+22:03:58 - Novi receiver 3
+22:03:58 - Novi receiver 3
+22:03:58 - Novi receiver 3
+22:03:58 - Novi receiver 3
+22:03:58 - Novi receiver 3
+22:03:58 - Novi receiver 3
+22:03:58 - Novi receiver 3
+22:03:58 - da li je ab_tell: false
+22:03:58 - Novi receiver 3
+22:03:58 - Novi receiver 3
+22:03:58 - Novi receiver 3
+22:03:58 - da li je ab_tell: false
+22:03:58 - Novi receiver 3
+22:03:58 - Novi receiver 3
+22:03:58 - Novi receiver 3
+22:03:58 - Novi receiver 3
+22:03:58 - Novi receiver 3
+22:03:58 - Novi receiver 3
+22:03:58 - Novi receiver 3
+22:03:58 - da li je ab_tell: false
+22:03:58 - Novi receiver 3
+22:03:58 - Novi receiver 3
+22:03:58 - Novi receiver 3
+22:03:58 - Novi receiver 3
+22:03:58 - Novi receiver 3
+22:03:58 - Novi receiver 3
+22:03:58 - Novi receiver 3
+22:03:58 - Novi receiver 3
+22:03:58 - Novi receiver 3
+22:03:58 - Novi receiver 3
+22:03:58 - Novi receiver 3
+22:03:58 - Novi receiver 3
+22:03:58 - Novi receiver 3
+22:03:58 - Novi receiver 3
+22:03:58 - da li je ab_tell: false
+22:04:00 - Novi receiver 3
+22:04:00 - da li je ab_tell: false
+22:04:00 - da li je ab_tell: false
+22:04:00 - da li je ab_tell: false
+22:04:00 - da li je ab_tell: false
+22:04:00 - da li je ab_tell: false
+22:04:00 - da li je ab_tell: false
+22:04:00 - 4 salje 0
+22:04:00 - 4 salje 0
+22:04:00 - 4 salje 0
+22:04:00 - 4 salje 0
+22:04:00 - 4 salje 0
+22:04:00 - 4 salje 0
+22:04:00 - 4 salje 0
+22:04:00 - 4 salje 0
+22:04:00 - Novi receiver 3
+22:04:01 - Couldn't send message: [0|19|1|TRANSACTION|3]
+22:04:01 - Couldn't send message: [0|33|7|TRANSACTION|3]
+22:04:01 - Couldn't send message: [0|24|8|TRANSACTION|3]
+22:04:01 - Couldn't send message: [0|26|9|TRANSACTION|3]
+22:04:01 - Couldn't send message: [0|33|7|TRANSACTION|3]
+22:04:01 - Novi receiver 3
+22:04:01 - Couldn't send message: [0|14|8|TRANSACTION|3]
+22:04:01 - Couldn't send message: [0|1|4|TRANSACTION|3]
+22:04:01 - Couldn't send message: [0|23|4|TRANSACTION|3]
+22:04:01 - Couldn't send message: [0|23|4|TRANSACTION|3]
+22:04:01 - Couldn't send message: [0|31|5|TRANSACTION|3]
+22:04:01 - Couldn't send message: [0|24|8|TRANSACTION|3]
+22:04:01 - Couldn't send message: [0|17|4|TRANSACTION|3]
+22:04:01 - Couldn't send message: [0|26|9|TRANSACTION|3]
+22:04:01 - Couldn't send message: [0|23|4|TRANSACTION|3]
+22:04:01 - Couldn't send message: [0|24|8|TRANSACTION|3]
+22:04:01 - Novi receiver 3
+22:04:01 - Couldn't send message: [0|17|4|TRANSACTION|3]
+22:04:01 - Couldn't send message: [0|34|1|TRANSACTION|3]
+22:04:01 - Couldn't send message: [0|33|7|TRANSACTION|3]
+22:04:01 - Couldn't send message: [0|37|8|TRANSACTION|3]
+22:04:01 - Couldn't send message: [0|24|8|TRANSACTION|3]
+22:04:01 - Couldn't send message: [0|28|1|TRANSACTION|3]
+22:04:01 - Couldn't send message: [0|33|7|TRANSACTION|3]
+22:04:01 - Couldn't send message: [0|28|1|TRANSACTION|3]
+22:04:01 - Couldn't send message: [0|37|8|TRANSACTION|3]
+22:04:01 - Couldn't send message: [0|33|7|TRANSACTION|3]
+22:04:01 - Couldn't send message: [0|14|8|TRANSACTION|3]
+22:04:01 - Couldn't send message: [0|24|8|TRANSACTION|3]
+22:04:01 - Couldn't send message: [0|19|1|TRANSACTION|3]
+22:04:01 - Couldn't send message: [0|17|4|TRANSACTION|3]
+22:04:01 - Couldn't send message: [0|26|9|TRANSACTION|3]
+22:04:01 - Couldn't send message: [0|25|3|TRANSACTION|3]
+22:04:01 - Couldn't send message: [0|24|8|TRANSACTION|3]
+22:04:01 - Couldn't send message: [0|17|4|TRANSACTION|3]
+22:04:01 - Couldn't send message: [0|23|4|TRANSACTION|3]
+22:04:01 - Couldn't send message: [0|24|8|TRANSACTION|3]
+22:04:01 - Couldn't send message: [0|17|4|TRANSACTION|3]
+22:04:01 - Novi receiver 3
+22:04:01 - Novi receiver 3
+22:04:02 - Novi receiver 3
+22:04:02 - Novi receiver 3
+22:04:02 - Novi receiver 3
+22:04:02 - Novi receiver 3
+22:04:02 - Novi receiver 3
+22:04:02 - Novi receiver 3
+22:04:02 - Novi receiver 3
+22:04:02 - Novi receiver 3
+22:04:02 - Novi receiver 3
+22:04:02 - Novi receiver 3
+22:04:02 - Novi receiver 3
+22:04:02 - Novi receiver 3
+22:04:02 - Couldn't send message: [0|14|8|TRANSACTION|3]
+22:04:02 - Couldn't send message: [0|33|7|TRANSACTION|3]
+22:04:02 - Couldn't send message: [0|17|4|TRANSACTION|3]
+22:04:02 - Couldn't send message: [0|22|1|TRANSACTION|3]
+22:04:02 - Couldn't send message: [0|26|9|TRANSACTION|3]
+22:04:02 - Couldn't send message: [0|34|1|TRANSACTION|3]
+22:04:02 - Couldn't send message: [0|28|1|TRANSACTION|3]
+22:04:02 - Couldn't send message: [0|14|8|TRANSACTION|3]
+22:04:02 - Couldn't send message: [0|14|8|TRANSACTION|3]
+22:04:02 - Couldn't send message: [0|33|7|TRANSACTION|3]
+22:04:02 - Couldn't send message: [0|19|1|TRANSACTION|3]
+22:04:02 - Couldn't send message: [0|19|1|TRANSACTION|3]
+22:04:02 - Couldn't send message: [0|14|8|TRANSACTION|3]
+22:04:02 - Couldn't send message: [0|22|1|TRANSACTION|3]
+22:04:02 - Couldn't send message: [0|26|9|TRANSACTION|3]
+22:04:02 - Couldn't send message: [0|34|1|TRANSACTION|3]
+22:04:02 - Couldn't send message: [0|23|4|TRANSACTION|3]
+22:04:02 - Couldn't send message: [0|24|8|TRANSACTION|3]
+22:04:02 - Couldn't send message: [0|33|7|TRANSACTION|3]
+22:04:02 - Couldn't send message: [0|26|9|TRANSACTION|3]
+22:04:02 - Couldn't send message: [0|34|1|TRANSACTION|3]
+22:04:02 - Novi receiver 3
+22:04:02 - Couldn't send message: [0|17|4|TRANSACTION|3]
+22:04:02 - Novi receiver 3
+22:04:02 - Novi receiver 3
+22:04:02 - Novi receiver 3
+22:04:02 - Novi receiver 3
+22:04:02 - Novi receiver 3
+22:04:02 - Novi receiver 3
+22:04:02 - Novi receiver 3
+22:04:02 - Novi receiver 3
+22:04:02 - Novi receiver 3
+22:04:02 - Novi receiver 3
+22:04:02 - Novi receiver 3
+22:04:02 - Couldn't send message: [0|31|5|TRANSACTION|3]
+22:04:02 - Novi receiver 3
+22:04:02 - Couldn't send message: [0|17|4|TRANSACTION|3]
+22:04:02 - Novi receiver 3
+22:04:02 - Novi receiver 3
+22:04:02 - Novi receiver 3
+22:04:02 - Novi receiver 3
+22:04:02 - Novi receiver 3
+22:04:02 - Novi receiver 3
+22:04:02 - Novi receiver 3
+22:04:02 - Novi receiver 3
+22:04:02 - Novi receiver 3
+22:04:02 - Novi receiver 3
+22:04:02 - Novi receiver 3
+22:04:02 - Novi receiver 3
+22:04:02 - Novi receiver 3
+22:04:02 - Novi receiver 3
+22:04:02 - Novi receiver 3
+22:04:02 - Novi receiver 3
+22:04:02 - Novi receiver 3
+22:04:02 - Novi receiver 3
+22:04:02 - Novi receiver 3
+22:04:02 - Novi receiver 3
+22:04:02 - Novi receiver 3
+22:04:02 - Novi receiver 3
+22:04:02 - Novi receiver 3
+22:04:02 - Novi receiver 3
+22:04:02 - 4 salje 0
+22:04:02 - 4 salje 0
+22:04:02 - 4 salje 0
+22:04:02 - 4 salje 0
+22:04:02 - Couldn't send message: [0|26|9|TRANSACTION|3]
+22:04:02 - Couldn't send message: [0|24|8|TRANSACTION|3]
+22:04:02 - Couldn't send message: [0|26|9|TRANSACTION|3]
+22:04:02 - Couldn't send message: [0|17|4|TRANSACTION|3]
+22:04:02 - Couldn't send message: [0|14|8|TRANSACTION|3]
+22:04:02 - Couldn't send message: [0|19|1|TRANSACTION|3]
+22:04:02 - Couldn't send message: [0|37|8|TRANSACTION|3]
+22:04:02 - Couldn't send message: [0|23|4|TRANSACTION|3]
+22:04:02 - Couldn't send message: [0|24|8|TRANSACTION|3]
+22:04:02 - Couldn't send message: [0|28|1|TRANSACTION|3]
+22:04:02 - Couldn't send message: [0|23|4|TRANSACTION|3]
+22:04:02 - Novi receiver 3
+22:04:02 - 4 salje 0
+22:04:02 - 4 salje 0
+22:04:02 - 4 salje 0
+22:04:02 - 4 salje 0
+22:04:02 - 4 salje 0
+22:04:02 - 4 salje 0
+22:04:02 - 4 salje 0
+22:04:02 - 4 salje 0
+22:04:02 - 4 salje 0
+22:04:02 - 4 salje 0
+22:04:02 - Novi receiver 3
+22:04:02 - Novi receiver 3
+22:04:02 - Novi receiver 3
+22:04:02 - Novi receiver 3
+22:04:02 - Novi receiver 3
+22:04:02 - Novi receiver 3
+22:04:02 - Novi receiver 3
+22:04:02 - Novi receiver 3
+22:04:02 - Novi receiver 3
+22:04:02 - Novi receiver 3
+22:04:02 - Novi receiver 3
+22:04:02 - da li je ab_tell: false
+22:04:02 - Novi receiver 3
+22:04:02 - Novi receiver 3
+22:04:02 - Novi receiver 3
+22:04:02 - Novi receiver 3
+22:04:02 - Novi receiver 3
+22:04:02 - Novi receiver 3
+22:04:02 - Novi receiver 3
+22:04:02 - Novi receiver 3
+22:04:02 - da li je ab_tell: false
+22:04:02 - Novi receiver 3
+22:04:02 - Novi receiver 3
+22:04:02 - Novi receiver 3
+22:04:02 - Novi receiver 3
+22:04:02 - Novi receiver 3
+22:04:02 - Novi receiver 3
+22:04:02 - Novi receiver 3
+22:04:02 - Novi receiver 3
+22:04:02 - Novi receiver 3
+22:04:02 - 4 salje 0
+22:04:02 - 4 salje 0
+22:04:02 - 4 salje 0
+22:04:02 - 4 salje 0
+22:04:02 - 4 salje 0
+22:04:02 - 4 salje 0
+22:04:02 - 4 salje 0
+22:04:02 - 4 salje 0
+22:04:02 - 4 salje 0
+22:04:02 - 4 salje 0
+22:04:02 - 4 salje 0
+22:04:02 - 4 salje 0
+22:04:02 - 4 salje 0
+22:04:02 - 4 salje 0
+22:04:02 - 4 salje 0
+22:04:02 - 4 salje 0
+22:04:02 - 4 salje 0
+22:04:02 - Novi receiver 3
+22:04:02 - Novi receiver 3
+22:04:02 - Novi receiver 3
+22:04:02 - Novi receiver 3
+22:04:02 - Novi receiver 3
+22:04:02 - Novi receiver 3
+22:04:02 - Novi receiver 3
+22:04:02 - Novi receiver 3
+22:04:02 - Novi receiver 3
+22:04:02 - Novi receiver 3
+22:04:02 - da li je ab_tell: false
+22:04:02 - Novi receiver 3
+22:04:02 - Novi receiver 3
+22:04:03 - Novi receiver 3
+22:04:03 - da li je ab_tell: false
+22:04:03 - Novi receiver 3
+22:04:03 - Novi receiver 3
+22:04:03 - Novi receiver 3
+22:04:03 - Novi receiver 3
+22:04:03 - Novi receiver 3
+22:04:03 - Novi receiver 3
+22:04:03 - Novi receiver 3
+22:04:03 - da li je ab_tell: false
+22:04:03 - Novi receiver 3
+22:04:03 - Novi receiver 3
+22:04:03 - Novi receiver 3
+22:04:03 - Novi receiver 3
+22:04:03 - Novi receiver 3
+22:04:03 - Novi receiver 3
+22:04:03 - Novi receiver 3
+22:04:03 - 4 salje 0
+22:04:03 - 4 salje 0
+22:04:03 - 4 salje 0
+22:04:03 - 4 salje 0
+22:04:03 - 4 salje 0
+22:04:03 - 4 salje 0
+22:04:03 - 4 salje 0
+22:04:03 - 4 salje 0
+22:04:03 - 4 salje 0
+22:04:03 - 4 salje 0
+22:04:03 - 4 salje 0
+22:04:03 - 4 salje 0
+22:04:03 - 4 salje 0
+22:04:03 - 4 salje 0
+22:04:03 - 4 salje 0
+22:04:03 - 4 salje 0
+22:04:03 - 4 salje 0
+22:04:03 - 4 salje 0
+22:04:03 - 4 salje 0
+22:04:03 - 4 salje 0
+22:04:03 - 4 salje 0
+22:04:03 - 4 salje 0
+22:04:03 - 4 salje 0
+22:04:03 - 4 salje 0
+22:04:03 - 4 salje 0
+22:04:03 - 4 salje 0
+22:04:03 - 4 salje 0
+22:04:03 - 4 salje 0
+22:04:03 - 4 salje 0
+22:04:03 - 4 salje 0
+22:04:03 - 4 salje 0
+22:04:03 - 4 salje 0
+22:04:03 - 4 salje 0
+22:04:03 - 4 salje 0
+22:04:03 - Novi receiver 3
+22:04:03 - Novi receiver 3
+22:04:03 - Novi receiver 3
+22:04:03 - Novi receiver 3
+22:04:03 - Novi receiver 3
+22:04:03 - Novi receiver 3
+22:04:03 - Novi receiver 3
+22:04:03 - Novi receiver 3
+22:04:03 - da li je ab_tell: false
+22:04:03 - Novi receiver 3
+22:04:03 - Novi receiver 3
+22:04:03 - Novi receiver 3
+22:04:03 - Novi receiver 3
+22:04:03 - Novi receiver 3
+22:04:03 - Novi receiver 3
+22:04:03 - Novi receiver 3
+22:04:03 - 4 salje 0
+22:04:03 - 4 salje 0
+22:04:03 - 4 salje 0
+22:04:03 - 4 salje 0
+22:04:03 - Novi receiver 3
+22:04:03 - Novi receiver 3
+22:04:03 - Novi receiver 3
+22:04:03 - Novi receiver 3
+22:04:03 - Novi receiver 3
+22:04:03 - Novi receiver 3
+22:04:03 - Novi receiver 3
+22:04:03 - Novi receiver 3
+22:04:03 - 4 salje 0
+22:04:03 - 4 salje 0
+22:04:03 - 4 salje 0
+22:04:03 - 4 salje 0
+22:04:03 - 4 salje 0
+22:04:03 - 4 salje 0
+22:04:03 - 4 salje 0
+22:04:03 - 4 salje 0
+22:04:03 - 4 salje 0
+22:04:03 - 4 salje 0
+22:04:03 - 4 salje 0
+22:04:03 - 4 salje 0
+22:04:03 - 4 salje 0
+22:04:03 - 4 salje 0
+22:04:03 - 4 salje 0
+22:04:03 - 4 salje 0
+22:04:03 - 4 salje 0
+22:04:03 - 4 salje 0
+22:04:03 - 4 salje 0
+22:04:03 - Novi receiver 3
+22:04:03 - Novi receiver 3
+22:04:03 - Novi receiver 3
+22:04:03 - Novi receiver 3
+22:04:03 - Novi receiver 3
+22:04:03 - Novi receiver 3
+22:04:03 - Novi receiver 3
+22:04:03 - Novi receiver 3
+22:04:03 - Novi receiver 3
+22:04:03 - da li je ab_tell: false
+22:04:03 - Novi receiver 3
+22:04:03 - Novi receiver 3
+22:04:03 - Novi receiver 3
+22:04:03 - Novi receiver 3
+22:04:03 - Novi receiver 3
+22:04:03 - Novi receiver 3
+22:04:03 - Novi receiver 3
+22:04:03 - da li je ab_tell: false
+22:04:03 - Novi receiver 3
+22:04:03 - Novi receiver 3
+22:04:03 - da li je ab_tell: false
+22:04:03 - Novi receiver 3
+22:04:03 - Novi receiver 3
+22:04:03 - Novi receiver 3
+22:04:03 - Novi receiver 3
+22:04:03 - Novi receiver 3
+22:04:03 - Novi receiver 3
+22:04:04 - 4 salje 0
+22:04:04 - Novi receiver 3
+22:04:04 - Novi receiver 3
+22:04:04 - Novi receiver 3
+22:04:04 - Novi receiver 3
+22:04:04 - Novi receiver 3
+22:04:04 - Novi receiver 3
+22:04:04 - 4 salje 0
+22:04:04 - Novi receiver 3
+22:04:04 - Novi receiver 3
+22:04:04 - Novi receiver 3
+22:04:04 - Novi receiver 3
+22:04:04 - Novi receiver 3
+22:04:04 - Novi receiver 3
+22:04:04 - Couldn't send message: [0|26|9|TRANSACTION|3]
+22:04:04 - Couldn't send message: [0|39|10|TRANSACTION|3]
+22:04:04 - Couldn't send message: [0|39|10|TRANSACTION|3]
+22:04:04 - Couldn't send message: [0|26|9|TRANSACTION|3]
+22:04:04 - Couldn't send message: [0|37|8|TRANSACTION|3]
+22:04:04 - Couldn't send message: [0|31|5|TRANSACTION|3]
+22:04:04 - Couldn't send message: [0|19|1|TRANSACTION|3]
+22:04:04 - Couldn't send message: [0|31|5|TRANSACTION|3]
+22:04:04 - Couldn't send message: [0|19|1|TRANSACTION|3]
+22:04:04 - Couldn't send message: [0|22|1|TRANSACTION|3]
+22:04:04 - Couldn't send message: [0|24|8|TRANSACTION|3]
+22:04:04 - Couldn't send message: [0|39|10|TRANSACTION|3]
+22:04:04 - Couldn't send message: [0|23|4|TRANSACTION|3]
+22:04:04 - Couldn't send message: [0|37|8|TRANSACTION|3]
+22:04:04 - Couldn't send message: [0|18|9|TRANSACTION|3]
+22:04:04 - Couldn't send message: [0|19|1|TRANSACTION|3]
+22:04:04 - Couldn't send message: [0|25|3|TRANSACTION|3]
+22:04:04 - Couldn't send message: [0|26|9|TRANSACTION|3]
+22:04:04 - Couldn't send message: [0|31|5|TRANSACTION|3]
+22:04:04 - Couldn't send message: [0|29|2|TRANSACTION|3]
+22:04:04 - Couldn't send message: [0|26|9|TRANSACTION|3]
+22:04:04 - Couldn't send message: [0|18|9|TRANSACTION|3]
+22:04:04 - Couldn't send message: [0|17|4|TRANSACTION|3]
+22:04:04 - Couldn't send message: [0|30|3|TRANSACTION|3]
+22:04:04 - Couldn't send message: [0|34|1|TRANSACTION|3]
+22:04:04 - Couldn't send message: [0|39|10|TRANSACTION|3]
+22:04:05 - Couldn't send message: [0|21|6|TRANSACTION|3]
+22:04:05 - Couldn't send message: [0|19|1|TRANSACTION|3]
+22:04:05 - Couldn't send message: [0|26|9|TRANSACTION|3]
+22:04:05 - Couldn't send message: [0|33|7|TRANSACTION|3]
+22:04:05 - Couldn't send message: [0|17|4|TRANSACTION|3]
+22:04:05 - Couldn't send message: [0|33|7|TRANSACTION|3]
+22:04:05 - Couldn't send message: [0|28|1|TRANSACTION|3]
+22:04:05 - Couldn't send message: [0|39|10|TRANSACTION|3]
+22:04:05 - Couldn't send message: [0|31|5|TRANSACTION|3]
+22:04:05 - Couldn't send message: [0|28|1|TRANSACTION|3]
+22:04:05 - Couldn't send message: [0|26|9|TRANSACTION|3]
+22:04:05 - Couldn't send message: [0|33|7|TRANSACTION|3]
+22:04:05 - Couldn't send message: [0|31|5|TRANSACTION|3]
+22:04:05 - Couldn't send message: [0|22|1|TRANSACTION|3]
+22:04:05 - Couldn't send message: [0|39|10|TRANSACTION|3]
+22:04:05 - Couldn't send message: [0|29|2|TRANSACTION|3]
+22:04:05 - Couldn't send message: [0|31|5|TRANSACTION|3]
+22:04:05 - Couldn't send message: [0|27|4|TRANSACTION|3]
+22:04:05 - Couldn't send message: [0|28|1|TRANSACTION|3]
+22:04:05 - Couldn't send message: [0|25|3|TRANSACTION|3]
+22:04:05 - Couldn't send message: [0|28|1|TRANSACTION|3]
+22:04:05 - Couldn't send message: [0|25|3|TRANSACTION|3]
+22:04:05 - Couldn't send message: [0|39|10|TRANSACTION|3]
+22:04:05 - Couldn't send message: [0|38|8|TRANSACTION|3]
+22:04:05 - Couldn't send message: [0|25|3|TRANSACTION|3]
+22:04:05 - 4 salje 3
+22:04:05 - Novi receiver 3
+22:04:05 - Novi receiver 3
+22:04:05 - Novi receiver 3
+22:04:05 - Novi receiver 3
+22:04:05 - Novi receiver 3
+22:04:05 - Novi receiver 3
+22:04:05 - 4 salje 0
+22:04:05 - 4 salje 0
+22:04:05 - 4 salje 0
+22:04:05 - 4 salje 0
+22:04:05 - 4 salje 0
+22:04:05 - 4 salje 0
+22:04:05 - Novi receiver 3
+22:04:05 - 4 salje 0
+22:04:05 - Novi receiver 3
+22:04:05 - Novi receiver 3
+22:04:05 - Novi receiver 3
+22:04:05 - Novi receiver 3
+22:04:05 - Novi receiver 3
+22:04:05 - Novi receiver 3
+22:04:05 - Novi receiver 3
+22:04:05 - Novi receiver 3
+22:04:05 - Novi receiver 3
+22:04:05 - Novi receiver 3
+22:04:05 - Novi receiver 3
+22:04:05 - 4 salje 0
+22:04:05 - 4 salje 0
+22:04:05 - 4 salje 0
+22:04:05 - 4 salje 0
+22:04:05 - 4 salje 0
+22:04:05 - Couldn't send message: [0|29|2|TRANSACTION|3]
+22:04:05 - Couldn't send message: [0|27|4|TRANSACTION|3]
+22:04:05 - Couldn't send message: [0|24|8|TRANSACTION|3]
+22:04:05 - Couldn't send message: [0|30|3|TRANSACTION|3]
+22:04:05 - Couldn't send message: [0|25|3|TRANSACTION|3]
+22:04:05 - Couldn't send message: [0|38|8|TRANSACTION|3]
+22:04:05 - Couldn't send message: [0|25|3|TRANSACTION|3]
+22:04:05 - Couldn't send message: [0|37|8|TRANSACTION|3]
+22:04:05 - Couldn't send message: [0|22|1|TRANSACTION|3]
+22:04:06 - Couldn't send message: [0|37|8|TRANSACTION|3]
+22:04:06 - Couldn't send message: [0|29|2|TRANSACTION|3]
+22:04:06 - Couldn't send message: [0|33|7|TRANSACTION|3]
+22:04:06 - Couldn't send message: [0|31|5|TRANSACTION|3]
+22:04:06 - Couldn't send message: [0|34|1|TRANSACTION|3]
+22:04:06 - Couldn't send message: [0|34|1|TRANSACTION|3]
+22:04:06 - Couldn't send message: [0|39|10|TRANSACTION|3]
+22:04:06 - Couldn't send message: [0|34|1|TRANSACTION|3]
+22:04:06 - Couldn't send message: [0|28|1|TRANSACTION|3]
+22:04:06 - Couldn't send message: [0|31|5|TRANSACTION|3]
+22:04:06 - Couldn't send message: [0|38|8|TRANSACTION|3]
+22:04:06 - Couldn't send message: [0|33|7|TRANSACTION|3]
+22:04:06 - Couldn't send message: [0|37|8|TRANSACTION|3]
+22:04:06 - Couldn't send message: [0|35|8|TRANSACTION|3]
+22:04:06 - Couldn't send message: [0|33|7|TRANSACTION|3]
+22:04:07 - 4 salje 1
+22:04:07 - Novi receiver 3
+22:04:07 - Novi receiver 3
+22:04:07 - Novi receiver 3
+22:04:07 - Novi receiver 3
+22:04:07 - Novi receiver 3
+22:04:07 - Novi receiver 3
+22:04:08 - 4 salje 1

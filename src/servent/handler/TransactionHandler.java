@@ -11,7 +11,7 @@ public class TransactionHandler implements MessageHandler {
 
 	private Message clientMessage;
 	private BitcakeManager bitcakeManager;
-	
+
 	public TransactionHandler(Message clientMessage, BitcakeManager bitcakeManager) {
 		this.clientMessage = clientMessage;
 		this.bitcakeManager = bitcakeManager;
@@ -19,10 +19,17 @@ public class TransactionHandler implements MessageHandler {
 
 	@Override
 	public void run() {
-		if (bitcakeManager instanceof ABBitcakeManager) {
-			ABBitcakeManager manager = (ABBitcakeManager)bitcakeManager;
-//			manager.addPendingMessage(clientMessage);
-//			manager.checkPendingMessages();
+		try {
+			if (bitcakeManager instanceof ABBitcakeManager) {
+
+				ABBitcakeManager manager = (ABBitcakeManager) bitcakeManager;
+
+				int amount = Integer.parseInt(clientMessage.getMessageText());
+
+				manager.addSomeBitcakes(amount);
+			}
+		} catch (Exception e) {
+			e.printStackTrace();
 		}
 	}
 

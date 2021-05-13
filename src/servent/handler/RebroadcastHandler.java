@@ -2,6 +2,9 @@ package servent.handler;
 
 import app.AppConfig;
 import servent.message.Message;
+import servent.message.MessageType;
+import servent.message.TransactionMessage;
+import servent.message.snapshot.ABTellMessage;
 import servent.message.util.MessageUtil;
 
 /**
@@ -23,7 +26,16 @@ public class RebroadcastHandler implements MessageHandler {
 
 		for (Integer neighbor : AppConfig.myServentInfo.getNeighbors()) {
 			try {
-				MessageUtil.sendMessage(clientMessage.changeReceiver(neighbor).makeMeASender());
+				if(clientMessage.getMessageType() == MessageType.AB_TELL) {
+					ABTellMessage abTellMessage = (ABTellMessage) clientMessage;
+					MessageUtil.sendMessage(abTellMessage.changeReceiver(neighbor).makeMeASender());
+				}if(clientMessage.getMessageType() == MessageType.TRANSACTION) {
+					TransactionMessage transactionMessage = (TransactionMessage) clientMessage;
+					MessageUtil.sendMessage(transactionMessage.changeReceiver(neighbor).makeMeASender());
+				}else {
+					
+					MessageUtil.sendMessage(clientMessage.changeReceiver(neighbor).makeMeASender());
+				}
 			} catch (Exception e) {
 				e.printStackTrace();
 			}

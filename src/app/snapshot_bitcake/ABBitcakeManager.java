@@ -53,19 +53,18 @@ public class ABBitcakeManager implements BitcakeManager {
 		});
 	}
 
-	public void markerEvent(int collectorId) {
+	public void markerEvent(int collectorId, SnapshotCollectorWorker snapshotCollectorWorker) {
 		synchronized (AppConfig.lock) {
-			recordedAmount = getCurrentBitcakeAmount();
 			
 			for (int i = 0; i < AppConfig.getServentCount(); i++) {
+				if(i == AppConfig.myServentInfo.getId()) continue;
 				Map<Integer, Integer> vectorClock = CausalShared.getVectorClock();
-				if (AppConfig.myServentInfo.getId() == i) {
-					continue;
-				}
+
 				Message abMarker = new ABMarkerMessage(MessageType.AB_MARKER, AppConfig.myServentInfo, null,
 						AppConfig.getInfoById(i), vectorClock);
-
+		//		abMarker.getRoute().add(AppConfig.myServentInfo);
 				for (Integer neighbour : AppConfig.myServentInfo.getNeighbors()) {
+					//AppConfig.timestampedStandardPrint("moj komsija " + neighbour);
 					abMarker = abMarker.changeReceiver(neighbour);
 					MessageUtil.sendMessage(abMarker);
 				}
@@ -73,35 +72,39 @@ public class ABBitcakeManager implements BitcakeManager {
 				abMarker = abMarker.changeReceiver(AppConfig.myServentInfo.getId());
 				CausalShared.commitCausalMessage(abMarker);
 			}
+			
+			recordedAmount = getCurrentBitcakeAmount();
+			ABSnapshotResult snapshotResult = new ABSnapshotResult(AppConfig.myServentInfo.getId(), recordedAmount);
+			snapshotCollectorWorker.addABSnapshotInfo(collectorId, snapshotResult);
 		}
 	}
 
 	public void handleMarker(Message clientMessage, SnapshotCollector snapshotCollector) {
-		AppConfig.timestampedStandardPrint("usao sam u handle marker");
+		
 		synchronized (AppConfig.lock) {
 			
-			ServentInfo iniciator = clientMessage.getRoute().get(0);
+			ServentInfo iniciator = clientMessage.getOriginalSenderInfo();
+			AppConfig.timestampedStandardPrint("Iniciator je " + iniciator.getId() + " a ja sam " + clientMessage.getTargetInfo().getId());
 			recordedAmount = getCurrentBitcakeAmount();
 			ABSnapshotResult snapshotResult = new ABSnapshotResult(AppConfig.myServentInfo.getId(), recordedAmount);
 
-			if (AppConfig.myServentInfo.getId() == iniciator.getId()) {
-				snapshotCollector.addABSnapshotInfo(iniciator.getId(), snapshotResult);
-			} else {
+			
 				Map<Integer, Integer> vectorClock = CausalShared.getVectorClock();
 
 				Message abTellMessage = new ABTellMessage(MessageType.AB_TELL, AppConfig.myServentInfo, null, iniciator,
 						vectorClock, snapshotResult);
+				AppConfig.timestampedErrorPrint("nakon inita: " + abTellMessage.getClass().toString());
+				
 
 				for (Integer neighbour : AppConfig.myServentInfo.getNeighbors()) {
 					abTellMessage = abTellMessage.changeReceiver(neighbour);
+					
 					MessageUtil.sendMessage(abTellMessage);	
 				}
 				
 				abTellMessage = abTellMessage.changeReceiver(AppConfig.myServentInfo.getId());
 				CausalShared.commitCausalMessage(abTellMessage);
 				recordedAmount = 0;
-			}
-
 			
 		}
 	}

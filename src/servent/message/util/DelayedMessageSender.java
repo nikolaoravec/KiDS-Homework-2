@@ -40,17 +40,7 @@ public class DelayedMessageSender implements Runnable {
 			AppConfig.timestampedStandardPrint("Sending message " + messageToSend);
 		}
 		
-		try {
-			/*
-			 * Similar sync block to the one in FifoSenderWorker, except this one is
-			 * related to Lai-Yang. We want to be sure that message color is red if we
-			 * are red. Just setting the attribute when we were making the message may
-			 * have been to early.
-			 * All messages that declare their own stuff (eg. LYTellMessage) will have
-			 * to override setRedColor() because of this.
-			 */
-			
-				
+		try {	
 			Socket sendSocket = new Socket(receiverInfo.getIpAddress(), receiverInfo.getListenerPort());
 			
 			ObjectOutputStream oos = new ObjectOutputStream(sendSocket.getOutputStream());
@@ -59,7 +49,7 @@ public class DelayedMessageSender implements Runnable {
 			
 			sendSocket.close();
 			
-			messageToSend.sendEffect();
+//			messageToSend.sendEffect();
 			
 		} catch (IOException e) {
 			AppConfig.timestampedErrorPrint("Couldn't send message: " + messageToSend.toString());

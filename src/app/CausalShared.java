@@ -1,11 +1,9 @@
 package app;
 
-import java.util.Collections;
 import java.util.Iterator;
 import java.util.List;
 import java.util.Map;
 import java.util.Queue;
-import java.util.Set;
 import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.ConcurrentLinkedQueue;
 import java.util.concurrent.CopyOnWriteArrayList;
@@ -17,9 +15,11 @@ import servent.handler.BasicMessageHandler;
 import servent.handler.MessageHandler;
 import servent.handler.NullHandler;
 import servent.handler.RebroadcastHandler;
+import servent.handler.TransactionHandler;
 import servent.handler.snapshot.ABMarkerHandler;
 import servent.handler.snapshot.ABTellHandler;
 import servent.message.Message;
+import servent.message.snapshot.ABTellMessage;
 
 
 /**
@@ -41,8 +41,6 @@ public class CausalShared {
 	private final static Queue<Message> pendingMessages = new ConcurrentLinkedQueue<>();
 	private final static Object pendingMessagesLock = new Object();
 	private static SnapshotCollector snapshotCollector;
-
-	private final static Set<Message> receivedBroadcasts = Collections.newSetFromMap(new ConcurrentHashMap<Message, Boolean>());
 	
 	private final static ExecutorService threadPool = Executors.newCachedThreadPool();
 	
@@ -116,22 +114,12 @@ public class CausalShared {
 				while (iterator.hasNext()) {
 					
 					Message pendingMessage = iterator.next();
-					if(pendingMessage.getOriginalSenderInfo().getId() == AppConfig.myServentInfo.getId()) {
-						iterator.remove();
-						continue;
-					}
-					
-					if(!receivedBroadcasts.add(pendingMessage)) {
-						iterator.remove();
-						continue;
-					}
-					
+//					AppConfig.timestampedErrorPrint("Poruka od: " + pendingMessage.getOriginalSenderInfo() + 
+//							"  Za:" + pendingMessage.getTargetInfo() + "  VectorClock poruke:" +
+//							pendingMessage.getVectorClock() + "  Moj VC:" + myVectorClock);
+//					
+//					
 					MessageHandler messagehandler = new NullHandler(pendingMessage);
-					
-					if (AppConfig.myServentInfo.getId() != pendingMessage.getTargetInfo().getId()) {
-						iterator.remove();
-						continue;
-					}
 					
 					if(!AppConfig.IS_CLIQUE) {
 						messagehandler = new RebroadcastHandler(pendingMessage);
@@ -139,34 +127,43 @@ public class CausalShared {
 					}
 					
 					if (!otherClockGreater(myVectorClock, pendingMessage.getVectorClock())) {
-						AppConfig.timestampedStandardPrint("usao sam ovde sa porukom " + pendingMessage );
+						AppConfig.timestampedErrorPrint("da li je ab_tell: " + (pendingMessage instanceof ABTellMessage));
 						gotWork = true;
-						
-						switch (pendingMessage.getMessageType()) {
-						case BASIC: 
-							messagehandler = new BasicMessageHandler(pendingMessage);
-						case TRANSACTION:
-							//messagehandler = new TransactionHandler(clientMessage, snapshotCollector.getBitcakeManager());
-							break;
-						case AB_MARKER:
-							messagehandler = new ABMarkerHandler(pendingMessage, snapshotCollector);
-							break;
-						case AB_TELL:
-//							messagehandler = new ABTellHandler(pendingMessage, snapshotCollector);
-							break;
-						case AV_MARKER:
-							//messagehandler = new AVMarkerHandler();
-							break;
-					//	case AV_TELL:
-							//messageHandler = new АVTellHandler(clientMessage, snapshotCollector);
-						default :
-							break;
+						if (AppConfig.myServentInfo.getId() == pendingMessage.getTargetInfo().getId()) {
+							
+							
+							switch (pendingMessage.getMessageType()) {
+							case BASIC: 
+								messagehandler = new BasicMessageHandler(pendingMessage);
+								break;
+							case TRANSACTION:
+								messagehandler = new TransactionHandler(pendingMessage, snapshotCollector.getBitcakeManager());
+								break;
+							case AB_MARKER:
+								messagehandler = new ABMarkerHandler(pendingMessage, snapshotCollector);
+								break;
+							case AB_TELL:
+								AppConfig.timestampedStandardPrint("AB_TELL HANDLE" );
+								messagehandler = new ABTellHandler(pendingMessage, snapshotCollector);
+								break;
+							case AV_MARKER:
+								//messagehandler = new AVMarkerHandler();
+								break;
+						//	case AV_TELL:
+								//messageHandler = new АVTellHandler(clientMessage, snapshotCollector);
+							default :
+								break;
+							}
+							try {
+								threadPool.submit(messagehandler);
+							} catch (Exception e) {
+								e.printStackTrace();
+							}
+							
 						}
-						threadPool.submit(messagehandler);
 						commitedCausalMessageList.add(pendingMessage);
 						AppConfig.timestampedStandardPrint("Commiting from : " + pendingMessage);
 						incrementClock(pendingMessage.getOriginalSenderInfo().getId());
-						
 						iterator.remove();
 						
 						break;

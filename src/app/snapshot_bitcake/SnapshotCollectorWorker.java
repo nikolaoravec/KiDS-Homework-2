@@ -73,7 +73,7 @@ public class SnapshotCollectorWorker implements SnapshotCollector {
 			//1 send asks
 			switch (snapshotType) {
 			case AB:
-				((ABBitcakeManager)bitcakeManager).markerEvent(AppConfig.myServentInfo.getId());
+				((ABBitcakeManager)bitcakeManager).markerEvent(AppConfig.myServentInfo.getId(), this);
 				break;
 			case AV:
 				//((AVBitcakeManager)bitcakeManager).markerEvent(AppConfig.myServentInfo.getId(), this);
@@ -88,6 +88,7 @@ public class SnapshotCollectorWorker implements SnapshotCollector {
 			while (waiting) {
 				switch (snapshotType) {
 				case AB:
+					AppConfig.timestampedErrorPrint("BROJ COLLECTED VALUES "+collectedABValues.size());
 					if (collectedABValues.size() == AppConfig.getServentCount()) {
 						waiting = false;
 					}

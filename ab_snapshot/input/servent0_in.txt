@@ -1,4 +1,5 @@
-pause 500
+transaction_burst
+pause 10000
 snapshot
-pause 25000
+pause 20000
 stop

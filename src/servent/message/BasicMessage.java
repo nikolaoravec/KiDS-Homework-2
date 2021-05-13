@@ -104,7 +104,7 @@ public class BasicMessage implements Message {
 		return vectorClock;
 	}
 	
-	protected BasicMessage(MessageType type, 
+	public BasicMessage(MessageType type, 
 			ServentInfo originalSenderInfo, 
 			ServentInfo receiverInfo,
 			ServentInfo targetInfo,

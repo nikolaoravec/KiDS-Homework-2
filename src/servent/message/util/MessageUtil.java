@@ -11,7 +11,6 @@ import java.util.concurrent.LinkedBlockingQueue;
 
 import app.AppConfig;
 import servent.message.Message;
-import servent.message.MessageType;
 
 /**
  * For now, just the read and send implementation, based on Java serializing.
@@ -52,13 +51,6 @@ public class MessageUtil {
 	
 			clientMessage = (Message) ois.readObject();
 			
-			if (AppConfig.IS_FIFO) {
-				String response = "ACK";
-				ObjectOutputStream oos = new ObjectOutputStream(socket.getOutputStream());
-				oos.writeObject(response);
-				oos.flush();
-			}
-			
 			socket.close();
 		} catch (IOException e) {
 			AppConfig.timestampedErrorPrint("Error in reading socket on " +
@@ -76,7 +68,9 @@ public class MessageUtil {
 	
 	public static void sendMessage(Message message) {
 		
-		Thread delayedSender = new Thread(new DelayedMessageSender(message));
+		DelayedMessageSender delayedMessageSender = new DelayedMessageSender(message);
+		
+		Thread delayedSender = new Thread(delayedMessageSender);
 		
 		delayedSender.start();
 		

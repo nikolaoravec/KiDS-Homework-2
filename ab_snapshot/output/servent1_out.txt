@@ -1,6 +1,66 @@
-19:36:36 - Starting servent [1|localhost|1200]
-19:36:36 - Pausing for 30000 ms
-19:36:38 - usao sam ovde sa porukom [0|0||AB_MARKER|1]
-19:36:38 - Commiting from : [0|0||AB_MARKER|1]
-19:36:38 - usao sam u handle marker
-19:37:06 - Stopping...
+22:03:51 - Starting servent [1|localhost|1200]
+22:03:51 - Pausing for 30000 ms
+22:03:52 - Commiting from : [0|9|1|TRANSACTION|1]
+22:03:52 - Commiting from : [0|3|9|TRANSACTION|1]
+22:03:52 - Commiting from : [0|7|6|TRANSACTION|1]
+22:03:52 - Commiting from : [0|10|4|TRANSACTION|1]
+22:03:52 - Commiting from : [0|5|3|TRANSACTION|1]
+22:03:52 - Commiting from : [0|14|8|TRANSACTION|1]
+22:03:52 - Commiting from : [0|15|6|TRANSACTION|1]
+22:03:52 - Commiting from : [0|13|4|TRANSACTION|1]
+22:03:52 - Commiting from : [0|8|5|TRANSACTION|1]
+22:03:52 - Commiting from : [0|16|2|TRANSACTION|1]
+22:03:52 - Commiting from : [0|19|1|TRANSACTION|1]
+22:03:52 - Commiting from : [0|20|8|TRANSACTION|1]
+22:03:52 - Commiting from : [0|18|9|TRANSACTION|1]
+22:03:52 - Commiting from : [0|22|1|TRANSACTION|1]
+22:03:52 - Commiting from : [0|23|4|TRANSACTION|1]
+22:03:52 - Commiting from : [0|11|9|TRANSACTION|1]
+22:03:52 - Commiting from : [0|2|9|TRANSACTION|1]
+22:03:52 - Commiting from : [0|26|9|TRANSACTION|1]
+22:03:52 - Commiting from : [0|4|4|TRANSACTION|1]
+22:03:52 - Commiting from : [0|21|6|TRANSACTION|1]
+22:03:52 - Commiting from : [0|0|7|TRANSACTION|1]
+22:03:52 - Commiting from : [0|28|1|TRANSACTION|1]
+22:03:52 - Commiting from : [0|29|2|TRANSACTION|1]
+22:03:52 - Commiting from : [0|1|4|TRANSACTION|1]
+22:03:53 - Commiting from : [0|25|3|TRANSACTION|1]
+22:03:53 - Commiting from : [0|30|3|TRANSACTION|1]
+22:03:53 - Commiting from : [0|31|5|TRANSACTION|1]
+22:03:53 - Commiting from : [0|32|1|TRANSACTION|1]
+22:03:53 - Commiting from : [0|33|7|TRANSACTION|1]
+22:03:53 - Commiting from : [0|6|4|TRANSACTION|1]
+22:03:53 - Commiting from : [0|17|4|TRANSACTION|1]
+22:03:53 - Commiting from : [0|34|1|TRANSACTION|1]
+22:03:53 - Commiting from : [0|27|4|TRANSACTION|1]
+22:03:53 - Commiting from : [0|36|8|TRANSACTION|1]
+22:03:53 - Commiting from : [0|37|8|TRANSACTION|1]
+22:03:53 - Commiting from : [0|12|1|TRANSACTION|1]
+22:03:53 - Commiting from : [0|38|8|TRANSACTION|1]
+22:03:53 - Commiting from : [0|39|10|TRANSACTION|1]
+22:03:53 - Commiting from : [0|35|8|TRANSACTION|1]
+22:03:53 - Commiting from : [0|24|8|TRANSACTION|1]
+22:04:01 - Waiting...
+22:04:02 - Waiting...
+22:04:03 - Commiting from : [0|40||AB_MARKER|1]
+22:04:03 - Commiting from : [0|41||AB_MARKER|1]
+22:04:03 - Commiting from : [0|42||AB_MARKER|1]
+22:04:03 - Commiting from : [0|43||AB_MARKER|1]
+22:04:03 - Iniciator je 0 a ja sam 1
+Committing my msg [1|0||AB_TELL|1]
+22:04:05 - Commiting from : [3|0||AB_TELL|1]
+22:04:08 - Waiting...
+22:04:09 - Waiting...
+22:04:10 - Waiting...
+22:04:11 - Waiting...
+22:04:12 - Waiting...
+22:04:13 - Waiting...
+22:04:14 - Waiting...
+22:04:16 - Waiting...
+22:04:17 - Waiting...
+22:04:18 - Waiting...
+22:04:19 - Waiting...
+22:04:20 - Waiting...
+22:04:21 - Waiting...
+22:04:21 - Stopping...
+22:04:22 - Waiting...

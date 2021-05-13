@@ -1,8 +1,9 @@
 package app.snapshot_bitcake;
 
+import java.io.Serializable;
 import java.util.concurrent.atomic.AtomicInteger;
 
-public class AVBitcakeManager implements BitcakeManager {
+public class AVBitcakeManager implements BitcakeManager, Serializable {
 
 private final AtomicInteger currentAmount = new AtomicInteger(1000);
 	
