@@ -23,7 +23,7 @@ public class AVTellHandler implements MessageHandler {
 			AVTellMessage avTellMessage = (AVTellMessage)clientMessage;
 			
 			snapshotCollector.addAVSnapshotInfo(avTellMessage.getOriginalSenderInfo().getId(),
-					avTellMessage.getAVSnapshotResult());
+					avTellMessage.getAvSnapshotResult());
 		} else {
 			AppConfig.timestampedErrorPrint("Tell amount handler got: " + clientMessage);
 		}

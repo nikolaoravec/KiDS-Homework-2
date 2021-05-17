@@ -1,0 +1,173 @@
+18:51:07 - 0 salje 1
+18:51:07 - Novi receiver 1
+18:51:07 - da li je ab_tell: false
+18:51:07 - Novi receiver 2
+18:51:07 - 0 salje 1
+18:51:07 - da li je ab_tell: false
+18:51:07 - Novi receiver 1
+18:51:07 - Novi receiver 2
+18:51:07 - 0 salje 1
+18:51:07 - Novi receiver 1
+18:51:07 - Novi receiver 2
+18:51:08 - 0 salje 1
+18:51:08 - da li je ab_tell: false
+18:51:08 - da li je ab_tell: false
+18:51:08 - Novi receiver 1
+18:51:08 - Novi receiver 2
+18:51:08 - Novi receiver 1
+18:51:08 - Novi receiver 2
+18:51:08 - 0 salje 1
+18:51:08 - da li je ab_tell: false
+18:51:08 - Novi receiver 1
+18:51:08 - Novi receiver 2
+18:51:08 - Novi receiver 1
+18:51:08 - Novi receiver 2
+18:51:08 - 0 salje 2
+18:51:08 - Novi receiver 1
+18:51:08 - Novi receiver 2
+18:51:08 - 0 salje 1
+18:51:08 - 0 salje 1
+18:51:08 - 0 salje 1
+18:51:08 - 0 salje 1
+18:51:08 - 0 salje 1
+18:51:08 - 0 salje 1
+18:51:08 - 0 salje 2
+18:51:08 - Novi receiver 1
+18:51:08 - Novi receiver 1
+18:51:08 - Novi receiver 2
+18:51:08 - Novi receiver 2
+18:51:08 - 0 salje 1
+18:51:08 - 0 salje 1
+18:51:08 - 0 salje 1
+18:51:08 - 0 salje 1
+18:51:09 - 0 salje 1
+18:51:09 - 0 salje 1
+18:51:09 - 0 salje 1
+18:51:09 - 0 salje 1
+18:51:09 - 0 salje 1
+18:51:09 - 0 salje 2
+18:51:09 - da li je ab_tell: false
+18:51:09 - 0 salje 1
+18:51:09 - Novi receiver 1
+18:51:09 - Novi receiver 1
+18:51:09 - Novi receiver 2
+18:51:09 - Novi receiver 1
+18:51:09 - Novi receiver 2
+18:51:09 - Novi receiver 2
+18:51:09 - 0 salje 1
+18:51:09 - 0 salje 1
+18:51:09 - Novi receiver 1
+18:51:09 - Novi receiver 2
+18:51:09 - Novi receiver 1
+18:51:09 - 0 salje 2
+18:51:09 - Novi receiver 2
+18:51:09 - Novi receiver 1
+18:51:09 - Novi receiver 2
+18:51:09 - Novi receiver 1
+18:51:09 - Novi receiver 2
+18:51:09 - Novi receiver 1
+18:51:09 - Novi receiver 2
+18:51:09 - 0 salje 1
+18:51:09 - 0 salje 2
+18:51:09 - da li je ab_tell: false
+18:51:09 - da li je ab_tell: false
+18:51:09 - da li je ab_tell: false
+18:51:09 - da li je ab_tell: false
+18:51:09 - 0 salje 1
+18:51:09 - 0 salje 1
+18:51:10 - Novi receiver 1
+18:51:10 - Novi receiver 2
+18:51:10 - Novi receiver 1
+18:51:10 - Novi receiver 1
+18:51:10 - Novi receiver 2
+18:51:10 - Novi receiver 1
+18:51:10 - Novi receiver 1
+18:51:10 - Novi receiver 2
+18:51:10 - 0 salje 1
+18:51:10 - Novi receiver 1
+18:51:10 - Novi receiver 2
+18:51:10 - 0 salje 2
+18:51:10 - Novi receiver 1
+18:51:10 - Novi receiver 2
+18:51:10 - 0 salje 1
+18:51:10 - Novi receiver 2
+18:51:10 - Novi receiver 2
+18:51:10 - Novi receiver 1
+18:51:10 - Novi receiver 2
+18:51:10 - 0 salje 1
+18:51:10 - 0 salje 2
+18:51:10 - 0 salje 1
+18:51:10 - 0 salje 1
+18:51:10 - 0 salje 2
+18:51:11 - 0 salje 2
+18:51:11 - 0 salje 2
+18:51:11 - 0 salje 2
+18:51:11 - 0 salje 4
+18:51:11 - 0 salje 4
+18:51:11 - 0 salje 4
+18:51:11 - 0 salje 2
+18:51:11 - 0 salje 4
+18:51:12 - 0 salje 2
+18:51:12 - 0 salje 2
+18:51:12 - 0 salje 4
+18:51:12 - 0 salje 4
+18:51:12 - 0 salje 4
+18:51:12 - da li je ab_tell: false
+18:51:12 - 0 salje 4
+18:51:12 - 0 salje 4
+18:51:12 - da li je ab_tell: false
+18:51:12 - 0 salje 4
+18:51:12 - 0 salje 4
+18:51:13 - 0 salje 4
+18:51:15 - 0 salje 4
+18:51:15 - 0 salje 2
+18:51:15 - 0 salje 2
+18:51:15 - 0 salje 2
+18:51:15 - 0 salje 4
+18:51:15 - 0 salje 4
+18:51:15 - 0 salje 4
+18:51:15 - 0 salje 4
+18:51:15 - 0 salje 4
+18:51:15 - 0 salje 4
+18:51:15 - 0 salje 4
+18:51:15 - 0 salje 2
+18:51:15 - 0 salje 2
+18:51:15 - 0 salje 2
+18:51:15 - 0 salje 4
+18:51:15 - 0 salje 4
+18:51:15 - 0 salje 1
+18:51:15 - da li je ab_tell: false
+18:51:15 - 0 salje 4
+18:51:15 - 0 salje 3
+18:51:15 - 0 salje 4
+18:51:15 - 0 salje 4
+18:51:15 - 0 salje 3
+18:51:15 - 0 salje 4
+18:51:15 - 0 salje 4
+18:51:15 - 0 salje 4
+18:51:15 - 0 salje 4
+18:51:15 - 0 salje 4
+18:51:15 - da li je ab_tell: false
+18:51:15 - da li je ab_tell: false
+18:51:15 - da li je ab_tell: false
+18:51:15 - da li je ab_tell: false
+18:51:15 - 0 salje 3
+18:51:15 - 0 salje 4
+18:51:15 - 0 salje 2
+18:51:15 - da li je ab_tell: false
+18:51:15 - 0 salje 4
+18:51:15 - 0 salje 4
+18:51:15 - 0 salje 4
+18:51:15 - 0 salje 4
+18:51:15 - 0 salje 4
+18:51:15 - 0 salje 4
+18:51:15 - 0 salje 4
+18:51:15 - 0 salje 4
+18:51:15 - 0 salje 1
+18:51:15 - 0 salje 3
+18:51:15 - 0 salje 5
+18:51:15 - da li je ab_tell: false
+18:51:16 - 0 salje 2
+18:51:16 - 0 salje 0
+18:51:16 - 0 salje 0
+18:51:17 - 0 salje 5

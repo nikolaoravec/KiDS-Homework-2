@@ -1,1103 +1,214 @@
-22:03:51 - Novi receiver 1
-22:03:51 - Novi receiver 1
-22:03:51 - Ja sam 0 i saljem bitcake [1|localhost|1200]
-22:03:51 - Novi receiver 1
-22:03:51 - Novi receiver 1
-22:03:51 - Novi receiver 1
-22:03:51 - Ja sam 0 i saljem bitcake [1|localhost|1200]
-22:03:51 - Ja sam 0 i saljem bitcake [1|localhost|1200]
-22:03:51 - Ja sam 0 i saljem bitcake [1|localhost|1200]
-22:03:51 - Novi receiver 1
-22:03:51 - Novi receiver 1
-22:03:51 - Ja sam 0 i saljem bitcake [1|localhost|1200]
-22:03:51 - Novi receiver 1
-22:03:51 - Ja sam 0 i saljem bitcake [1|localhost|1200]
-22:03:51 - Novi receiver 3
-22:03:51 - Novi receiver 3
-22:03:51 - Ja sam 0 i saljem bitcake [1|localhost|1200]
-22:03:51 - Ja sam 0 i saljem bitcake [1|localhost|1200]
-22:03:51 - usao sam u bitcake
-22:03:51 - usao sam u bitcake
-22:03:51 - Novi receiver 3
-22:03:51 - Novi receiver 0
-22:03:51 - Ja sam 0 i saljem bitcake [1|localhost|1200]
-22:03:51 - Novi receiver 1
-22:03:51 - Ja sam 0 i saljem bitcake [2|localhost|1300]
-22:03:51 - Novi receiver 3
-22:03:51 - Ja sam 0 i saljem bitcake [2|localhost|1300]
-22:03:51 - usao sam u bitcake
-22:03:51 - Novi receiver 3
-22:03:51 - Novi receiver 0
-22:03:51 - Novi receiver 3
-22:03:51 - Novi receiver 1
-22:03:51 - Ja sam 0 i saljem bitcake [1|localhost|1200]
-22:03:51 - Ja sam 0 i saljem bitcake [1|localhost|1200]
-22:03:51 - usao sam u bitcake
-22:03:51 - Novi receiver 1
-22:03:51 - Novi receiver 0
-22:03:51 - Ja sam 0 i saljem bitcake [1|localhost|1200]
-22:03:51 - usao sam u bitcake
-22:03:51 - Novi receiver 3
-22:03:51 - Ja sam 0 i saljem bitcake [1|localhost|1200]
-22:03:51 - usao sam u bitcake
-22:03:51 - Ja sam 0 i saljem bitcake [1|localhost|1200]
-22:03:51 - Ja sam 0 i saljem bitcake [3|localhost|1400]
-22:03:51 - Novi receiver 0
-22:03:51 - Novi receiver 0
-22:03:51 - Novi receiver 3
-22:03:51 - Novi receiver 3
-22:03:51 - Ja sam 0 i saljem bitcake [1|localhost|1200]
-22:03:51 - Novi receiver 1
-22:03:51 - Novi receiver 1
-22:03:51 - Ja sam 0 i saljem bitcake [2|localhost|1300]
-22:03:51 - Ja sam 0 i saljem bitcake [1|localhost|1200]
-22:03:51 - usao sam u bitcake
-22:03:51 - Ja sam 0 i saljem bitcake [1|localhost|1200]
-22:03:51 - Novi receiver 0
-22:03:51 - Novi receiver 3
-22:03:51 - Novi receiver 3
-22:03:51 - Ja sam 0 i saljem bitcake [2|localhost|1300]
-22:03:51 - Ja sam 0 i saljem bitcake [1|localhost|1200]
-22:03:51 - Novi receiver 1
-22:03:51 - Novi receiver 1
-22:03:51 - Ja sam 0 i saljem bitcake [2|localhost|1300]
-22:03:51 - Ja sam 0 i saljem bitcake [2|localhost|1300]
-22:03:51 - Ja sam 0 i saljem bitcake [3|localhost|1400]
-22:03:51 - Novi receiver 3
-22:03:51 - usao sam u bitcake
-22:03:51 - Ja sam 0 i saljem bitcake [2|localhost|1300]
-22:03:51 - Novi receiver 0
-22:03:51 - usao sam u bitcake
-22:03:51 - usao sam u bitcake
-22:03:51 - Novi receiver 0
-22:03:51 - Novi receiver 3
-22:03:51 - Novi receiver 0
-22:03:51 - Ja sam 0 i saljem bitcake [2|localhost|1300]
-22:03:51 - Novi receiver 1
-22:03:51 - Novi receiver 1
-22:03:51 - Ja sam 0 i saljem bitcake [2|localhost|1300]
-22:03:51 - usao sam u bitcake
-22:03:51 - Novi receiver 0
-22:03:51 - Novi receiver 3
-22:03:51 - usao sam u bitcake
-22:03:51 - Novi receiver 1
-22:03:51 - Ja sam 0 i saljem bitcake [2|localhost|1300]
-22:03:51 - Novi receiver 0
-22:03:51 - Ja sam 0 i saljem bitcake [3|localhost|1400]
-22:03:51 - usao sam u bitcake
-22:03:51 - Novi receiver 1
-22:03:51 - Novi receiver 3
-22:03:51 - Ja sam 0 i saljem bitcake [3|localhost|1400]
-22:03:51 - Novi receiver 0
-22:03:51 - Novi receiver 0
-22:03:51 - Novi receiver 3
-22:03:51 - Novi receiver 1
-22:03:51 - Ja sam 0 i saljem bitcake [3|localhost|1400]
-22:03:51 - Novi receiver 3
-22:03:51 - Ja sam 0 i saljem bitcake [3|localhost|1400]
-22:03:51 - Ja sam 0 i saljem bitcake [1|localhost|1200]
-22:03:51 - Novi receiver 1
-22:03:51 - Novi receiver 3
-22:03:51 - usao sam u bitcake
-22:03:51 - Ja sam 0 i saljem bitcake [3|localhost|1400]
-22:03:51 - Novi receiver 0
-22:03:51 - usao sam u bitcake
-22:03:51 - Novi receiver 0
-22:03:51 - Ja sam 0 i saljem bitcake [3|localhost|1400]
-22:03:51 - Novi receiver 1
-22:03:51 - Novi receiver 1
-22:03:51 - usao sam u bitcake
-22:03:51 - Ja sam 0 i saljem bitcake [3|localhost|1400]
-22:03:51 - Novi receiver 3
-22:03:51 - Novi receiver 0
-22:03:51 - Ja sam 0 i saljem bitcake [1|localhost|1200]
-22:03:51 - Novi receiver 3
-22:03:51 - Novi receiver 1
-22:03:51 - Ja sam 0 i saljem bitcake [3|localhost|1400]
-22:03:51 - Novi receiver 1
-22:03:51 - Ja sam 0 i saljem bitcake [4|localhost|1500]
-22:03:51 - Ja sam 0 i saljem bitcake [2|localhost|1300]
-22:03:51 - usao sam u bitcake
-22:03:51 - Novi receiver 0
-22:03:51 - Novi receiver 3
-22:03:51 - Ja sam 0 i saljem bitcake [4|localhost|1500]
-22:03:51 - Novi receiver 1
-22:03:51 - Ja sam 0 i saljem bitcake [4|localhost|1500]
-22:03:51 - usao sam u bitcake
-22:03:51 - Novi receiver 0
-22:03:51 - Novi receiver 3
-22:03:51 - usao sam u bitcake
-22:03:51 - Ja sam 0 i saljem bitcake [4|localhost|1500]
-22:03:51 - Novi receiver 0
-22:03:51 - usao sam u bitcake
-22:03:51 - Novi receiver 0
-22:03:51 - Ja sam 0 i saljem bitcake [2|localhost|1300]
-22:03:51 - Ja sam 0 i saljem bitcake [4|localhost|1500]
-22:03:51 - Novi receiver 1
-22:03:51 - Novi receiver 3
-22:03:51 - usao sam u bitcake
-22:03:51 - Ja sam 0 i saljem bitcake [2|localhost|1300]
-22:03:51 - usao sam u bitcake
-22:03:51 - Novi receiver 0
-22:03:51 - Novi receiver 0
-22:03:51 - Novi receiver 3
-22:03:51 - Novi receiver 1
-22:03:51 - Ja sam 0 i saljem bitcake [2|localhost|1300]
-22:03:51 - Ja sam 0 i saljem bitcake [2|localhost|1300]
-22:03:51 - Novi receiver 3
-22:03:51 - Ja sam 0 i saljem bitcake [4|localhost|1500]
-22:03:51 - Ja sam 0 i saljem bitcake [4|localhost|1500]
-22:03:51 - Novi receiver 1
-22:03:51 - Novi receiver 3
-22:03:51 - Ja sam 0 i saljem bitcake [2|localhost|1300]
-22:03:51 - Novi receiver 3
-22:03:51 - Ja sam 0 i saljem bitcake [4|localhost|1500]
-22:03:51 - usao sam u bitcake
-22:03:51 - usao sam u bitcake
-22:03:51 - Novi receiver 0
-22:03:51 - usao sam u bitcake
-22:03:51 - Novi receiver 0
-22:03:51 - usao sam u bitcake
-22:03:51 - Novi receiver 0
-22:03:51 - Novi receiver 0
-22:03:51 - Novi receiver 1
-22:03:51 - Ja sam 0 i saljem bitcake [4|localhost|1500]
-22:03:51 - Novi receiver 1
-22:03:51 - Ja sam 0 i saljem bitcake [3|localhost|1400]
-22:03:51 - Ja sam 0 i saljem bitcake [3|localhost|1400]
-22:03:51 - Novi receiver 1
-22:03:51 - Ja sam 0 i saljem bitcake [2|localhost|1300]
-22:03:51 - Novi receiver 3
-22:03:51 - Ja sam 0 i saljem bitcake [3|localhost|1400]
-22:03:51 - Novi receiver 3
-22:03:51 - Ja sam 0 i saljem bitcake [2|localhost|1300]
-22:03:51 - usao sam u bitcake
-22:03:51 - Novi receiver 0
-22:03:51 - usao sam u bitcake
-22:03:51 - Novi receiver 0
-22:03:51 - Novi receiver 1
-22:03:51 - Ja sam 0 i saljem bitcake [4|localhost|1500]
-22:03:51 - Novi receiver 1
-22:03:51 - Ja sam 0 i saljem bitcake [3|localhost|1400]
-22:03:51 - Novi receiver 3
-22:03:51 - Ja sam 0 i saljem bitcake [4|localhost|1500]
-22:03:51 - Novi receiver 3
-22:03:51 - usao sam u bitcake
-22:03:51 - Novi receiver 3
-22:03:51 - Novi receiver 0
-22:03:51 - Ja sam 0 i saljem bitcake [4|localhost|1500]
-22:03:51 - Novi receiver 3
-22:03:51 - Ja sam 0 i saljem bitcake [2|localhost|1300]
-22:03:51 - Ja sam 0 i saljem bitcake [2|localhost|1300]
-22:03:51 - Ja sam 0 i saljem bitcake [3|localhost|1400]
-22:03:51 - usao sam u bitcake
-22:03:51 - Novi receiver 0
-22:03:51 - usao sam u bitcake
-22:03:51 - Novi receiver 0
-22:03:51 - Novi receiver 3
-22:03:51 - Ja sam 0 i saljem bitcake [3|localhost|1400]
-22:03:51 - usao sam u bitcake
-22:03:51 - Novi receiver 1
-22:03:51 - usao sam u bitcake
-22:03:51 - Ja sam 0 i saljem bitcake [4|localhost|1500]
-22:03:51 - Novi receiver 0
-22:03:51 - Novi receiver 3
-22:03:51 - Novi receiver 0
-22:03:51 - usao sam u bitcake
-22:03:51 - Novi receiver 0
-22:03:51 - Novi receiver 1
-22:03:51 - Ja sam 0 i saljem bitcake [3|localhost|1400]
-22:03:51 - Novi receiver 1
-22:03:51 - Ja sam 0 i saljem bitcake [3|localhost|1400]
-22:03:51 - Novi receiver 1
-22:03:51 - Ja sam 0 i saljem bitcake [4|localhost|1500]
-22:03:51 - Novi receiver 3
-22:03:51 - usao sam u bitcake
-22:03:51 - Ja sam 0 i saljem bitcake [3|localhost|1400]
-22:03:51 - Novi receiver 0
-22:03:51 - usao sam u bitcake
-22:03:51 - Novi receiver 0
-22:03:51 - Ja sam 0 i saljem bitcake [4|localhost|1500]
-22:03:51 - Novi receiver 3
-22:03:51 - Ja sam 0 i saljem bitcake [3|localhost|1400]
-22:03:51 - Novi receiver 1
-22:03:51 - Novi receiver 3
-22:03:51 - Ja sam 0 i saljem bitcake [4|localhost|1500]
-22:03:51 - Ja sam 0 i saljem bitcake [4|localhost|1500]
-22:03:51 - usao sam u bitcake
-22:03:51 - Novi receiver 3
-22:03:51 - Novi receiver 0
-22:03:51 - usao sam u bitcake
-22:03:51 - Ja sam 0 i saljem bitcake [4|localhost|1500]
-22:03:51 - Novi receiver 1
-22:03:51 - Novi receiver 0
-22:03:51 - usao sam u bitcake
-22:03:51 - Ja sam 0 i saljem bitcake [4|localhost|1500]
-22:03:51 - Novi receiver 0
-22:03:51 - Novi receiver 3
-22:03:51 - Ja sam 0 i saljem bitcake [4|localhost|1500]
-22:03:51 - usao sam u bitcake
-22:03:51 - Novi receiver 0
-22:03:53 - 0 salje 0
-22:03:53 - 0 salje 0
-22:03:53 - 0 salje 0
-22:03:53 - 0 salje 0
-22:03:53 - 0 salje 0
-22:03:53 - 0 salje 0
-22:03:53 - 0 salje 0
-22:03:53 - 0 salje 0
-22:03:53 - 0 salje 0
-22:03:53 - 0 salje 0
-22:03:53 - 0 salje 0
-22:03:53 - 0 salje 0
-22:03:53 - 0 salje 0
-22:03:53 - 0 salje 0
-22:03:53 - 0 salje 0
-22:03:53 - 0 salje 0
-22:03:53 - 0 salje 0
-22:03:53 - 0 salje 0
-22:03:53 - 0 salje 0
-22:03:53 - 0 salje 0
-22:03:53 - 0 salje 0
-22:03:53 - 0 salje 0
-22:03:53 - 0 salje 0
-22:03:53 - 0 salje 0
-22:03:53 - 0 salje 0
-22:03:53 - 0 salje 0
-22:03:53 - 0 salje 0
-22:03:53 - 0 salje 0
-22:03:53 - 0 salje 0
-22:03:53 - 0 salje 0
-22:03:53 - 0 salje 0
-22:03:53 - 0 salje 0
-22:03:53 - 0 salje 0
-22:03:53 - 0 salje 0
-22:03:53 - 0 salje 0
-22:03:53 - 0 salje 0
-22:03:53 - 0 salje 0
-22:03:53 - 0 salje 0
-22:03:53 - 0 salje 0
-22:03:53 - 0 salje 0
-22:03:53 - 0 salje 0
-22:03:53 - 0 salje 0
-22:03:53 - 0 salje 0
-22:03:53 - 0 salje 0
-22:03:53 - 0 salje 0
-22:03:53 - 0 salje 0
-22:03:53 - 0 salje 0
-22:03:56 - 0 salje 0
-22:03:56 - 0 salje 0
-22:03:56 - 0 salje 0
-22:03:56 - 0 salje 0
-22:03:56 - 0 salje 0
-22:03:56 - 0 salje 0
-22:03:56 - 0 salje 0
-22:03:56 - 0 salje 0
-22:03:56 - 0 salje 0
-22:03:56 - 0 salje 0
-22:03:56 - 0 salje 0
-22:03:56 - 0 salje 0
-22:03:56 - 0 salje 0
-22:03:56 - 0 salje 0
-22:03:56 - 0 salje 0
-22:03:56 - 0 salje 0
-22:03:56 - 0 salje 0
-22:03:56 - 0 salje 0
-22:03:56 - 0 salje 0
-22:03:56 - 0 salje 0
-22:03:56 - 0 salje 0
-22:03:56 - 0 salje 0
-22:03:56 - 0 salje 0
-22:03:56 - 0 salje 0
-22:03:56 - 0 salje 0
-22:03:56 - 0 salje 0
-22:03:56 - 0 salje 0
-22:03:56 - 0 salje 0
-22:03:56 - 0 salje 0
-22:03:56 - 0 salje 0
-22:03:56 - 0 salje 0
-22:03:56 - 0 salje 0
-22:03:56 - 0 salje 0
-22:03:56 - 0 salje 0
-22:03:56 - 0 salje 0
-22:03:56 - 0 salje 0
-22:03:57 - 0 salje 0
-22:03:57 - 0 salje 0
-22:03:57 - 0 salje 0
-22:03:57 - 0 salje 0
-22:03:57 - 0 salje 0
-22:03:57 - 0 salje 0
-22:03:57 - 0 salje 0
-22:03:57 - 0 salje 0
-22:03:57 - 0 salje 0
-22:03:57 - 0 salje 0
-22:03:57 - 0 salje 0
-22:03:57 - 0 salje 0
-22:03:57 - 0 salje 0
-22:03:57 - 0 salje 0
-22:03:57 - 0 salje 0
-22:03:57 - 0 salje 0
-22:03:57 - 0 salje 0
-22:03:57 - 0 salje 0
-22:03:57 - 0 salje 0
-22:03:57 - 0 salje 0
-22:03:57 - 0 salje 0
-22:03:57 - 0 salje 0
-22:03:57 - 0 salje 0
-22:03:57 - 0 salje 0
-22:03:57 - 0 salje 0
-22:03:57 - 0 salje 0
-22:03:57 - 0 salje 0
-22:03:57 - 0 salje 0
-22:03:57 - 0 salje 0
-22:03:57 - 0 salje 0
-22:03:57 - 0 salje 0
-22:03:57 - 0 salje 0
-22:03:57 - 0 salje 0
-22:03:57 - 0 salje 0
-22:03:57 - 0 salje 0
-22:03:57 - 0 salje 0
-22:03:57 - 0 salje 0
-22:03:57 - 0 salje 0
-22:03:57 - 0 salje 0
-22:03:57 - 0 salje 0
-22:03:57 - 0 salje 0
-22:03:57 - 0 salje 0
-22:03:57 - 0 salje 0
-22:03:57 - 0 salje 0
-22:03:57 - 0 salje 0
-22:03:57 - 0 salje 0
-22:03:57 - 0 salje 0
-22:03:57 - 0 salje 0
-22:03:57 - 0 salje 0
-22:03:57 - 0 salje 0
-22:03:57 - 0 salje 0
-22:03:57 - 0 salje 0
-22:03:57 - 0 salje 0
-22:03:57 - 0 salje 0
-22:03:57 - 0 salje 0
-22:03:57 - 0 salje 0
-22:03:57 - 0 salje 0
-22:03:57 - 0 salje 0
-22:03:57 - 0 salje 0
-22:03:57 - 0 salje 0
-22:03:57 - 0 salje 0
-22:03:57 - 0 salje 0
-22:03:57 - 0 salje 0
-22:03:57 - 0 salje 0
-22:03:58 - 0 salje 0
-22:03:58 - 0 salje 0
-22:03:58 - 0 salje 0
-22:03:58 - 0 salje 0
-22:03:58 - 0 salje 0
-22:03:58 - 0 salje 0
-22:03:58 - 0 salje 0
-22:03:58 - 0 salje 0
-22:03:58 - 0 salje 0
-22:03:58 - 0 salje 0
-22:03:58 - 0 salje 0
-22:03:58 - 0 salje 0
-22:03:58 - 0 salje 0
-22:03:58 - 0 salje 0
-22:03:58 - 0 salje 0
-22:03:58 - 0 salje 0
-22:03:58 - 0 salje 0
-22:03:58 - 0 salje 0
-22:03:58 - 0 salje 0
-22:03:58 - 0 salje 0
-22:03:58 - 0 salje 0
-22:03:58 - 0 salje 0
-22:03:58 - 0 salje 0
-22:03:58 - 0 salje 0
-22:03:58 - 0 salje 0
-22:03:58 - 0 salje 0
-22:03:58 - 0 salje 0
-22:03:58 - 0 salje 0
-22:03:58 - 0 salje 0
-22:03:58 - 0 salje 0
-22:03:58 - 0 salje 0
-22:03:58 - 0 salje 0
-22:03:58 - 0 salje 0
-22:03:58 - 0 salje 0
-22:03:58 - 0 salje 0
-22:03:58 - 0 salje 0
-22:03:58 - 0 salje 0
-22:03:58 - 0 salje 0
-22:03:58 - 0 salje 0
-22:03:58 - 0 salje 0
-22:03:58 - 0 salje 0
-22:03:58 - 0 salje 0
-22:03:58 - 0 salje 0
-22:03:58 - 0 salje 0
-22:03:58 - 0 salje 0
-22:03:58 - 0 salje 0
-22:03:58 - 0 salje 0
-22:03:58 - 0 salje 0
-22:03:58 - 0 salje 0
-22:03:58 - 0 salje 0
-22:03:58 - 0 salje 0
-22:03:58 - 0 salje 0
-22:03:58 - 0 salje 0
-22:03:58 - 0 salje 0
-22:03:58 - 0 salje 0
-22:03:58 - 0 salje 0
-22:03:58 - 0 salje 0
-22:03:58 - 0 salje 0
-22:03:58 - 0 salje 0
-22:03:58 - 0 salje 0
-22:03:59 - 0 salje 0
-22:03:59 - 0 salje 0
-22:03:59 - 0 salje 0
-22:03:59 - 0 salje 0
-22:03:59 - 0 salje 0
-22:03:59 - 0 salje 0
-22:03:59 - 0 salje 0
-22:03:59 - 0 salje 0
-22:03:59 - 0 salje 0
-22:03:59 - 0 salje 0
-22:03:59 - 0 salje 0
-22:03:59 - 0 salje 0
-22:03:59 - 0 salje 0
-22:03:59 - 0 salje 0
-22:03:59 - 0 salje 0
-22:03:59 - 0 salje 0
-22:03:59 - 0 salje 0
-22:03:59 - 0 salje 0
-22:03:59 - 0 salje 0
-22:03:59 - 0 salje 0
-22:03:59 - 0 salje 0
-22:03:59 - 0 salje 0
-22:03:59 - 0 salje 0
-22:03:59 - 0 salje 0
-22:03:59 - 0 salje 0
-22:03:59 - 0 salje 0
-22:03:59 - 0 salje 0
-22:03:59 - 0 salje 0
-22:03:59 - 0 salje 0
-22:03:59 - 0 salje 0
-22:03:59 - 0 salje 0
-22:03:59 - 0 salje 0
-22:03:59 - 0 salje 0
-22:03:59 - 0 salje 0
-22:03:59 - 0 salje 0
-22:03:59 - 0 salje 0
-22:03:59 - 0 salje 0
-22:03:59 - 0 salje 0
-22:03:59 - 0 salje 0
-22:03:59 - 0 salje 0
-22:03:59 - 0 salje 0
-22:03:59 - 0 salje 0
-22:03:59 - 0 salje 0
-22:03:59 - 0 salje 0
-22:03:59 - 0 salje 0
-22:03:59 - 0 salje 0
-22:03:59 - 0 salje 0
-22:03:59 - 0 salje 0
-22:04:00 - 0 salje 0
-22:04:00 - 0 salje 0
-22:04:00 - 0 salje 0
-22:04:00 - 0 salje 0
-22:04:00 - 0 salje 0
-22:04:00 - 0 salje 0
-22:04:00 - 0 salje 0
-22:04:00 - 0 salje 0
-22:04:00 - 0 salje 0
-22:04:00 - 0 salje 0
-22:04:00 - 0 salje 0
-22:04:00 - 0 salje 0
-22:04:00 - 0 salje 0
-22:04:00 - 0 salje 0
-22:04:00 - 0 salje 0
-22:04:00 - 0 salje 0
-22:04:00 - 0 salje 0
-22:04:00 - 0 salje 0
-22:04:00 - 0 salje 0
-22:04:00 - 0 salje 0
-22:04:00 - 0 salje 0
-22:04:00 - 0 salje 0
-22:04:00 - 0 salje 0
-22:04:00 - 0 salje 0
-22:04:00 - 0 salje 0
-22:04:00 - 0 salje 0
-22:04:00 - 0 salje 0
-22:04:00 - 0 salje 0
-22:04:00 - 0 salje 0
-22:04:00 - 0 salje 0
-22:04:00 - 0 salje 0
-22:04:00 - 0 salje 0
-22:04:00 - 0 salje 0
-22:04:00 - 0 salje 0
-22:04:00 - 0 salje 0
-22:04:00 - 0 salje 0
-22:04:00 - 0 salje 0
-22:04:00 - 0 salje 0
-22:04:00 - 0 salje 0
-22:04:00 - 0 salje 0
-22:04:00 - 0 salje 0
-22:04:00 - 0 salje 0
-22:04:01 - 0 salje 0
-22:04:01 - 0 salje 0
-22:04:01 - 0 salje 0
-22:04:01 - 0 salje 0
-22:04:01 - 0 salje 0
-22:04:01 - 0 salje 0
-22:04:01 - 0 salje 0
-22:04:01 - 0 salje 0
-22:04:01 - 0 salje 0
-22:04:01 - 0 salje 0
-22:04:01 - 0 salje 0
-22:04:01 - 0 salje 0
-22:04:01 - 0 salje 0
-22:04:01 - 0 salje 0
-22:04:01 - 0 salje 0
-22:04:01 - 0 salje 0
-22:04:01 - 0 salje 0
-22:04:01 - 0 salje 0
-22:04:01 - 0 salje 0
-22:04:01 - 0 salje 0
-22:04:01 - 0 salje 0
-22:04:01 - 0 salje 0
-22:04:01 - 0 salje 0
-22:04:01 - 0 salje 0
-22:04:01 - 0 salje 0
-22:04:01 - 0 salje 0
-22:04:01 - 0 salje 0
-22:04:01 - 0 salje 0
-22:04:01 - 0 salje 0
-22:04:01 - 0 salje 0
-22:04:01 - 0 salje 0
-22:04:01 - 0 salje 0
-22:04:01 - 0 salje 0
-22:04:01 - 0 salje 0
-22:04:01 - 0 salje 0
-22:04:01 - 0 salje 0
-22:04:01 - 0 salje 0
-22:04:01 - 0 salje 0
-22:04:01 - 0 salje 0
-22:04:01 - 0 salje 0
-22:04:01 - 0 salje 0
-22:04:01 - 0 salje 0
-22:04:01 - 0 salje 0
-22:04:01 - 0 salje 0
-22:04:01 - 0 salje 0
-22:04:01 - 0 salje 0
-22:04:01 - 0 salje 0
-22:04:01 - 0 salje 0
-22:04:01 - 0 salje 0
-22:04:01 - 0 salje 0
-22:04:01 - 0 salje 0
-22:04:01 - 0 salje 0
-22:04:01 - 0 salje 0
-22:04:01 - 0 salje 0
-22:04:01 - 0 salje 0
-22:04:01 - 0 salje 0
-22:04:01 - 0 salje 0
-22:04:01 - 0 salje 0
-22:04:02 - 0 salje 0
-22:04:02 - 0 salje 0
-22:04:02 - 0 salje 0
-22:04:02 - 0 salje 0
-22:04:02 - 0 salje 0
-22:04:02 - 0 salje 0
-22:04:02 - 0 salje 0
-22:04:02 - 0 salje 0
-22:04:02 - 0 salje 0
-22:04:02 - 0 salje 0
-22:04:02 - 0 salje 0
-22:04:02 - 0 salje 0
-22:04:02 - 0 salje 0
-22:04:02 - BROJ COLLECTED VALUES 1
-22:04:02 - 0 salje 0
-22:04:02 - 0 salje 0
-22:04:02 - 0 salje 0
-22:04:02 - 0 salje 0
-22:04:02 - 0 salje 0
-22:04:02 - 0 salje 0
-22:04:02 - 0 salje 0
-22:04:02 - 0 salje 0
-22:04:02 - 0 salje 0
-22:04:02 - 0 salje 0
-22:04:02 - 0 salje 0
-22:04:02 - 0 salje 0
-22:04:02 - 0 salje 0
-22:04:02 - 0 salje 0
-22:04:02 - 0 salje 0
-22:04:02 - 0 salje 0
-22:04:02 - 0 salje 0
-22:04:02 - 0 salje 0
-22:04:02 - 0 salje 0
-22:04:02 - 0 salje 0
-22:04:02 - 0 salje 0
-22:04:02 - 0 salje 0
-22:04:02 - 0 salje 0
-22:04:02 - 0 salje 0
-22:04:02 - 0 salje 0
-22:04:02 - 0 salje 0
-22:04:02 - 0 salje 0
-22:04:02 - 0 salje 0
-22:04:02 - 0 salje 0
-22:04:02 - 0 salje 0
-22:04:02 - 0 salje 0
-22:04:02 - 0 salje 0
-22:04:02 - 0 salje 0
-22:04:02 - 0 salje 0
-22:04:02 - 0 salje 0
-22:04:02 - 0 salje 0
-22:04:02 - 0 salje 0
-22:04:02 - 0 salje 0
-22:04:02 - 0 salje 0
-22:04:02 - 0 salje 0
-22:04:02 - 0 salje 0
-22:04:02 - 0 salje 0
-22:04:02 - 0 salje 0
-22:04:02 - 0 salje 0
-22:04:02 - 0 salje 0
-22:04:02 - 0 salje 0
-22:04:02 - 0 salje 0
-22:04:02 - 0 salje 0
-22:04:02 - 0 salje 0
-22:04:02 - 0 salje 0
-22:04:02 - 0 salje 0
-22:04:02 - 0 salje 0
-22:04:02 - 0 salje 0
-22:04:02 - 0 salje 0
-22:04:02 - 0 salje 0
-22:04:02 - 0 salje 0
-22:04:02 - 0 salje 0
-22:04:02 - 0 salje 0
-22:04:02 - 0 salje 0
-22:04:03 - 0 salje 0
-22:04:03 - 0 salje 0
-22:04:03 - 0 salje 0
-22:04:03 - 0 salje 0
-22:04:03 - 0 salje 0
-22:04:03 - 0 salje 0
-22:04:03 - 0 salje 0
-22:04:03 - 0 salje 0
-22:04:03 - 0 salje 0
-22:04:03 - 0 salje 0
-22:04:03 - 0 salje 0
-22:04:03 - 0 salje 0
-22:04:03 - 0 salje 0
-22:04:03 - 0 salje 0
-22:04:03 - 0 salje 0
-22:04:03 - 0 salje 0
-22:04:03 - 0 salje 0
-22:04:03 - 0 salje 0
-22:04:03 - 0 salje 0
-22:04:03 - 0 salje 0
-22:04:03 - 0 salje 0
-22:04:03 - 0 salje 0
-22:04:03 - 0 salje 0
-22:04:03 - 0 salje 0
-22:04:03 - 0 salje 0
-22:04:03 - 0 salje 0
-22:04:03 - BROJ COLLECTED VALUES 1
-22:04:03 - 0 salje 0
-22:04:03 - 0 salje 0
-22:04:03 - 0 salje 0
-22:04:03 - 0 salje 0
-22:04:03 - 0 salje 0
-22:04:03 - 0 salje 0
-22:04:03 - 0 salje 0
-22:04:03 - 0 salje 0
-22:04:03 - 0 salje 0
-22:04:03 - 0 salje 0
-22:04:03 - 0 salje 0
-22:04:03 - 0 salje 0
-22:04:03 - 0 salje 0
-22:04:03 - 0 salje 0
-22:04:03 - 0 salje 0
-22:04:03 - 0 salje 0
-22:04:03 - 0 salje 0
-22:04:03 - 0 salje 0
-22:04:03 - 0 salje 0
-22:04:03 - 0 salje 0
-22:04:03 - 0 salje 0
-22:04:03 - 0 salje 0
-22:04:03 - 0 salje 0
-22:04:03 - 0 salje 0
-22:04:03 - 0 salje 0
-22:04:03 - 0 salje 0
-22:04:03 - 0 salje 0
-22:04:03 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - BROJ COLLECTED VALUES 1
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:04 - 0 salje 0
-22:04:05 - 0 salje 0
-22:04:05 - 0 salje 0
-22:04:05 - 0 salje 0
-22:04:05 - 0 salje 0
-22:04:05 - 0 salje 0
-22:04:05 - 0 salje 0
-22:04:05 - 0 salje 0
-22:04:05 - 0 salje 0
-22:04:05 - 0 salje 0
-22:04:05 - 0 salje 0
-22:04:05 - 0 salje 0
-22:04:05 - 0 salje 0
-22:04:05 - 0 salje 0
-22:04:05 - 0 salje 0
-22:04:05 - 0 salje 0
-22:04:05 - 0 salje 0
-22:04:05 - 0 salje 0
-22:04:05 - 0 salje 0
-22:04:05 - 0 salje 0
-22:04:05 - 0 salje 0
-22:04:05 - 0 salje 0
-22:04:05 - 0 salje 0
-22:04:05 - 0 salje 0
-22:04:05 - 0 salje 1
-22:04:05 - da li je ab_tell: true
-22:04:05 - servent.message.snapshot.ABTellMessage
-22:04:06 - 0 salje 0
-22:04:06 - 0 salje 0
-22:04:06 - 0 salje 0
-22:04:06 - 0 salje 0
-22:04:06 - 0 salje 0
-22:04:06 - 0 salje 0
-22:04:06 - 0 salje 0
-22:04:06 - 0 salje 0
-22:04:06 - 0 salje 0
-22:04:06 - 0 salje 0
-22:04:06 - 0 salje 0
-22:04:06 - 0 salje 0
-22:04:06 - 0 salje 0
-22:04:06 - 0 salje 0
-22:04:06 - 0 salje 0
-22:04:06 - 0 salje 0
-22:04:06 - 0 salje 0
-22:04:06 - 0 salje 0
-22:04:06 - 0 salje 0
-22:04:06 - 0 salje 0
-22:04:06 - 0 salje 0
-22:04:06 - 0 salje 0
-22:04:06 - 0 salje 0
-22:04:06 - 0 salje 0
-22:04:06 - BROJ COLLECTED VALUES 2
-22:04:06 - 0 salje 0
-22:04:06 - 0 salje 0
-22:04:06 - 0 salje 0
-22:04:06 - 0 salje 0
-22:04:06 - 0 salje 0
-22:04:06 - 0 salje 0
-22:04:06 - 0 salje 0
-22:04:06 - 0 salje 0
-22:04:06 - 0 salje 0
-22:04:06 - 0 salje 0
-22:04:06 - 0 salje 0
-22:04:06 - 0 salje 0
-22:04:06 - 0 salje 0
-22:04:06 - 0 salje 0
-22:04:06 - 0 salje 0
-22:04:06 - 0 salje 0
-22:04:06 - 0 salje 0
-22:04:06 - 0 salje 0
-22:04:06 - 0 salje 0
-22:04:06 - 0 salje 0
-22:04:06 - 0 salje 0
-22:04:06 - 0 salje 0
-22:04:06 - 0 salje 0
-22:04:06 - 0 salje 0
-22:04:06 - 0 salje 0
-22:04:06 - 0 salje 0
-22:04:06 - 0 salje 3
-22:04:06 - da li je ab_tell: true
-22:04:06 - servent.message.snapshot.ABTellMessage
-22:04:06 - 0 salje 3
-22:04:07 - 0 salje 0
-22:04:07 - 0 salje 0
-22:04:07 - 0 salje 0
-22:04:07 - 0 salje 0
-22:04:07 - 0 salje 0
-22:04:07 - 0 salje 3
-22:04:07 - 0 salje 0
-22:04:07 - 0 salje 0
-22:04:07 - 0 salje 0
-22:04:07 - 0 salje 0
-22:04:07 - 0 salje 0
-22:04:07 - 0 salje 0
-22:04:07 - 0 salje 0
-22:04:07 - 0 salje 0
-22:04:07 - 0 salje 0
-22:04:07 - 0 salje 0
-22:04:07 - 0 salje 0
-22:04:07 - 0 salje 0
-22:04:07 - 0 salje 0
-22:04:07 - 0 salje 0
-22:04:07 - 0 salje 0
-22:04:07 - 0 salje 0
-22:04:07 - 0 salje 0
-22:04:07 - 0 salje 0
-22:04:07 - 0 salje 0
-22:04:07 - 0 salje 0
-22:04:07 - 0 salje 0
-22:04:07 - 0 salje 0
-22:04:07 - 0 salje 3
-22:04:07 - 0 salje 0
-22:04:07 - 0 salje 3
-22:04:07 - 0 salje 0
-22:04:07 - 0 salje 0
-22:04:07 - 0 salje 0
-22:04:07 - 0 salje 0
-22:04:07 - 0 salje 0
-22:04:07 - 0 salje 0
-22:04:07 - 0 salje 0
-22:04:07 - 0 salje 0
-22:04:07 - 0 salje 0
-22:04:07 - 0 salje 0
-22:04:07 - 0 salje 0
-22:04:07 - 0 salje 0
-22:04:07 - 0 salje 0
-22:04:07 - 0 salje 0
-22:04:07 - 0 salje 0
-22:04:07 - 0 salje 0
-22:04:07 - 0 salje 0
-22:04:07 - 0 salje 0
-22:04:07 - 0 salje 0
-22:04:07 - BROJ COLLECTED VALUES 3
-22:04:07 - 0 salje 0
-22:04:07 - 0 salje 0
-22:04:07 - 0 salje 0
-22:04:07 - 0 salje 0
-22:04:07 - 0 salje 0
-22:04:07 - 0 salje 0
-22:04:07 - 0 salje 0
-22:04:07 - 0 salje 0
-22:04:07 - 0 salje 0
-22:04:07 - 0 salje 3
-22:04:07 - 0 salje 0
-22:04:07 - 0 salje 0
-22:04:07 - 0 salje 0
-22:04:07 - 0 salje 0
-22:04:07 - 0 salje 0
-22:04:07 - 0 salje 0
-22:04:07 - 0 salje 0
-22:04:07 - 0 salje 0
-22:04:07 - 0 salje 0
-22:04:07 - 0 salje 0
-22:04:07 - 0 salje 0
-22:04:07 - 0 salje 0
-22:04:07 - 0 salje 0
-22:04:07 - 0 salje 0
-22:04:07 - 0 salje 0
-22:04:07 - 0 salje 0
-22:04:07 - 0 salje 0
-22:04:07 - 0 salje 0
-22:04:07 - 0 salje 0
-22:04:07 - 0 salje 0
-22:04:07 - 0 salje 0
-22:04:07 - 0 salje 0
-22:04:07 - 0 salje 0
-22:04:07 - 0 salje 0
-22:04:07 - 0 salje 0
-22:04:07 - 0 salje 0
-22:04:07 - 0 salje 0
-22:04:07 - 0 salje 0
-22:04:07 - 0 salje 0
-22:04:07 - 0 salje 3
-22:04:07 - 0 salje 0
-22:04:07 - 0 salje 0
-22:04:07 - 0 salje 0
-22:04:07 - 0 salje 0
-22:04:07 - 0 salje 0
-22:04:07 - 0 salje 3
-22:04:07 - 0 salje 0
-22:04:07 - 0 salje 0
-22:04:07 - 0 salje 0
-22:04:07 - 0 salje 0
-22:04:07 - 0 salje 0
-22:04:07 - 0 salje 0
-22:04:07 - 0 salje 0
-22:04:07 - 0 salje 0
-22:04:08 - 0 salje 0
-22:04:08 - 0 salje 0
-22:04:08 - 0 salje 0
-22:04:08 - 0 salje 0
-22:04:08 - 0 salje 0
-22:04:08 - 0 salje 0
-22:04:08 - 0 salje 0
-22:04:08 - 0 salje 0
-22:04:08 - 0 salje 0
-22:04:08 - 0 salje 0
-22:04:08 - 0 salje 0
-22:04:08 - 0 salje 0
-22:04:08 - 0 salje 0
-22:04:08 - 0 salje 0
-22:04:08 - 0 salje 0
-22:04:08 - 0 salje 3
-22:04:08 - 0 salje 0
-22:04:08 - 0 salje 1
-22:04:08 - 0 salje 0
-22:04:08 - 0 salje 3
-22:04:08 - 0 salje 0
-22:04:08 - 0 salje 1
-22:04:08 - BROJ COLLECTED VALUES 3
-22:04:08 - 0 salje 0
-22:04:08 - 0 salje 0
-22:04:08 - 0 salje 0
-22:04:08 - 0 salje 0
-22:04:08 - 0 salje 0
-22:04:08 - 0 salje 0
-22:04:08 - 0 salje 0
-22:04:08 - 0 salje 0
-22:04:08 - 0 salje 0
-22:04:08 - 0 salje 0
-22:04:08 - 0 salje 0
-22:04:08 - 0 salje 0
-22:04:09 - 0 salje 0
-22:04:09 - 0 salje 0
-22:04:09 - BROJ COLLECTED VALUES 3
-22:04:10 - BROJ COLLECTED VALUES 3
-22:04:11 - BROJ COLLECTED VALUES 3
-22:04:12 - BROJ COLLECTED VALUES 3
-22:04:13 - BROJ COLLECTED VALUES 3
-22:04:14 - BROJ COLLECTED VALUES 3
-22:04:15 - BROJ COLLECTED VALUES 3
-22:04:16 - BROJ COLLECTED VALUES 3
-22:04:17 - BROJ COLLECTED VALUES 3
-22:04:18 - BROJ COLLECTED VALUES 3
-22:04:19 - BROJ COLLECTED VALUES 3
-22:04:20 - BROJ COLLECTED VALUES 3
+22:48:55 - 0 salje 1
+22:48:55 - Novi receiver 1
+22:48:55 - da li je ab_tell: false
+22:48:55 - Novi receiver 3
+22:48:55 - 0 salje 1
+22:48:55 - Novi receiver 1
+22:48:55 - da li je ab_tell: false
+22:48:55 - Novi receiver 3
+22:48:55 - 0 salje 1
+22:48:55 - Novi receiver 1
+22:48:55 - Novi receiver 3
+22:48:55 - Novi receiver 1
+22:48:55 - Ja sam 0 i saljem bitcake [1|localhost|1200]
+22:48:55 - Novi receiver 3
+22:48:55 - Ja sam 0 i saljem bitcake [1|localhost|1200]
+22:48:55 - usao sam u bitcake
+22:48:55 - Novi receiver 0
+22:48:55 - Novi receiver 1
+22:48:55 - Novi receiver 1
+22:48:55 - Ja sam 0 i saljem bitcake [2|localhost|1300]
+22:48:55 - Novi receiver 3
+22:48:55 - Novi receiver 3
+22:48:55 - Ja sam 0 i saljem bitcake [2|localhost|1300]
+22:48:55 - usao sam u bitcake
+22:48:55 - Novi receiver 0
+22:48:55 - Novi receiver 1
+22:48:55 - Novi receiver 1
+22:48:55 - Ja sam 0 i saljem bitcake [3|localhost|1400]
+22:48:55 - Novi receiver 3
+22:48:55 - Novi receiver 3
+22:48:55 - Ja sam 0 i saljem bitcake [3|localhost|1400]
+22:48:55 - usao sam u bitcake
+22:48:55 - Novi receiver 0
+22:48:55 - Novi receiver 1
+22:48:55 - Novi receiver 1
+22:48:55 - Ja sam 0 i saljem bitcake [4|localhost|1500]
+22:48:55 - Novi receiver 3
+22:48:55 - Novi receiver 3
+22:48:55 - Ja sam 0 i saljem bitcake [4|localhost|1500]
+22:48:55 - usao sam u bitcake
+22:48:55 - Novi receiver 0
+22:48:55 - Novi receiver 1
+22:48:55 - Novi receiver 3
+22:48:55 - 0 salje 1
+22:48:55 - da li je ab_tell: false
+22:48:55 - Novi receiver 1
+22:48:55 - Novi receiver 1
+22:48:55 - da li je ab_tell: false
+22:48:55 - Novi receiver 3
+22:48:55 - Novi receiver 3
+22:48:55 - Novi receiver 1
+22:48:55 - Novi receiver 3
+22:48:56 - 0 salje 2
+22:48:56 - Novi receiver 1
+22:48:56 - Novi receiver 3
+22:48:56 - 0 salje 2
+22:48:56 - Novi receiver 1
+22:48:56 - Novi receiver 1
+22:48:56 - Novi receiver 3
+22:48:56 - Novi receiver 3
+22:48:56 - 0 salje 2
+22:48:56 - da li je ab_tell: false
+22:48:56 - Novi receiver 1
+22:48:56 - Novi receiver 1
+22:48:56 - Novi receiver 3
+22:48:56 - da li je ab_tell: false
+22:48:56 - Novi receiver 1
+22:48:56 - Novi receiver 3
+22:48:56 - Novi receiver 1
+22:48:56 - Novi receiver 3
+22:48:56 - Novi receiver 3
+22:48:56 - Novi receiver 1
+22:48:56 - Novi receiver 3
+22:48:57 - 0 salje 1
+22:48:57 - 0 salje 2
+22:48:57 - da li je ab_tell: false
+22:48:57 - da li je ab_tell: false
+22:48:57 - Novi receiver 1
+22:48:57 - Novi receiver 3
+22:48:57 - Novi receiver 1
+22:48:57 - Novi receiver 1
+22:48:57 - Novi receiver 3
+22:48:57 - Novi receiver 3
+22:48:57 - 0 salje 0
+22:48:57 - 0 salje 1
+22:48:57 - 0 salje 1
+22:48:57 - 0 salje 0
+22:48:58 - 0 salje 0
+22:48:58 - 0 salje 0
+22:48:58 - 0 salje 0
+22:48:58 - 0 salje 2
+22:48:58 - 0 salje 2
+22:48:58 - 0 salje 0
+22:48:58 - 0 salje 2
+22:48:58 - 0 salje 0
+22:48:58 - 0 salje 0
+22:48:58 - 0 salje 0
+22:48:58 - 0 salje 2
+22:48:58 - 0 salje 0
+22:48:58 - 0 salje 0
+22:48:58 - 0 salje 1
+22:48:58 - 0 salje 0
+22:48:58 - 0 salje 0
+22:48:58 - 0 salje 3
+22:48:58 - 0 salje 1
+22:48:58 - 0 salje 3
+22:48:58 - 0 salje 3
+22:48:58 - 0 salje 1
+22:48:58 - 0 salje 0
+22:48:58 - 0 salje 3
+22:48:58 - da li je ab_tell: false
+22:48:58 - da li je ab_tell: false
+22:48:58 - da li je ab_tell: false
+22:48:58 - da li je ab_tell: false
+22:48:58 - 0 salje 0
+22:48:58 - 0 salje 3
+22:48:58 - 0 salje 3
+22:48:58 - 0 salje 0
+22:48:58 - 0 salje 3
+22:48:58 - 0 salje 2
+22:48:59 - 0 salje 3
+22:48:59 - 0 salje 3
+22:48:59 - 0 salje 3
+22:48:59 - 0 salje 3
+22:48:59 - 0 salje 3
+22:48:59 - 0 salje 0
+22:48:59 - 0 salje 3
+22:48:59 - 0 salje 3
+22:48:59 - 0 salje 0
+22:48:59 - 0 salje 2
+22:48:59 - 0 salje 2
+22:48:59 - 0 salje 0
+22:48:59 - 0 salje 3
+22:48:59 - 0 salje 0
+22:48:59 - 0 salje 0
+22:48:59 - 0 salje 2
+22:48:59 - 0 salje 0
+22:48:59 - 0 salje 0
+22:48:59 - 0 salje 2
+22:48:59 - 0 salje 3
+22:48:59 - 0 salje 0
+22:48:59 - 0 salje 2
+22:48:59 - 0 salje 2
+22:48:59 - 0 salje 2
+22:48:59 - 0 salje 0
+22:48:59 - 0 salje 3
+22:48:59 - 0 salje 0
+22:48:59 - 0 salje 0
+22:48:59 - 0 salje 3
+22:48:59 - 0 salje 3
+22:48:59 - 0 salje 0
+22:48:59 - 0 salje 3
+22:48:59 - 0 salje 3
+22:48:59 - 0 salje 3
+22:48:59 - 0 salje 3
+22:48:59 - 0 salje 0
+22:48:59 - 0 salje 0
+22:48:59 - 0 salje 3
+22:48:59 - 0 salje 3
+22:48:59 - 0 salje 0
+22:48:59 - 0 salje 0
+22:48:59 - 0 salje 3
+22:48:59 - 0 salje 1
+22:48:59 - da li je ab_tell: true
+22:48:59 - 0 salje 0
+22:48:59 - 0 salje 0
+22:48:59 - 0 salje 3
+22:48:59 - 0 salje 2
+22:48:59 - 0 salje 2
+22:48:59 - 0 salje 0
+22:49:00 - 0 salje 0
+22:49:00 - 0 salje 3
+22:49:00 - 0 salje 0
+22:49:00 - 0 salje 2
+22:49:00 - 0 salje 3
+22:49:00 - 0 salje 2
+22:49:00 - 0 salje 2
+22:49:00 - 0 salje 2
+22:49:00 - da li je ab_tell: true
+22:49:00 - 0 salje 2
+22:49:00 - 0 salje 2
+22:49:00 - 0 salje 3
+22:49:00 - 0 salje 2
+22:49:00 - 0 salje 2
+22:49:00 - 0 salje 0
+22:49:00 - 0 salje 0
+22:49:00 - 0 salje 0
+22:49:00 - 0 salje 0
+22:49:00 - 0 salje 0
+22:49:00 - 0 salje 0
+22:49:00 - 0 salje 0
+22:49:00 - 0 salje 2
+22:49:00 - 0 salje 2
+22:49:00 - 0 salje 2
+22:49:00 - 0 salje 2
+22:49:00 - 0 salje 0
+22:49:00 - 0 salje 0
+22:49:00 - 0 salje 0
+22:49:00 - 0 salje 2
+22:49:00 - 0 salje 2
+22:49:00 - 0 salje 2
+22:49:00 - 0 salje 0
+22:49:01 - 0 salje 2
+22:49:01 - 0 salje 0
+22:49:01 - 0 salje 2
+22:49:02 - 0 salje 1
+22:49:02 - 0 salje 1
+22:49:02 - 0 salje 4
+22:49:02 - da li je ab_tell: true
+22:49:02 - 0 salje 4
+22:49:02 - 0 salje 4
+22:49:02 - 0 salje 0
+22:49:03 - 0 salje 0
+22:49:03 - 0 salje 4

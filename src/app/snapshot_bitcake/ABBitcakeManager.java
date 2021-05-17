@@ -21,6 +21,13 @@ public class ABBitcakeManager implements BitcakeManager {
 	private Map<Integer, Integer> sent = new ConcurrentHashMap<>();
 	private Map<Integer, Integer> received = new ConcurrentHashMap<>();
 
+	public ABBitcakeManager() {
+		for (int i = 0; i < AppConfig.getServentCount(); i++) {
+			sent.put(i, 0);
+			received.put(i, 0);
+		}
+	}
+
 	public void takeSomeBitcakes(int amount) {
 		currentAmount.getAndAdd(-amount);
 	}
@@ -43,28 +50,27 @@ public class ABBitcakeManager implements BitcakeManager {
 
 	public void recordSendTransaction(int neighbor, int amount) {
 		sent.compute(neighbor, (k, v) -> {
-			return v + 1;
+			return v + amount;
 		});
 	}
 
 	public void recordReceivedTransaction(int neighbor, int amount) {
 		received.compute(neighbor, (k, v) -> {
-			return v + 1;
+			return v + amount;
 		});
 	}
 
 	public void markerEvent(int collectorId, SnapshotCollectorWorker snapshotCollectorWorker) {
 		synchronized (AppConfig.lock) {
-			
+
 			for (int i = 0; i < AppConfig.getServentCount(); i++) {
-				if(i == AppConfig.myServentInfo.getId()) continue;
+				if (i == AppConfig.myServentInfo.getId())
+					continue;
 				Map<Integer, Integer> vectorClock = CausalShared.getVectorClock();
 
 				Message abMarker = new ABMarkerMessage(MessageType.AB_MARKER, AppConfig.myServentInfo, null,
 						AppConfig.getInfoById(i), vectorClock);
-		//		abMarker.getRoute().add(AppConfig.myServentInfo);
 				for (Integer neighbour : AppConfig.myServentInfo.getNeighbors()) {
-					//AppConfig.timestampedStandardPrint("moj komsija " + neighbour);
 					abMarker = abMarker.changeReceiver(neighbour);
 					MessageUtil.sendMessage(abMarker);
 				}
@@ -72,40 +78,41 @@ public class ABBitcakeManager implements BitcakeManager {
 				abMarker = abMarker.changeReceiver(AppConfig.myServentInfo.getId());
 				CausalShared.commitCausalMessage(abMarker);
 			}
-			
+
 			recordedAmount = getCurrentBitcakeAmount();
-			ABSnapshotResult snapshotResult = new ABSnapshotResult(AppConfig.myServentInfo.getId(), recordedAmount);
+			ABSnapshotResult snapshotResult = new ABSnapshotResult(AppConfig.myServentInfo.getId(), recordedAmount,
+					getSent(), getReceived());
 			snapshotCollectorWorker.addABSnapshotInfo(collectorId, snapshotResult);
 		}
 	}
 
 	public void handleMarker(Message clientMessage, SnapshotCollector snapshotCollector) {
-		
+
 		synchronized (AppConfig.lock) {
-			
+
 			ServentInfo iniciator = clientMessage.getOriginalSenderInfo();
-			AppConfig.timestampedStandardPrint("Iniciator je " + iniciator.getId() + " a ja sam " + clientMessage.getTargetInfo().getId());
+//			AppConfig.timestampedStandardPrint(
+//					"Iniciator je " + iniciator.getId() + " a ja sam " + clientMessage.getTargetInfo().getId());
 			recordedAmount = getCurrentBitcakeAmount();
-			ABSnapshotResult snapshotResult = new ABSnapshotResult(AppConfig.myServentInfo.getId(), recordedAmount);
+			ABSnapshotResult snapshotResult = new ABSnapshotResult(AppConfig.myServentInfo.getId(), recordedAmount,
+					getSent(), getReceived());
 
-			
-				Map<Integer, Integer> vectorClock = CausalShared.getVectorClock();
+			Map<Integer, Integer> vectorClock = CausalShared.getVectorClock();
 
-				Message abTellMessage = new ABTellMessage(MessageType.AB_TELL, AppConfig.myServentInfo, null, iniciator,
-						vectorClock, snapshotResult);
-				AppConfig.timestampedErrorPrint("nakon inita: " + abTellMessage.getClass().toString());
-				
+			Message abTellMessage = new ABTellMessage(MessageType.AB_TELL, AppConfig.myServentInfo, null, iniciator,
+					vectorClock, snapshotResult);
+//			AppConfig.timestampedErrorPrint("nakon inita: " + abTellMessage.getClass().toString());
 
-				for (Integer neighbour : AppConfig.myServentInfo.getNeighbors()) {
-					abTellMessage = abTellMessage.changeReceiver(neighbour);
-					
-					MessageUtil.sendMessage(abTellMessage);	
-				}
-				
-				abTellMessage = abTellMessage.changeReceiver(AppConfig.myServentInfo.getId());
-				CausalShared.commitCausalMessage(abTellMessage);
-				recordedAmount = 0;
-			
+			for (Integer neighbour : AppConfig.myServentInfo.getNeighbors()) {
+				abTellMessage = abTellMessage.changeReceiver(neighbour);
+
+				MessageUtil.sendMessage(abTellMessage);
+			}
+
+			abTellMessage = abTellMessage.changeReceiver(AppConfig.myServentInfo.getId());
+			CausalShared.commitCausalMessage(abTellMessage);
+			recordedAmount = 0;
+
 		}
 	}
 }

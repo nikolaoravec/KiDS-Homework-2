@@ -1,3124 +1,468 @@
-22:03:52 - 3 salje 0
-22:03:52 - Novi receiver 1
-22:03:52 - da li je ab_tell: false
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - 3 salje 0
-22:03:52 - da li je ab_tell: false
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - 3 salje 0
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - 3 salje 0
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - 3 salje 0
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - 3 salje 0
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - 3 salje 0
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - 3 salje 0
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 4
-22:03:52 - 3 salje 0
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 2
-22:03:52 - da li je ab_tell: false
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 4
-22:03:52 - 3 salje 0
-22:03:52 - da li je ab_tell: false
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - 3 salje 0
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - 3 salje 0
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 4
-22:03:52 - da li je ab_tell: false
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 1
-22:03:52 - da li je ab_tell: false
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 1
-22:03:52 - 3 salje 0
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 1
-22:03:52 - da li je ab_tell: false
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - 3 salje 0
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - da li je ab_tell: false
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 1
-22:03:52 - 3 salje 0
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - 3 salje 0
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - da li je ab_tell: false
-22:03:52 - Novi receiver 2
-22:03:52 - da li je ab_tell: false
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 1
-22:03:52 - 3 salje 0
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 1
-22:03:52 - 3 salje 0
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - 3 salje 0
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 4
-22:03:52 - 3 salje 0
-22:03:52 - Novi receiver 4
-22:03:52 - da li je ab_tell: false
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 4
-22:03:52 - 3 salje 0
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 1
-22:03:52 - 3 salje 0
-22:03:52 - Novi receiver 2
-22:03:52 - da li je ab_tell: false
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 4
-22:03:52 - 3 salje 0
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - 3 salje 0
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - da li je ab_tell: false
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 4
-22:03:52 - da li je ab_tell: false
-22:03:52 - da li je ab_tell: false
-22:03:52 - da li je ab_tell: false
-22:03:52 - da li je ab_tell: false
-22:03:52 - da li je ab_tell: false
-22:03:52 - 3 salje 0
-22:03:52 - 3 salje 0
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - da li je ab_tell: false
-22:03:52 - Novi receiver 2
-22:03:52 - da li je ab_tell: false
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 2
-22:03:52 - 3 salje 0
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 4
-22:03:52 - 3 salje 0
-22:03:52 - da li je ab_tell: false
-22:03:52 - da li je ab_tell: false
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 4
-22:03:52 - 3 salje 0
-22:03:52 - Novi receiver 1
-22:03:52 - da li je ab_tell: false
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 2
-22:03:52 - 3 salje 0
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 4
-22:03:52 - 3 salje 0
-22:03:52 - da li je ab_tell: false
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - 3 salje 0
-22:03:52 - da li je ab_tell: false
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - da li je ab_tell: false
-22:03:52 - Novi receiver 2
-22:03:52 - da li je ab_tell: false
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 2
-22:03:52 - 3 salje 0
-22:03:52 - Novi receiver 4
-22:03:52 - da li je ab_tell: false
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - da li je ab_tell: false
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - 3 salje 0
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - da li je ab_tell: false
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - 3 salje 0
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - da li je ab_tell: false
-22:03:52 - da li je ab_tell: false
-22:03:52 - 3 salje 0
-22:03:52 - da li je ab_tell: false
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - 3 salje 0
-22:03:52 - da li je ab_tell: false
-22:03:52 - Novi receiver 2
-22:03:52 - da li je ab_tell: false
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - 3 salje 0
-22:03:52 - Novi receiver 2
-22:03:52 - da li je ab_tell: false
-22:03:52 - Novi receiver 4
-22:03:52 - da li je ab_tell: false
-22:03:52 - da li je ab_tell: false
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 2
-22:03:52 - 3 salje 0
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 2
-22:03:52 - da li je ab_tell: false
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - 3 salje 0
-22:03:52 - Novi receiver 4
-22:03:52 - da li je ab_tell: false
-22:03:52 - Novi receiver 1
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 2
-22:03:52 - Novi receiver 4
-22:03:53 - Novi receiver 2
-22:03:53 - Novi receiver 2
-22:03:53 - Novi receiver 4
-22:03:53 - Novi receiver 1
-22:03:53 - Novi receiver 1
-22:03:53 - Novi receiver 2
-22:03:53 - Novi receiver 1
-22:03:53 - Novi receiver 2
-22:03:53 - Novi receiver 1
-22:03:53 - Novi receiver 1
-22:03:53 - Novi receiver 1
-22:03:53 - Novi receiver 2
-22:03:53 - Novi receiver 2
-22:03:53 - Novi receiver 1
-22:03:53 - Novi receiver 4
-22:03:53 - Novi receiver 1
-22:03:53 - Novi receiver 2
-22:03:53 - Novi receiver 2
-22:03:53 - Novi receiver 1
-22:03:53 - Novi receiver 1
-22:03:53 - Novi receiver 1
-22:03:53 - Novi receiver 2
-22:03:53 - Novi receiver 1
-22:03:53 - Novi receiver 2
-22:03:53 - Novi receiver 1
-22:03:53 - Novi receiver 2
-22:03:53 - Novi receiver 1
-22:03:53 - Novi receiver 2
-22:03:53 - Novi receiver 1
-22:03:53 - Novi receiver 2
-22:03:53 - Novi receiver 1
-22:03:53 - Novi receiver 1
-22:03:53 - Novi receiver 1
-22:03:53 - Novi receiver 2
-22:03:53 - Novi receiver 1
-22:03:53 - Novi receiver 1
-22:03:53 - Novi receiver 2
-22:03:53 - Novi receiver 1
-22:03:53 - Novi receiver 1
-22:03:53 - Novi receiver 2
-22:03:53 - Novi receiver 1
-22:03:53 - Novi receiver 1
-22:03:53 - Novi receiver 2
-22:03:53 - Novi receiver 1
-22:03:53 - Novi receiver 2
-22:03:53 - Novi receiver 2
-22:03:53 - Novi receiver 1
-22:03:53 - Novi receiver 2
-22:03:53 - Novi receiver 2
-22:03:53 - Novi receiver 1
-22:03:53 - Novi receiver 1
-22:03:53 - Novi receiver 2
-22:03:53 - Novi receiver 2
-22:03:53 - Novi receiver 4
-22:03:53 - Novi receiver 2
-22:03:53 - Novi receiver 4
-22:03:53 - Novi receiver 2
-22:03:53 - Novi receiver 4
-22:03:53 - Novi receiver 2
-22:03:53 - Novi receiver 4
-22:03:53 - Novi receiver 1
-22:03:53 - Novi receiver 2
-22:03:53 - Novi receiver 4
-22:03:53 - Novi receiver 1
-22:03:53 - Novi receiver 2
-22:03:53 - Novi receiver 4
-22:03:53 - Novi receiver 2
-22:03:53 - Novi receiver 2
-22:03:53 - Novi receiver 4
-22:03:53 - Novi receiver 4
-22:03:53 - 3 salje 0
-22:03:53 - Novi receiver 4
-22:03:53 - Novi receiver 4
-22:03:53 - 3 salje 0
-22:03:53 - 3 salje 0
-22:03:53 - Novi receiver 4
-22:03:53 - 3 salje 0
-22:03:53 - 3 salje 0
-22:03:53 - 3 salje 0
-22:03:53 - 3 salje 0
-22:03:53 - 3 salje 0
-22:03:53 - 3 salje 0
-22:03:53 - 3 salje 0
-22:03:53 - 3 salje 0
-22:03:53 - Novi receiver 4
-22:03:53 - 3 salje 0
-22:03:53 - 3 salje 0
-22:03:53 - 3 salje 0
-22:03:53 - 3 salje 0
-22:03:53 - 3 salje 0
-22:03:53 - 3 salje 0
-22:03:53 - 3 salje 0
-22:03:53 - 3 salje 0
-22:03:53 - Novi receiver 4
-22:03:53 - Novi receiver 2
-22:03:53 - Novi receiver 4
-22:03:53 - Novi receiver 2
-22:03:53 - Novi receiver 4
-22:03:53 - Novi receiver 4
-22:03:53 - Novi receiver 2
-22:03:53 - Novi receiver 4
-22:03:53 - Novi receiver 4
-22:03:53 - Novi receiver 2
-22:03:53 - Novi receiver 4
-22:03:53 - Novi receiver 4
-22:03:53 - Novi receiver 4
-22:03:53 - Novi receiver 4
-22:03:53 - Novi receiver 4
-22:03:53 - Novi receiver 2
-22:03:53 - Novi receiver 2
-22:03:53 - Novi receiver 4
-22:03:53 - Novi receiver 2
-22:03:53 - Novi receiver 4
-22:03:53 - Novi receiver 2
-22:03:53 - Novi receiver 2
-22:03:53 - Novi receiver 4
-22:03:53 - Novi receiver 4
-22:03:53 - Novi receiver 4
-22:03:53 - Novi receiver 4
-22:03:53 - Novi receiver 4
-22:03:53 - Novi receiver 4
-22:03:53 - Novi receiver 2
-22:03:53 - Novi receiver 4
-22:03:53 - Novi receiver 2
-22:03:53 - Novi receiver 4
-22:03:53 - Novi receiver 2
-22:03:53 - Novi receiver 4
-22:03:53 - Novi receiver 4
-22:03:53 - Novi receiver 4
-22:03:53 - Novi receiver 4
-22:03:53 - Novi receiver 4
-22:03:53 - Novi receiver 4
-22:03:53 - Novi receiver 4
-22:03:53 - Novi receiver 2
-22:03:53 - Novi receiver 4
-22:03:53 - Novi receiver 4
-22:03:53 - Novi receiver 4
-22:03:53 - Novi receiver 4
-22:03:53 - Novi receiver 4
-22:03:53 - Novi receiver 2
-22:03:53 - Novi receiver 4
-22:03:53 - Novi receiver 4
-22:03:53 - Novi receiver 4
-22:03:53 - Novi receiver 4
-22:03:53 - Novi receiver 4
-22:03:53 - Novi receiver 4
-22:03:53 - Novi receiver 2
-22:03:53 - Novi receiver 4
-22:03:53 - Novi receiver 4
-22:03:53 - Novi receiver 4
-22:03:53 - Novi receiver 4
-22:03:53 - Novi receiver 4
-22:03:53 - Novi receiver 4
-22:03:53 - Novi receiver 4
-22:03:53 - Novi receiver 2
-22:03:53 - Novi receiver 2
-22:03:53 - Novi receiver 4
-22:03:53 - Novi receiver 2
-22:03:53 - Novi receiver 4
-22:03:53 - Novi receiver 4
-22:03:53 - Novi receiver 2
-22:03:53 - Novi receiver 4
-22:03:53 - Novi receiver 2
-22:03:53 - Novi receiver 4
-22:03:53 - Novi receiver 2
-22:03:53 - Novi receiver 4
-22:03:53 - Novi receiver 4
-22:03:53 - Novi receiver 2
-22:03:53 - Novi receiver 4
-22:03:53 - Novi receiver 2
-22:03:53 - Novi receiver 2
-22:03:53 - Novi receiver 2
-22:03:53 - Novi receiver 4
-22:03:54 - Novi receiver 4
-22:03:54 - Novi receiver 2
-22:03:54 - Novi receiver 2
-22:03:54 - Novi receiver 2
-22:03:54 - Novi receiver 2
-22:03:54 - Novi receiver 2
-22:03:54 - Novi receiver 2
-22:03:54 - Novi receiver 2
-22:03:54 - Novi receiver 2
-22:03:54 - Novi receiver 2
-22:03:54 - Novi receiver 2
-22:03:54 - Novi receiver 2
-22:03:54 - Novi receiver 2
-22:03:54 - Novi receiver 2
-22:03:54 - Novi receiver 4
-22:03:54 - 3 salje 0
-22:03:54 - 3 salje 0
-22:03:54 - 3 salje 0
-22:03:54 - 3 salje 0
-22:03:54 - 3 salje 0
-22:03:54 - 3 salje 0
-22:03:54 - 3 salje 0
-22:03:54 - 3 salje 0
-22:03:54 - 3 salje 0
-22:03:54 - 3 salje 0
-22:03:54 - 3 salje 0
-22:03:54 - Novi receiver 4
-22:03:54 - Novi receiver 4
-22:03:54 - Novi receiver 4
-22:03:54 - Novi receiver 4
-22:03:54 - Novi receiver 4
-22:03:54 - Novi receiver 4
-22:03:54 - Novi receiver 4
-22:03:54 - Novi receiver 4
-22:03:54 - Novi receiver 4
-22:03:54 - Novi receiver 4
-22:03:54 - 3 salje 0
-22:03:54 - 3 salje 0
-22:03:54 - 3 salje 0
-22:03:54 - 3 salje 0
-22:03:54 - 3 salje 0
-22:03:54 - 3 salje 0
-22:03:54 - 3 salje 0
-22:03:54 - 3 salje 0
-22:03:54 - 3 salje 0
-22:03:54 - 3 salje 0
-22:03:55 - Novi receiver 4
-22:03:55 - Novi receiver 4
-22:03:55 - Novi receiver 4
-22:03:55 - Novi receiver 4
-22:03:55 - Novi receiver 4
-22:03:55 - Novi receiver 4
-22:03:55 - Novi receiver 4
-22:03:55 - Novi receiver 4
-22:03:55 - Novi receiver 4
-22:03:55 - Novi receiver 4
-22:03:56 - Novi receiver 2
-22:03:56 - Novi receiver 4
-22:03:56 - Novi receiver 4
-22:03:56 - Novi receiver 4
-22:03:56 - Novi receiver 4
-22:03:56 - 3 salje 0
-22:03:56 - 3 salje 0
-22:03:56 - 3 salje 0
-22:03:56 - 3 salje 0
-22:03:56 - 3 salje 0
-22:03:56 - 3 salje 0
-22:03:56 - 3 salje 0
-22:03:56 - 3 salje 0
-22:03:56 - 3 salje 0
-22:03:56 - 3 salje 0
-22:03:56 - 3 salje 0
-22:03:56 - 3 salje 0
-22:03:56 - 3 salje 0
-22:03:56 - 3 salje 0
-22:03:56 - 3 salje 0
-22:03:56 - 3 salje 0
-22:03:56 - 3 salje 0
-22:03:56 - 3 salje 0
-22:03:56 - 3 salje 0
-22:03:56 - 3 salje 0
-22:03:56 - 3 salje 0
-22:03:56 - 3 salje 0
-22:03:57 - Couldn't send message: [0|14|8|TRANSACTION|1]
-22:03:57 - Couldn't send message: [0|34|1|TRANSACTION|1]
-22:03:57 - Couldn't send message: [0|30|3|TRANSACTION|1]
-22:03:57 - Couldn't send message: [0|37|8|TRANSACTION|1]
-22:03:57 - Couldn't send message: [0|37|8|TRANSACTION|1]
-22:03:57 - Couldn't send message: [0|27|4|TRANSACTION|1]
-22:03:57 - Couldn't send message: [0|26|9|TRANSACTION|1]
-22:03:57 - Couldn't send message: [0|17|4|TRANSACTION|1]
-22:03:57 - Couldn't send message: [0|39|10|TRANSACTION|1]
-22:03:57 - Couldn't send message: [0|23|4|TRANSACTION|1]
-22:03:57 - Couldn't send message: [0|24|8|TRANSACTION|1]
-22:03:57 - Couldn't send message: [0|31|5|TRANSACTION|1]
-22:03:57 - Couldn't send message: [0|31|5|TRANSACTION|1]
-22:03:57 - Couldn't send message: [0|37|8|TRANSACTION|1]
-22:03:57 - Couldn't send message: [0|28|1|TRANSACTION|1]
-22:03:57 - Couldn't send message: [0|26|9|TRANSACTION|1]
-22:03:57 - Couldn't send message: [0|3|9|TRANSACTION|1]
-22:03:57 - 3 salje 0
-22:03:57 - 3 salje 0
-22:03:57 - 3 salje 0
-22:03:57 - 3 salje 0
-22:03:57 - 3 salje 0
-22:03:57 - 3 salje 0
-22:03:57 - 3 salje 0
-22:03:57 - 3 salje 0
-22:03:57 - 3 salje 0
-22:03:57 - 3 salje 0
-22:03:57 - Couldn't send message: [0|28|1|TRANSACTION|1]
-22:03:57 - Couldn't send message: [0|22|1|TRANSACTION|1]
-22:03:57 - Couldn't send message: [0|28|1|TRANSACTION|1]
-22:03:57 - Couldn't send message: [0|17|4|TRANSACTION|1]
-22:03:57 - Couldn't send message: [0|32|1|TRANSACTION|1]
-22:03:57 - Couldn't send message: [0|17|4|TRANSACTION|1]
-22:03:57 - Couldn't send message: [0|22|1|TRANSACTION|1]
-22:03:57 - Couldn't send message: [0|37|8|TRANSACTION|1]
-22:03:57 - Couldn't send message: [0|17|4|TRANSACTION|1]
-22:03:57 - Couldn't send message: [0|38|8|TRANSACTION|1]
-22:03:57 - Couldn't send message: [0|22|1|TRANSACTION|1]
-22:03:57 - Couldn't send message: [0|23|4|TRANSACTION|1]
-22:03:57 - Couldn't send message: [0|30|3|TRANSACTION|1]
-22:03:57 - Couldn't send message: [0|33|7|TRANSACTION|1]
-22:03:57 - 3 salje 0
-22:03:57 - Couldn't send message: [0|38|8|TRANSACTION|1]
-22:03:57 - Couldn't send message: [0|31|5|TRANSACTION|1]
-22:03:57 - Couldn't send message: [0|39|10|TRANSACTION|1]
-22:03:57 - Couldn't send message: [0|33|7|TRANSACTION|1]
-22:03:57 - Couldn't send message: [0|28|1|TRANSACTION|1]
-22:03:57 - Couldn't send message: [0|33|7|TRANSACTION|1]
-22:03:57 - Couldn't send message: [0|34|1|TRANSACTION|1]
-22:03:57 - Couldn't send message: [0|31|5|TRANSACTION|1]
-22:03:57 - Couldn't send message: [0|37|8|TRANSACTION|1]
-22:03:57 - Couldn't send message: [0|34|1|TRANSACTION|1]
-22:03:57 - Couldn't send message: [0|28|1|TRANSACTION|1]
-22:03:57 - Couldn't send message: [0|39|10|TRANSACTION|1]
-22:03:57 - Couldn't send message: [0|23|4|TRANSACTION|1]
-22:03:57 - Couldn't send message: [0|39|10|TRANSACTION|1]
-22:03:57 - Couldn't send message: [0|31|5|TRANSACTION|1]
-22:03:57 - 3 salje 0
-22:03:57 - 3 salje 0
-22:03:57 - 3 salje 0
-22:03:57 - 3 salje 0
-22:03:57 - 3 salje 0
-22:03:57 - 3 salje 0
-22:03:57 - 3 salje 0
-22:03:57 - 3 salje 0
-22:03:57 - 3 salje 0
-22:03:57 - 3 salje 0
-22:03:57 - 3 salje 0
-22:03:57 - 3 salje 0
-22:03:57 - 3 salje 0
-22:03:57 - 3 salje 0
-22:03:57 - 3 salje 0
-22:03:57 - 3 salje 0
-22:03:57 - 3 salje 0
-22:03:57 - 3 salje 0
-22:03:57 - 3 salje 0
-22:03:57 - 3 salje 0
-22:03:57 - 3 salje 0
-22:03:57 - 3 salje 0
-22:03:57 - 3 salje 0
-22:03:57 - 3 salje 0
-22:03:57 - 3 salje 0
-22:03:57 - 3 salje 0
-22:03:57 - 3 salje 0
-22:03:57 - 3 salje 0
-22:03:57 - 3 salje 0
-22:03:57 - 3 salje 0
-22:03:57 - 3 salje 0
-22:03:57 - 3 salje 0
-22:03:57 - 3 salje 0
-22:03:57 - 3 salje 0
-22:03:57 - 3 salje 0
-22:03:57 - 3 salje 0
-22:03:57 - 3 salje 0
-22:03:57 - 3 salje 0
-22:03:57 - 3 salje 0
-22:03:57 - 3 salje 0
-22:03:57 - 3 salje 0
-22:03:57 - 3 salje 0
-22:03:57 - 3 salje 0
-22:03:57 - Couldn't send message: [0|21|6|TRANSACTION|1]
-22:03:57 - 3 salje 0
-22:03:57 - 3 salje 0
-22:03:57 - 3 salje 0
-22:03:57 - 3 salje 0
-22:03:57 - 3 salje 0
-22:03:57 - 3 salje 0
-22:03:57 - 3 salje 0
-22:03:57 - 3 salje 0
-22:03:57 - Couldn't send message: [0|27|4|TRANSACTION|1]
-22:03:57 - Couldn't send message: [0|31|5|TRANSACTION|1]
-22:03:57 - Couldn't send message: [0|17|4|TRANSACTION|1]
-22:03:57 - Couldn't send message: [0|38|8|TRANSACTION|1]
-22:03:57 - Couldn't send message: [0|14|8|TRANSACTION|1]
-22:03:57 - Couldn't send message: [0|39|10|TRANSACTION|1]
-22:03:57 - Couldn't send message: [0|16|2|TRANSACTION|1]
-22:03:57 - Couldn't send message: [0|39|10|TRANSACTION|1]
-22:03:57 - Couldn't send message: [0|38|8|TRANSACTION|1]
-22:03:57 - Couldn't send message: [0|26|9|TRANSACTION|1]
-22:03:57 - Couldn't send message: [0|30|3|TRANSACTION|1]
-22:03:57 - Couldn't send message: [0|28|1|TRANSACTION|1]
-22:03:57 - Couldn't send message: [0|31|5|TRANSACTION|1]
-22:03:57 - Couldn't send message: [0|27|4|TRANSACTION|1]
-22:03:57 - Couldn't send message: [0|23|4|TRANSACTION|1]
-22:03:57 - 3 salje 0
-22:03:57 - 3 salje 0
-22:03:57 - 3 salje 0
-22:03:57 - 3 salje 0
-22:03:57 - 3 salje 0
-22:03:57 - 3 salje 0
-22:03:57 - 3 salje 0
-22:03:57 - 3 salje 0
-22:03:57 - 3 salje 0
-22:03:58 - 3 salje 0
-22:03:58 - 3 salje 0
-22:03:58 - Couldn't send message: [0|38|8|TRANSACTION|1]
-22:03:58 - Couldn't send message: [0|27|4|TRANSACTION|1]
-22:03:58 - Couldn't send message: [0|17|4|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|23|4|TRANSACTION|1]
-22:03:58 - Couldn't send message: [0|26|9|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|38|8|TRANSACTION|1]
-22:03:58 - Couldn't send message: [0|33|7|TRANSACTION|1]
-22:03:58 - Couldn't send message: [0|28|1|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|31|5|TRANSACTION|1]
-22:03:58 - Couldn't send message: [0|23|4|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|33|7|TRANSACTION|1]
-22:03:58 - Couldn't send message: [0|33|7|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|37|8|TRANSACTION|1]
-22:03:58 - Couldn't send message: [0|24|8|TRANSACTION|1]
-22:03:58 - Couldn't send message: [0|6|4|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|30|3|TRANSACTION|1]
-22:03:58 - Couldn't send message: [0|26|9|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|38|8|TRANSACTION|1]
-22:03:58 - Couldn't send message: [0|31|5|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|26|9|TRANSACTION|1]
-22:03:58 - Couldn't send message: [0|34|1|TRANSACTION|4]
-22:03:58 - Couldn't send message: [0|37|8|TRANSACTION|1]
-22:03:58 - Couldn't send message: [0|28|1|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|31|5|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|27|4|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|17|4|TRANSACTION|4]
-22:03:58 - Couldn't send message: [0|30|3|TRANSACTION|4]
-22:03:58 - Couldn't send message: [0|33|7|TRANSACTION|1]
-22:03:58 - Couldn't send message: [0|17|4|TRANSACTION|1]
-22:03:58 - Couldn't send message: [0|37|8|TRANSACTION|1]
-22:03:58 - Couldn't send message: [0|27|4|TRANSACTION|4]
-22:03:58 - Couldn't send message: [0|26|9|TRANSACTION|1]
-22:03:58 - Couldn't send message: [0|33|7|TRANSACTION|1]
-22:03:58 - Couldn't send message: [0|24|8|TRANSACTION|1]
-22:03:58 - Couldn't send message: [0|33|7|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|26|9|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|38|8|TRANSACTION|1]
-22:03:58 - Couldn't send message: [0|17|4|TRANSACTION|1]
-22:03:58 - Couldn't send message: [0|31|5|TRANSACTION|1]
-22:03:58 - Couldn't send message: [0|26|9|TRANSACTION|1]
-22:03:58 - Couldn't send message: [0|29|2|TRANSACTION|1]
-22:03:58 - Couldn't send message: [0|27|4|TRANSACTION|1]
-22:03:58 - Couldn't send message: [0|39|10|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|38|8|TRANSACTION|1]
-22:03:58 - Couldn't send message: [0|38|8|TRANSACTION|4]
-22:03:58 - Couldn't send message: [0|30|3|TRANSACTION|1]
-22:03:58 - Couldn't send message: [0|33|7|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|24|8|TRANSACTION|1]
-22:03:58 - Couldn't send message: [0|31|5|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|26|9|TRANSACTION|4]
-22:03:58 - Couldn't send message: [0|26|9|TRANSACTION|4]
-22:03:58 - Couldn't send message: [0|34|1|TRANSACTION|1]
-22:03:58 - Couldn't send message: [0|33|7|TRANSACTION|4]
-22:03:58 - Couldn't send message: [0|37|8|TRANSACTION|4]
-22:03:58 - Couldn't send message: [0|23|4|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|5|3|TRANSACTION|4]
-22:03:58 - Couldn't send message: [0|28|1|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|34|1|TRANSACTION|1]
-22:03:58 - Couldn't send message: [0|24|8|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|14|8|TRANSACTION|1]
-22:03:58 - Couldn't send message: [0|34|1|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|34|1|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|38|8|TRANSACTION|1]
-22:03:58 - Couldn't send message: [0|37|8|TRANSACTION|1]
-22:03:58 - Couldn't send message: [0|39|10|TRANSACTION|1]
-22:03:58 - Couldn't send message: [0|34|1|TRANSACTION|1]
-22:03:58 - Couldn't send message: [0|26|9|TRANSACTION|1]
-22:03:58 - Couldn't send message: [0|30|3|TRANSACTION|1]
-22:03:58 - Couldn't send message: [0|24|8|TRANSACTION|1]
-22:03:58 - Couldn't send message: [0|22|1|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|34|1|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|13|4|TRANSACTION|1]
-22:03:58 - Couldn't send message: [0|23|4|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|37|8|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|28|1|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|23|4|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|25|3|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|31|5|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|30|3|TRANSACTION|4]
-22:03:58 - Couldn't send message: [0|0|7|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|37|8|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|34|1|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|31|5|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|26|9|TRANSACTION|1]
-22:03:58 - Couldn't send message: [0|33|7|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|38|8|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|37|8|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|14|8|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|17|4|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|11|9|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|37|8|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|12|1|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|17|4|TRANSACTION|4]
-22:03:58 - Couldn't send message: [0|23|4|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|27|4|TRANSACTION|4]
-22:03:58 - Couldn't send message: [0|14|8|TRANSACTION|4]
-22:03:58 - Couldn't send message: [0|33|7|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|33|7|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|33|7|TRANSACTION|4]
-22:03:58 - Couldn't send message: [0|38|8|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|26|9|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|37|8|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|26|9|TRANSACTION|4]
-22:03:58 - Couldn't send message: [0|33|7|TRANSACTION|4]
-22:03:58 - Couldn't send message: [0|26|9|TRANSACTION|2]
-22:03:58 - 3 salje 0
-22:03:58 - 3 salje 0
-22:03:58 - 3 salje 0
-22:03:58 - 3 salje 0
-22:03:58 - 3 salje 0
-22:03:58 - 3 salje 0
-22:03:58 - 3 salje 0
-22:03:58 - 3 salje 0
-22:03:58 - 3 salje 0
-22:03:58 - 3 salje 0
-22:03:58 - 3 salje 0
-22:03:58 - 3 salje 0
-22:03:58 - 3 salje 0
-22:03:58 - 3 salje 0
-22:03:58 - 3 salje 0
-22:03:58 - 3 salje 0
-22:03:58 - 3 salje 0
-22:03:58 - 3 salje 0
-22:03:58 - 3 salje 0
-22:03:58 - 3 salje 0
-22:03:58 - 3 salje 0
-22:03:58 - 3 salje 0
-22:03:58 - 3 salje 0
-22:03:58 - 3 salje 0
-22:03:58 - 3 salje 0
-22:03:58 - 3 salje 0
-22:03:58 - 3 salje 0
-22:03:58 - 3 salje 0
-22:03:58 - 3 salje 0
-22:03:58 - 3 salje 0
-22:03:58 - 3 salje 0
-22:03:58 - 3 salje 0
-22:03:58 - 3 salje 0
-22:03:58 - 3 salje 0
-22:03:58 - 3 salje 0
-22:03:58 - 3 salje 0
-22:03:58 - 3 salje 0
-22:03:58 - 3 salje 0
-22:03:58 - 3 salje 0
-22:03:58 - 3 salje 0
-22:03:58 - 3 salje 0
-22:03:58 - 3 salje 0
-22:03:58 - 3 salje 0
-22:03:58 - 3 salje 0
-22:03:58 - 3 salje 0
-22:03:58 - 3 salje 0
-22:03:58 - Couldn't send message: [0|39|10|TRANSACTION|4]
-22:03:58 - Couldn't send message: [0|37|8|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|37|8|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|27|4|TRANSACTION|4]
-22:03:58 - Couldn't send message: [0|27|4|TRANSACTION|4]
-22:03:58 - Couldn't send message: [0|31|5|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|34|1|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|34|1|TRANSACTION|4]
-22:03:58 - Couldn't send message: [0|23|4|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|24|8|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|34|1|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|37|8|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|38|8|TRANSACTION|4]
-22:03:58 - Couldn't send message: [0|31|5|TRANSACTION|4]
-22:03:58 - Couldn't send message: [0|34|1|TRANSACTION|4]
-22:03:58 - Couldn't send message: [0|38|8|TRANSACTION|4]
-22:03:58 - Couldn't send message: [0|37|8|TRANSACTION|4]
-22:03:58 - Couldn't send message: [0|27|4|TRANSACTION|4]
-22:03:58 - Couldn't send message: [0|26|9|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|34|1|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|33|7|TRANSACTION|4]
-22:03:58 - Couldn't send message: [0|33|7|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|34|1|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|22|1|TRANSACTION|4]
-22:03:58 - Couldn't send message: [0|33|7|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|31|5|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|33|7|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|37|8|TRANSACTION|4]
-22:03:58 - Couldn't send message: [0|28|1|TRANSACTION|4]
-22:03:58 - Couldn't send message: [0|24|8|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|26|9|TRANSACTION|4]
-22:03:58 - Couldn't send message: [0|31|5|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|28|1|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|28|1|TRANSACTION|4]
-22:03:58 - Couldn't send message: [0|17|4|TRANSACTION|4]
-22:03:58 - Couldn't send message: [0|24|8|TRANSACTION|4]
-22:03:58 - Couldn't send message: [0|26|9|TRANSACTION|4]
-22:03:58 - Couldn't send message: [0|38|8|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|23|4|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|33|7|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|25|3|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|37|8|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|31|5|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|24|8|TRANSACTION|4]
-22:03:58 - Couldn't send message: [0|31|5|TRANSACTION|4]
-22:03:58 - Couldn't send message: [0|23|4|TRANSACTION|4]
-22:03:58 - 3 salje 0
-22:03:58 - Couldn't send message: [0|14|8|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|28|1|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|33|7|TRANSACTION|4]
-22:03:58 - Couldn't send message: [0|13|4|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|33|7|TRANSACTION|4]
-22:03:58 - Couldn't send message: [0|23|4|TRANSACTION|4]
-22:03:58 - Couldn't send message: [0|31|5|TRANSACTION|4]
-22:03:58 - Couldn't send message: [0|31|5|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|26|9|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|33|7|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|34|1|TRANSACTION|4]
-22:03:58 - Couldn't send message: [0|37|8|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|26|9|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|33|7|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|33|7|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|14|8|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|26|9|TRANSACTION|4]
-22:03:58 - Couldn't send message: [0|31|5|TRANSACTION|4]
-22:03:58 - Couldn't send message: [0|39|10|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|37|8|TRANSACTION|4]
-22:03:58 - Couldn't send message: [0|30|3|TRANSACTION|4]
-22:03:58 - Couldn't send message: [0|38|8|TRANSACTION|4]
-22:03:58 - Couldn't send message: [0|26|9|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|37|8|TRANSACTION|4]
-22:03:58 - Couldn't send message: [0|33|7|TRANSACTION|4]
-22:03:58 - Couldn't send message: [0|31|5|TRANSACTION|4]
-22:03:58 - Couldn't send message: [0|38|8|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|33|7|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|37|8|TRANSACTION|4]
-22:03:58 - Couldn't send message: [0|31|5|TRANSACTION|4]
-22:03:58 - Couldn't send message: [0|37|8|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|23|4|TRANSACTION|4]
-22:03:58 - Couldn't send message: [0|31|5|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|33|7|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|24|8|TRANSACTION|4]
-22:03:58 - Couldn't send message: [0|28|1|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|33|7|TRANSACTION|4]
-22:03:58 - Couldn't send message: [0|33|7|TRANSACTION|4]
-22:03:58 - Couldn't send message: [0|17|4|TRANSACTION|4]
-22:03:58 - Couldn't send message: [0|34|1|TRANSACTION|4]
-22:03:58 - Couldn't send message: [0|27|4|TRANSACTION|4]
-22:03:58 - Couldn't send message: [0|26|9|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|23|4|TRANSACTION|4]
-22:03:58 - Couldn't send message: [0|23|4|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|14|8|TRANSACTION|4]
-22:03:58 - Couldn't send message: [0|17|4|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|31|5|TRANSACTION|4]
-22:03:58 - Couldn't send message: [0|26|9|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|38|8|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|24|8|TRANSACTION|4]
-22:03:58 - Couldn't send message: [0|23|4|TRANSACTION|4]
-22:03:58 - Couldn't send message: [0|31|5|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|24|8|TRANSACTION|4]
-22:03:58 - Couldn't send message: [0|29|2|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|33|7|TRANSACTION|4]
-22:03:58 - Couldn't send message: [0|37|8|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|17|4|TRANSACTION|4]
-22:03:58 - Couldn't send message: [0|33|7|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|31|5|TRANSACTION|4]
-22:03:58 - Couldn't send message: [0|33|7|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|37|8|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|33|7|TRANSACTION|4]
-22:03:58 - Couldn't send message: [0|14|8|TRANSACTION|4]
-22:03:58 - Couldn't send message: [0|33|7|TRANSACTION|4]
-22:03:58 - Couldn't send message: [0|30|3|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|38|8|TRANSACTION|4]
-22:03:58 - Couldn't send message: [0|26|9|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|37|8|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|26|9|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|23|4|TRANSACTION|4]
-22:03:58 - Couldn't send message: [0|33|7|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|23|4|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|31|5|TRANSACTION|4]
-22:03:58 - Couldn't send message: [0|38|8|TRANSACTION|4]
-22:03:58 - Couldn't send message: [0|8|5|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|34|1|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|30|3|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|14|8|TRANSACTION|4]
-22:03:58 - Couldn't send message: [0|31|5|TRANSACTION|4]
-22:03:58 - Couldn't send message: [0|31|5|TRANSACTION|4]
-22:03:58 - Couldn't send message: [0|14|8|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|24|8|TRANSACTION|4]
-22:03:58 - Couldn't send message: [0|34|1|TRANSACTION|4]
-22:03:58 - Couldn't send message: [0|28|1|TRANSACTION|4]
-22:03:58 - Couldn't send message: [0|27|4|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|31|5|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|26|9|TRANSACTION|4]
-22:03:58 - Couldn't send message: [0|31|5|TRANSACTION|4]
-22:03:58 - Couldn't send message: [0|30|3|TRANSACTION|4]
-22:03:58 - Couldn't send message: [0|23|4|TRANSACTION|4]
-22:03:58 - Couldn't send message: [0|39|10|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|34|1|TRANSACTION|4]
-22:03:58 - Couldn't send message: [0|33|7|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|33|7|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|33|7|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|28|1|TRANSACTION|4]
-22:03:58 - Couldn't send message: [0|24|8|TRANSACTION|4]
-22:03:58 - Couldn't send message: [0|7|6|TRANSACTION|4]
-22:03:58 - Couldn't send message: [0|34|1|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|30|3|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|26|9|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|31|5|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|26|9|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|31|5|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|23|4|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|39|10|TRANSACTION|4]
-22:03:58 - Couldn't send message: [0|34|1|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|31|5|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|33|7|TRANSACTION|4]
-22:03:58 - Couldn't send message: [0|33|7|TRANSACTION|4]
-22:03:58 - Couldn't send message: [0|37|8|TRANSACTION|4]
-22:03:58 - Couldn't send message: [0|34|1|TRANSACTION|4]
-22:03:58 - Couldn't send message: [0|31|5|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|27|4|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|28|1|TRANSACTION|4]
-22:03:58 - Couldn't send message: [0|38|8|TRANSACTION|4]
-22:03:58 - Couldn't send message: [0|31|5|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|34|1|TRANSACTION|4]
-22:03:58 - Couldn't send message: [0|23|4|TRANSACTION|4]
-22:03:58 - Couldn't send message: [0|33|7|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|34|1|TRANSACTION|4]
-22:03:58 - Couldn't send message: [0|24|8|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|26|9|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|30|3|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|24|8|TRANSACTION|4]
-22:03:58 - Couldn't send message: [0|28|1|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|31|5|TRANSACTION|4]
-22:03:58 - Couldn't send message: [0|27|4|TRANSACTION|4]
-22:03:58 - Couldn't send message: [0|27|4|TRANSACTION|4]
-22:03:58 - Couldn't send message: [0|28|1|TRANSACTION|4]
-22:03:58 - Couldn't send message: [0|39|10|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|24|8|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|37|8|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|38|8|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|23|4|TRANSACTION|4]
-22:03:58 - Couldn't send message: [0|28|1|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|39|10|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|33|7|TRANSACTION|4]
-22:03:58 - Couldn't send message: [0|23|4|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|31|5|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|34|1|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|31|5|TRANSACTION|4]
-22:03:58 - Couldn't send message: [0|34|1|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|14|8|TRANSACTION|4]
-22:03:58 - Couldn't send message: [0|24|8|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|34|1|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|24|8|TRANSACTION|4]
-22:03:58 - Couldn't send message: [0|37|8|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|10|4|TRANSACTION|4]
-22:03:58 - Couldn't send message: [0|26|9|TRANSACTION|4]
-22:03:58 - Couldn't send message: [0|31|5|TRANSACTION|4]
-22:03:58 - Couldn't send message: [0|34|1|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|26|9|TRANSACTION|4]
-22:03:58 - Couldn't send message: [0|24|8|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|23|4|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|14|8|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|33|7|TRANSACTION|4]
-22:03:58 - Couldn't send message: [0|31|5|TRANSACTION|4]
-22:03:58 - Couldn't send message: [0|14|8|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|24|8|TRANSACTION|2]
-22:03:58 - Couldn't send message: [0|33|7|TRANSACTION|2]
-22:03:58 - 3 salje 0
-22:03:58 - 3 salje 0
-22:03:58 - 3 salje 0
-22:03:58 - 3 salje 0
-22:03:58 - 3 salje 0
-22:03:58 - 3 salje 0
-22:03:58 - 3 salje 0
-22:03:58 - 3 salje 0
-22:03:59 - Couldn't send message: [0|27|4|TRANSACTION|2]
-22:03:59 - Couldn't send message: [0|26|9|TRANSACTION|1]
-22:03:59 - Couldn't send message: [0|31|5|TRANSACTION|2]
-22:03:59 - Couldn't send message: [0|24|8|TRANSACTION|1]
-22:03:59 - Couldn't send message: [0|23|4|TRANSACTION|2]
-22:03:59 - Couldn't send message: [0|25|3|TRANSACTION|1]
-22:03:59 - Couldn't send message: [0|33|7|TRANSACTION|2]
-22:03:59 - Couldn't send message: [0|28|1|TRANSACTION|2]
-22:03:59 - Couldn't send message: [0|33|7|TRANSACTION|1]
-22:03:59 - Couldn't send message: [0|33|7|TRANSACTION|2]
-22:03:59 - Couldn't send message: [0|37|8|TRANSACTION|2]
-22:03:59 - Couldn't send message: [0|33|7|TRANSACTION|1]
-22:03:59 - Couldn't send message: [0|37|8|TRANSACTION|2]
-22:03:59 - Couldn't send message: [0|27|4|TRANSACTION|2]
-22:03:59 - Couldn't send message: [0|34|1|TRANSACTION|1]
-22:03:59 - Couldn't send message: [0|26|9|TRANSACTION|1]
-22:03:59 - Couldn't send message: [0|37|8|TRANSACTION|2]
-22:03:59 - Couldn't send message: [0|22|1|TRANSACTION|2]
-22:03:59 - Couldn't send message: [0|33|7|TRANSACTION|1]
-22:03:59 - Couldn't send message: [0|20|8|TRANSACTION|1]
-22:03:59 - Couldn't send message: [0|39|10|TRANSACTION|1]
-22:03:59 - Couldn't send message: [0|28|1|TRANSACTION|1]
-22:03:59 - Couldn't send message: [0|30|3|TRANSACTION|2]
-22:03:59 - Couldn't send message: [0|39|10|TRANSACTION|2]
-22:03:59 - Couldn't send message: [0|38|8|TRANSACTION|1]
-22:03:59 - Couldn't send message: [0|37|8|TRANSACTION|1]
-22:03:59 - Couldn't send message: [0|17|4|TRANSACTION|2]
-22:03:59 - Couldn't send message: [0|26|9|TRANSACTION|2]
-22:03:59 - Couldn't send message: [0|31|5|TRANSACTION|1]
-22:03:59 - Couldn't send message: [0|28|1|TRANSACTION|1]
-22:03:59 - Couldn't send message: [0|33|7|TRANSACTION|2]
-22:03:59 - Couldn't send message: [0|24|8|TRANSACTION|1]
-22:03:59 - Couldn't send message: [0|30|3|TRANSACTION|2]
-22:03:59 - Couldn't send message: [0|38|8|TRANSACTION|2]
-22:03:59 - Couldn't send message: [0|33|7|TRANSACTION|1]
-22:03:59 - Couldn't send message: [0|2|9|TRANSACTION|2]
-22:03:59 - Couldn't send message: [0|34|1|TRANSACTION|1]
-22:03:59 - Couldn't send message: [0|14|8|TRANSACTION|1]
-22:03:59 - Couldn't send message: [0|26|9|TRANSACTION|2]
-22:03:59 - Couldn't send message: [0|26|9|TRANSACTION|1]
-22:03:59 - Couldn't send message: [0|34|1|TRANSACTION|1]
-22:03:59 - Couldn't send message: [0|31|5|TRANSACTION|1]
-22:03:59 - Couldn't send message: [0|39|10|TRANSACTION|2]
-22:03:59 - Couldn't send message: [0|33|7|TRANSACTION|2]
-22:03:59 - Couldn't send message: [0|31|5|TRANSACTION|1]
-22:03:59 - Couldn't send message: [0|34|1|TRANSACTION|2]
-22:03:59 - Couldn't send message: [0|31|5|TRANSACTION|1]
-22:03:59 - Couldn't send message: [0|17|4|TRANSACTION|2]
-22:03:59 - Couldn't send message: [0|27|4|TRANSACTION|2]
-22:03:59 - Couldn't send message: [0|31|5|TRANSACTION|2]
-22:03:59 - Couldn't send message: [0|39|10|TRANSACTION|2]
-22:03:59 - Couldn't send message: [0|22|1|TRANSACTION|2]
-22:03:59 - Couldn't send message: [0|33|7|TRANSACTION|1]
-22:03:59 - Couldn't send message: [0|26|9|TRANSACTION|1]
-22:03:59 - Couldn't send message: [0|17|4|TRANSACTION|2]
-22:03:59 - Couldn't send message: [0|31|5|TRANSACTION|2]
-22:03:59 - Couldn't send message: [0|38|8|TRANSACTION|1]
-22:03:59 - Couldn't send message: [0|37|8|TRANSACTION|1]
-22:03:59 - Couldn't send message: [0|34|1|TRANSACTION|2]
-22:03:59 - Couldn't send message: [0|37|8|TRANSACTION|2]
-22:03:59 - Couldn't send message: [0|33|7|TRANSACTION|1]
-22:03:59 - Couldn't send message: [0|33|7|TRANSACTION|1]
-22:03:59 - Couldn't send message: [0|34|1|TRANSACTION|1]
-22:03:59 - Couldn't send message: [0|18|9|TRANSACTION|1]
-22:03:59 - Couldn't send message: [0|31|5|TRANSACTION|1]
-22:03:59 - Couldn't send message: [0|33|7|TRANSACTION|2]
-22:03:59 - Couldn't send message: [0|34|1|TRANSACTION|1]
-22:03:59 - Couldn't send message: [0|15|6|TRANSACTION|1]
-22:03:59 - Couldn't send message: [0|24|8|TRANSACTION|1]
-22:03:59 - Couldn't send message: [0|17|4|TRANSACTION|1]
-22:03:59 - Couldn't send message: [0|37|8|TRANSACTION|1]
-22:03:59 - Couldn't send message: [0|24|8|TRANSACTION|2]
-22:03:59 - Couldn't send message: [0|24|8|TRANSACTION|2]
-22:03:59 - Couldn't send message: [0|38|8|TRANSACTION|2]
-22:03:59 - Couldn't send message: [0|38|8|TRANSACTION|2]
-22:03:59 - Couldn't send message: [0|31|5|TRANSACTION|1]
-22:03:59 - Couldn't send message: [0|24|8|TRANSACTION|1]
-22:03:59 - Couldn't send message: [0|27|4|TRANSACTION|2]
-22:03:59 - Couldn't send message: [0|23|4|TRANSACTION|1]
-22:03:59 - Couldn't send message: [0|35|8|TRANSACTION|1]
-22:03:59 - Couldn't send message: [0|24|8|TRANSACTION|2]
-22:03:59 - Couldn't send message: [0|30|3|TRANSACTION|1]
-22:03:59 - Couldn't send message: [0|23|4|TRANSACTION|2]
-22:03:59 - Couldn't send message: [0|24|8|TRANSACTION|2]
-22:03:59 - Couldn't send message: [0|24|8|TRANSACTION|4]
-22:03:59 - Couldn't send message: [0|17|4|TRANSACTION|4]
-22:03:59 - Couldn't send message: [0|38|8|TRANSACTION|4]
-22:03:59 - Couldn't send message: [0|37|8|TRANSACTION|4]
-22:03:59 - Couldn't send message: [0|24|8|TRANSACTION|2]
-22:03:59 - Couldn't send message: [0|31|5|TRANSACTION|2]
-22:03:59 - Couldn't send message: [0|38|8|TRANSACTION|4]
-22:03:59 - Couldn't send message: [0|24|8|TRANSACTION|4]
-22:03:59 - Couldn't send message: [0|34|1|TRANSACTION|2]
-22:03:59 - Couldn't send message: [0|31|5|TRANSACTION|2]
-22:03:59 - Couldn't send message: [0|28|1|TRANSACTION|4]
-22:03:59 - Couldn't send message: [0|31|5|TRANSACTION|4]
-22:03:59 - Couldn't send message: [0|31|5|TRANSACTION|2]
-22:03:59 - Couldn't send message: [0|24|8|TRANSACTION|1]
-22:03:59 - Couldn't send message: [0|34|1|TRANSACTION|2]
-22:03:59 - Couldn't send message: [0|24|8|TRANSACTION|1]
-22:03:59 - Couldn't send message: [0|28|1|TRANSACTION|4]
-22:03:59 - Couldn't send message: [0|37|8|TRANSACTION|2]
-22:03:59 - Couldn't send message: [0|33|7|TRANSACTION|1]
-22:03:59 - Couldn't send message: [0|23|4|TRANSACTION|1]
-22:03:59 - Couldn't send message: [0|19|1|TRANSACTION|1]
-22:03:59 - Couldn't send message: [0|33|7|TRANSACTION|2]
-22:03:59 - Couldn't send message: [0|24|8|TRANSACTION|2]
-22:03:59 - Couldn't send message: [0|24|8|TRANSACTION|2]
-22:03:59 - Couldn't send message: [0|23|4|TRANSACTION|2]
-22:03:59 - Couldn't send message: [0|23|4|TRANSACTION|2]
-22:03:59 - Couldn't send message: [0|39|10|TRANSACTION|2]
-22:03:59 - Couldn't send message: [0|14|8|TRANSACTION|2]
-22:03:59 - Couldn't send message: [0|26|9|TRANSACTION|2]
-22:03:59 - Couldn't send message: [0|28|1|TRANSACTION|2]
-22:03:59 - Couldn't send message: [0|34|1|TRANSACTION|4]
-22:03:59 - Couldn't send message: [0|37|8|TRANSACTION|4]
-22:03:59 - Couldn't send message: [0|24|8|TRANSACTION|1]
-22:03:59 - Couldn't send message: [0|3|9|TRANSACTION|2]
-22:03:59 - Couldn't send message: [0|17|4|TRANSACTION|2]
-22:03:59 - Couldn't send message: [0|31|5|TRANSACTION|2]
-22:03:59 - Couldn't send message: [0|28|1|TRANSACTION|2]
-22:03:59 - Couldn't send message: [0|34|1|TRANSACTION|2]
-22:03:59 - Couldn't send message: [0|39|10|TRANSACTION|2]
-22:03:59 - Couldn't send message: [0|27|4|TRANSACTION|2]
-22:03:59 - Couldn't send message: [0|23|4|TRANSACTION|2]
-22:03:59 - Couldn't send message: [0|21|6|TRANSACTION|2]
-22:03:59 - Couldn't send message: [0|38|8|TRANSACTION|2]
-22:03:59 - Couldn't send message: [0|33|7|TRANSACTION|2]
-22:03:59 - Couldn't send message: [0|27|4|TRANSACTION|2]
-22:03:59 - Couldn't send message: [0|32|1|TRANSACTION|2]
-22:03:59 - Couldn't send message: [0|27|4|TRANSACTION|1]
-22:03:59 - Couldn't send message: [0|34|1|TRANSACTION|1]
-22:03:59 - Couldn't send message: [0|31|5|TRANSACTION|2]
-22:03:59 - Couldn't send message: [0|38|8|TRANSACTION|2]
-22:03:59 - Couldn't send message: [0|37|8|TRANSACTION|2]
-22:03:59 - Couldn't send message: [0|37|8|TRANSACTION|2]
-22:03:59 - Couldn't send message: [0|39|10|TRANSACTION|4]
-22:03:59 - Couldn't send message: [0|28|1|TRANSACTION|4]
-22:03:59 - Couldn't send message: [0|38|8|TRANSACTION|1]
-22:03:59 - Couldn't send message: [0|37|8|TRANSACTION|2]
-22:03:59 - Couldn't send message: [0|5|3|TRANSACTION|1]
-22:03:59 - Couldn't send message: [0|23|4|TRANSACTION|2]
-22:03:59 - Couldn't send message: [0|14|8|TRANSACTION|2]
-22:03:59 - Couldn't send message: [0|28|1|TRANSACTION|1]
-22:03:59 - Couldn't send message: [0|34|1|TRANSACTION|1]
-22:03:59 - Couldn't send message: [0|23|4|TRANSACTION|1]
-22:03:59 - Couldn't send message: [0|30|3|TRANSACTION|1]
-22:03:59 - Couldn't send message: [0|33|7|TRANSACTION|1]
-22:03:59 - Couldn't send message: [0|33|7|TRANSACTION|1]
-22:03:59 - Couldn't send message: [0|34|1|TRANSACTION|1]
-22:03:59 - Couldn't send message: [0|17|4|TRANSACTION|4]
-22:03:59 - Couldn't send message: [0|34|1|TRANSACTION|4]
-22:03:59 - Couldn't send message: [0|23|4|TRANSACTION|1]
-22:03:59 - Couldn't send message: [0|33|7|TRANSACTION|4]
-22:03:59 - Couldn't send message: [0|1|4|TRANSACTION|2]
-22:03:59 - Couldn't send message: [0|23|4|TRANSACTION|4]
-22:03:59 - Couldn't send message: [0|37|8|TRANSACTION|1]
-22:03:59 - Couldn't send message: [0|24|8|TRANSACTION|4]
-22:03:59 - Couldn't send message: [0|38|8|TRANSACTION|2]
-22:03:59 - Couldn't send message: [0|33|7|TRANSACTION|4]
-22:03:59 - Couldn't send message: [0|39|10|TRANSACTION|4]
-22:03:59 - Couldn't send message: [0|37|8|TRANSACTION|2]
-22:03:59 - Couldn't send message: [0|33|7|TRANSACTION|1]
-22:03:59 - Couldn't send message: [0|23|4|TRANSACTION|2]
-22:03:59 - Couldn't send message: [0|34|1|TRANSACTION|1]
-22:03:59 - Couldn't send message: [0|24|8|TRANSACTION|2]
-22:03:59 - Couldn't send message: [0|37|8|TRANSACTION|2]
-22:03:59 - Couldn't send message: [0|34|1|TRANSACTION|1]
-22:03:59 - Couldn't send message: [0|33|7|TRANSACTION|1]
-22:03:59 - Couldn't send message: [0|38|8|TRANSACTION|4]
-22:03:59 - Couldn't send message: [0|20|8|TRANSACTION|2]
-22:03:59 - Couldn't send message: [0|33|7|TRANSACTION|2]
-22:03:59 - Couldn't send message: [0|34|1|TRANSACTION|1]
-22:03:59 - Couldn't send message: [0|37|8|TRANSACTION|4]
-22:03:59 - Couldn't send message: [0|31|5|TRANSACTION|4]
-22:03:59 - Couldn't send message: [0|26|9|TRANSACTION|2]
-22:03:59 - Couldn't send message: [0|24|8|TRANSACTION|2]
-22:03:59 - Couldn't send message: [0|33|7|TRANSACTION|1]
-22:03:59 - Couldn't send message: [0|37|8|TRANSACTION|1]
-22:03:59 - Couldn't send message: [0|37|8|TRANSACTION|1]
-22:03:59 - Couldn't send message: [0|30|3|TRANSACTION|4]
-22:03:59 - Couldn't send message: [0|33|7|TRANSACTION|4]
-22:03:59 - Couldn't send message: [0|27|4|TRANSACTION|4]
-22:03:59 - Couldn't send message: [0|37|8|TRANSACTION|4]
-22:03:59 - Couldn't send message: [0|37|8|TRANSACTION|4]
-22:03:59 - Couldn't send message: [0|17|4|TRANSACTION|2]
-22:03:59 - Couldn't send message: [0|33|7|TRANSACTION|1]
-22:03:59 - Couldn't send message: [0|33|7|TRANSACTION|4]
-22:03:59 - Couldn't send message: [0|34|1|TRANSACTION|1]
-22:03:59 - Couldn't send message: [0|26|9|TRANSACTION|4]
-22:03:59 - Couldn't send message: [0|37|8|TRANSACTION|1]
-22:03:59 - Couldn't send message: [0|24|8|TRANSACTION|4]
-22:03:59 - Couldn't send message: [0|24|8|TRANSACTION|1]
-22:03:59 - Couldn't send message: [0|37|8|TRANSACTION|1]
-22:03:59 - Couldn't send message: [0|17|4|TRANSACTION|2]
-22:03:59 - Couldn't send message: [0|26|9|TRANSACTION|4]
-22:03:59 - Couldn't send message: [0|33|7|TRANSACTION|1]
-22:03:59 - Couldn't send message: [0|33|7|TRANSACTION|1]
-22:03:59 - Couldn't send message: [0|23|4|TRANSACTION|2]
-22:03:59 - Couldn't send message: [0|14|8|TRANSACTION|4]
-22:03:59 - Couldn't send message: [0|17|4|TRANSACTION|1]
-22:03:59 - Couldn't send message: [0|24|8|TRANSACTION|4]
-22:03:59 - Couldn't send message: [0|34|1|TRANSACTION|4]
-22:03:59 - Couldn't send message: [0|28|1|TRANSACTION|2]
-22:03:59 - Couldn't send message: [0|33|7|TRANSACTION|4]
-22:03:59 - Couldn't send message: [0|33|7|TRANSACTION|1]
-22:03:59 - Couldn't send message: [0|39|10|TRANSACTION|1]
-22:03:59 - Couldn't send message: [0|37|8|TRANSACTION|2]
-22:03:59 - Couldn't send message: [0|34|1|TRANSACTION|1]
-22:03:59 - Couldn't send message: [0|27|4|TRANSACTION|4]
-22:03:59 - Couldn't send message: [0|28|1|TRANSACTION|4]
-22:03:59 - Couldn't send message: [0|23|4|TRANSACTION|4]
-22:03:59 - Couldn't send message: [0|31|5|TRANSACTION|4]
-22:03:59 - Couldn't send message: [0|23|4|TRANSACTION|1]
-22:03:59 - Couldn't send message: [0|33|7|TRANSACTION|2]
-22:03:59 - Couldn't send message: [0|33|7|TRANSACTION|1]
-22:03:59 - Couldn't send message: [0|33|7|TRANSACTION|4]
-22:03:59 - Couldn't send message: [0|26|9|TRANSACTION|1]
-22:03:59 - Couldn't send message: [0|23|4|TRANSACTION|1]
-22:03:59 - Couldn't send message: [0|24|8|TRANSACTION|1]
-22:03:59 - Couldn't send message: [0|39|10|TRANSACTION|4]
-22:03:59 - Couldn't send message: [0|33|7|TRANSACTION|4]
-22:03:59 - Couldn't send message: [0|20|8|TRANSACTION|4]
-22:03:59 - Couldn't send message: [0|23|4|TRANSACTION|4]
-22:03:59 - Couldn't send message: [0|31|5|TRANSACTION|4]
-22:03:59 - Couldn't send message: [0|38|8|TRANSACTION|4]
-22:03:59 - Couldn't send message: [0|39|10|TRANSACTION|4]
-22:03:59 - Couldn't send message: [0|39|10|TRANSACTION|4]
-22:03:59 - Couldn't send message: [0|26|9|TRANSACTION|2]
-22:03:59 - Couldn't send message: [0|32|1|TRANSACTION|4]
-22:03:59 - Couldn't send message: [0|28|1|TRANSACTION|2]
-22:03:59 - Couldn't send message: [0|31|5|TRANSACTION|4]
-22:03:59 - Couldn't send message: [0|38|8|TRANSACTION|4]
-22:03:59 - Couldn't send message: [0|37|8|TRANSACTION|4]
-22:03:59 - Couldn't send message: [0|37|8|TRANSACTION|4]
-22:03:59 - Couldn't send message: [0|37|8|TRANSACTION|2]
-22:03:59 - Couldn't send message: [0|26|9|TRANSACTION|2]
-22:03:59 - Couldn't send message: [0|25|3|TRANSACTION|4]
-22:03:59 - Couldn't send message: [0|31|5|TRANSACTION|2]
-22:03:59 - Couldn't send message: [0|30|3|TRANSACTION|4]
-22:03:59 - Couldn't send message: [0|37|8|TRANSACTION|4]
-22:03:59 - Couldn't send message: [0|34|1|TRANSACTION|2]
-22:03:59 - Couldn't send message: [0|30|3|TRANSACTION|2]
-22:03:59 - Couldn't send message: [0|23|4|TRANSACTION|2]
-22:03:59 - Couldn't send message: [0|25|3|TRANSACTION|1]
-22:03:59 - 3 salje 0
-22:03:59 - 3 salje 0
-22:03:59 - 3 salje 0
-22:03:59 - 3 salje 0
-22:03:59 - 3 salje 0
-22:03:59 - 3 salje 0
-22:03:59 - 3 salje 0
-22:03:59 - 3 salje 0
-22:03:59 - 3 salje 0
-22:03:59 - 3 salje 0
-22:03:59 - 3 salje 0
-22:03:59 - 3 salje 0
-22:03:59 - Couldn't send message: [0|36|8|TRANSACTION|2]
-22:03:59 - 3 salje 0
-22:03:59 - Couldn't send message: [0|37|8|TRANSACTION|4]
-22:03:59 - 3 salje 0
-22:03:59 - 3 salje 0
-22:03:59 - 3 salje 0
-22:03:59 - 3 salje 0
-22:03:59 - 3 salje 0
-22:03:59 - 3 salje 0
-22:03:59 - 3 salje 0
-22:03:59 - 3 salje 0
-22:03:59 - 3 salje 0
-22:03:59 - 3 salje 0
-22:03:59 - Couldn't send message: [0|37|8|TRANSACTION|4]
-22:03:59 - 3 salje 0
-22:03:59 - 3 salje 0
-22:03:59 - 3 salje 0
-22:03:59 - 3 salje 0
-22:03:59 - 3 salje 0
-22:03:59 - 3 salje 0
-22:03:59 - 3 salje 0
-22:03:59 - 3 salje 0
-22:03:59 - 3 salje 0
-22:03:59 - 3 salje 0
-22:03:59 - Couldn't send message: [0|26|9|TRANSACTION|4]
-22:03:59 - 3 salje 0
-22:03:59 - Couldn't send message: [0|33|7|TRANSACTION|2]
-22:03:59 - Couldn't send message: [0|3|9|TRANSACTION|4]
-22:04:00 - Couldn't send message: [0|26|9|TRANSACTION|4]
-22:04:00 - Couldn't send message: [0|39|10|TRANSACTION|4]
-22:04:00 - Couldn't send message: [0|36|8|TRANSACTION|4]
-22:04:00 - Couldn't send message: [0|26|9|TRANSACTION|4]
-22:04:00 - Couldn't send message: [0|37|8|TRANSACTION|4]
-22:04:00 - Couldn't send message: [0|33|7|TRANSACTION|4]
-22:04:00 - 3 salje 0
-22:04:00 - 3 salje 0
-22:04:00 - 3 salje 0
-22:04:00 - 3 salje 0
-22:04:00 - 3 salje 0
-22:04:00 - 3 salje 0
-22:04:00 - 3 salje 0
-22:04:00 - 3 salje 0
-22:04:00 - 3 salje 0
-22:04:00 - 3 salje 0
-22:04:00 - 3 salje 0
-22:04:00 - 3 salje 0
-22:04:00 - 3 salje 0
-22:04:00 - 3 salje 0
-22:04:00 - 3 salje 0
-22:04:00 - 3 salje 0
-22:04:00 - 3 salje 0
-22:04:00 - 3 salje 0
-22:04:00 - 3 salje 0
-22:04:01 - 3 salje 0
-22:04:01 - 3 salje 0
-22:04:01 - 3 salje 0
-22:04:01 - 3 salje 0
-22:04:01 - 3 salje 0
-22:04:01 - 3 salje 0
-22:04:01 - 3 salje 0
-22:04:01 - 3 salje 0
-22:04:01 - 3 salje 0
-22:04:01 - 3 salje 0
-22:04:01 - 3 salje 0
-22:04:01 - 3 salje 0
-22:04:01 - 3 salje 0
-22:04:01 - 3 salje 0
-22:04:01 - 3 salje 0
-22:04:01 - 3 salje 0
-22:04:01 - 3 salje 0
-22:04:01 - 3 salje 0
-22:04:01 - 3 salje 0
-22:04:01 - 3 salje 0
-22:04:01 - 3 salje 0
-22:04:01 - 3 salje 0
-22:04:01 - 3 salje 0
-22:04:01 - 3 salje 0
-22:04:01 - 3 salje 0
-22:04:01 - 3 salje 0
-22:04:01 - 3 salje 0
-22:04:01 - 3 salje 0
-22:04:01 - 3 salje 0
-22:04:01 - 3 salje 0
-22:04:01 - 3 salje 0
-22:04:01 - 3 salje 0
-22:04:01 - 3 salje 0
-22:04:01 - 3 salje 0
-22:04:01 - 3 salje 0
-22:04:01 - 3 salje 0
-22:04:01 - 3 salje 0
-22:04:01 - 3 salje 0
-22:04:01 - 3 salje 0
-22:04:01 - 3 salje 0
-22:04:01 - 3 salje 0
-22:04:01 - 3 salje 0
-22:04:01 - 3 salje 0
-22:04:01 - 3 salje 0
-22:04:01 - 3 salje 0
-22:04:01 - 3 salje 0
-22:04:01 - 3 salje 0
-22:04:01 - 3 salje 0
-22:04:02 - 3 salje 0
-22:04:02 - 3 salje 0
-22:04:02 - 3 salje 0
-22:04:02 - 3 salje 0
-22:04:02 - 3 salje 0
-22:04:02 - 3 salje 0
-22:04:02 - 3 salje 0
-22:04:02 - 3 salje 0
-22:04:02 - 3 salje 0
-22:04:02 - 3 salje 0
-22:04:02 - 3 salje 0
-22:04:02 - 3 salje 0
-22:04:02 - 3 salje 0
-22:04:02 - 3 salje 0
-22:04:02 - 3 salje 0
-22:04:02 - 3 salje 0
-22:04:02 - 3 salje 0
-22:04:02 - 3 salje 0
-22:04:02 - 3 salje 0
-22:04:02 - 3 salje 0
-22:04:02 - 3 salje 0
-22:04:02 - 3 salje 0
-22:04:02 - 3 salje 0
-22:04:02 - 3 salje 0
-22:04:02 - 3 salje 0
-22:04:02 - 3 salje 0
-22:04:02 - 3 salje 0
-22:04:02 - 3 salje 0
-22:04:02 - 3 salje 0
-22:04:02 - 3 salje 0
-22:04:02 - 3 salje 0
-22:04:02 - 3 salje 0
-22:04:02 - 3 salje 0
-22:04:02 - 3 salje 0
-22:04:02 - 3 salje 0
-22:04:02 - 3 salje 0
-22:04:02 - 3 salje 0
-22:04:02 - 3 salje 0
-22:04:02 - 3 salje 0
-22:04:02 - 3 salje 0
-22:04:02 - 3 salje 0
-22:04:02 - 3 salje 0
-22:04:02 - 3 salje 0
-22:04:02 - 3 salje 0
-22:04:02 - 3 salje 0
-22:04:02 - 3 salje 0
-22:04:02 - 3 salje 0
-22:04:02 - 3 salje 0
-22:04:02 - 3 salje 0
-22:04:02 - 3 salje 0
-22:04:02 - 3 salje 0
-22:04:02 - 3 salje 0
-22:04:02 - 3 salje 0
-22:04:02 - 3 salje 0
-22:04:02 - 3 salje 0
-22:04:02 - 3 salje 0
-22:04:02 - 3 salje 0
-22:04:02 - 3 salje 0
-22:04:02 - 3 salje 0
-22:04:02 - 3 salje 0
-22:04:02 - 3 salje 0
-22:04:02 - 3 salje 0
-22:04:02 - 3 salje 0
-22:04:02 - 3 salje 0
-22:04:02 - 3 salje 0
-22:04:02 - 3 salje 0
-22:04:02 - 3 salje 0
-22:04:02 - 3 salje 0
-22:04:02 - 3 salje 0
-22:04:02 - 3 salje 0
-22:04:02 - 3 salje 0
-22:04:02 - 3 salje 0
-22:04:02 - 3 salje 0
-22:04:02 - 3 salje 0
-22:04:02 - 3 salje 0
-22:04:02 - 3 salje 0
-22:04:02 - 3 salje 0
-22:04:02 - 3 salje 0
-22:04:02 - 3 salje 0
-22:04:02 - 3 salje 0
-22:04:02 - 3 salje 0
-22:04:02 - 3 salje 0
-22:04:02 - 3 salje 0
-22:04:02 - 3 salje 0
-22:04:02 - 3 salje 0
-22:04:02 - 3 salje 0
-22:04:02 - 3 salje 0
-22:04:02 - 3 salje 0
-22:04:02 - 3 salje 0
-22:04:02 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - da li je ab_tell: false
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - 3 salje 0
-22:04:03 - da li je ab_tell: false
-22:04:03 - da li je ab_tell: false
-22:04:03 - da li je ab_tell: false
-22:04:03 - nakon inita: class servent.message.snapshot.ABTellMessage
-22:04:04 - 3 salje 0
-22:04:04 - 3 salje 0
-22:04:04 - 3 salje 0
-22:04:04 - 3 salje 0
-22:04:04 - 3 salje 0
-22:04:04 - 3 salje 0
-22:04:04 - 3 salje 0
-22:04:04 - 3 salje 0
-22:04:04 - 3 salje 0
-22:04:04 - 3 salje 0
-22:04:04 - 3 salje 0
-22:04:04 - 3 salje 0
-22:04:04 - 3 salje 0
-22:04:04 - 3 salje 0
-22:04:04 - 3 salje 0
-22:04:04 - 3 salje 0
-22:04:04 - 3 salje 0
-22:04:04 - 3 salje 0
-22:04:04 - 3 salje 0
-22:04:04 - 3 salje 0
-22:04:04 - 3 salje 0
-22:04:04 - 3 salje 0
-22:04:04 - 3 salje 0
-22:04:04 - 3 salje 0
-22:04:04 - 3 salje 0
-22:04:04 - 3 salje 0
-22:04:04 - 3 salje 0
-22:04:04 - 3 salje 0
-22:04:04 - 3 salje 0
-22:04:04 - 3 salje 0
-22:04:04 - 3 salje 0
-22:04:04 - 3 salje 0
-22:04:04 - 3 salje 0
-22:04:04 - 3 salje 0
-22:04:04 - 3 salje 0
-22:04:04 - 3 salje 0
-22:04:04 - 3 salje 0
-22:04:04 - 3 salje 0
-22:04:04 - 3 salje 0
-22:04:04 - 3 salje 0
-22:04:04 - 3 salje 0
-22:04:04 - 3 salje 0
-22:04:04 - 3 salje 0
-22:04:04 - 3 salje 0
-22:04:04 - 3 salje 0
-22:04:04 - 3 salje 0
-22:04:04 - 3 salje 0
-22:04:04 - 3 salje 0
-22:04:04 - 3 salje 0
-22:04:04 - 3 salje 0
-22:04:04 - 3 salje 0
-22:04:04 - 3 salje 0
-22:04:04 - 3 salje 0
-22:04:04 - 3 salje 0
-22:04:04 - 3 salje 0
-22:04:04 - 3 salje 0
-22:04:04 - 3 salje 0
-22:04:04 - 3 salje 0
-22:04:04 - 3 salje 0
-22:04:04 - 3 salje 0
-22:04:04 - 3 salje 0
-22:04:04 - 3 salje 0
-22:04:04 - 3 salje 0
-22:04:04 - 3 salje 0
-22:04:04 - 3 salje 0
-22:04:04 - 3 salje 0
-22:04:04 - 3 salje 0
-22:04:04 - 3 salje 0
-22:04:04 - 3 salje 0
-22:04:04 - 3 salje 0
-22:04:04 - 3 salje 0
-22:04:04 - 3 salje 0
-22:04:04 - 3 salje 0
-22:04:04 - 3 salje 0
-22:04:04 - 3 salje 0
-22:04:04 - 3 salje 0
-22:04:04 - 3 salje 0
-22:04:04 - 3 salje 0
-22:04:04 - 3 salje 0
-22:04:04 - 3 salje 0
-22:04:04 - 3 salje 0
-22:04:04 - 3 salje 0
-22:04:04 - 3 salje 0
-22:04:04 - 3 salje 0
-22:04:04 - 3 salje 0
-22:04:04 - 3 salje 0
-22:04:04 - 3 salje 0
-22:04:04 - 3 salje 0
-22:04:04 - 3 salje 0
-22:04:04 - 3 salje 0
-22:04:04 - 3 salje 0
-22:04:04 - 3 salje 0
-22:04:04 - 3 salje 0
-22:04:04 - 3 salje 0
-22:04:04 - 3 salje 0
-22:04:04 - 3 salje 0
-22:04:04 - 3 salje 0
-22:04:04 - 3 salje 0
-22:04:04 - 3 salje 0
-22:04:04 - 3 salje 0
-22:04:04 - 3 salje 0
-22:04:04 - 3 salje 0
-22:04:04 - 3 salje 0
-22:04:04 - 3 salje 0
-22:04:04 - 3 salje 0
-22:04:04 - 3 salje 0
-22:04:04 - 3 salje 0
-22:04:04 - 3 salje 0
-22:04:04 - 3 salje 0
-22:04:04 - 3 salje 0
-22:04:04 - 3 salje 0
-22:04:04 - 3 salje 0
-22:04:05 - 3 salje 0
-22:04:05 - 3 salje 0
-22:04:05 - 3 salje 0
-22:04:05 - 3 salje 0
-22:04:05 - 3 salje 0
-22:04:05 - 3 salje 0
-22:04:05 - 3 salje 0
-22:04:05 - 3 salje 0
-22:04:05 - 3 salje 0
-22:04:05 - 3 salje 0
-22:04:05 - 3 salje 0
-22:04:05 - 3 salje 0
-22:04:05 - 3 salje 0
-22:04:05 - 3 salje 0
-22:04:05 - 3 salje 0
-22:04:05 - 3 salje 0
-22:04:05 - 3 salje 0
-22:04:05 - 3 salje 0
-22:04:05 - 3 salje 0
-22:04:05 - 3 salje 0
-22:04:05 - 3 salje 0
-22:04:05 - 3 salje 0
-22:04:05 - 3 salje 0
-22:04:05 - 3 salje 0
-22:04:05 - 3 salje 0
-22:04:05 - 3 salje 0
-22:04:05 - 3 salje 0
-22:04:05 - 3 salje 0
-22:04:05 - 3 salje 0
-22:04:05 - 3 salje 0
-22:04:05 - 3 salje 0
-22:04:05 - 3 salje 0
-22:04:05 - 3 salje 0
-22:04:05 - 3 salje 0
-22:04:05 - 3 salje 0
-22:04:05 - 3 salje 0
-22:04:05 - 3 salje 0
-22:04:05 - 3 salje 0
-22:04:05 - 3 salje 0
-22:04:05 - 3 salje 0
-22:04:05 - 3 salje 0
-22:04:05 - 3 salje 0
-22:04:05 - 3 salje 0
-22:04:05 - 3 salje 0
-22:04:05 - 3 salje 0
-22:04:05 - 3 salje 0
-22:04:05 - 3 salje 0
-22:04:05 - 3 salje 0
-22:04:05 - 3 salje 0
-22:04:05 - 3 salje 0
-22:04:05 - 3 salje 0
-22:04:05 - 3 salje 0
-22:04:05 - 3 salje 0
-22:04:05 - 3 salje 0
-22:04:05 - 3 salje 0
-22:04:05 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 1
-22:04:06 - da li je ab_tell: true
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 3
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:06 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 3
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 3
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 1
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 3
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 3
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 1
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 3
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 3
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 3
-22:04:07 - 3 salje 3
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 3
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 3
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 3
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 3
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 0
-22:04:07 - 3 salje 3
-22:04:07 - 3 salje 0
-22:04:08 - 3 salje 0
-22:04:08 - 3 salje 3
-22:04:08 - 3 salje 0
-22:04:08 - 3 salje 0
-22:04:08 - 3 salje 0
-22:04:08 - 3 salje 0
-22:04:08 - 3 salje 0
-22:04:08 - 3 salje 0
-22:04:08 - 3 salje 3
-22:04:08 - 3 salje 0
-22:04:08 - 3 salje 0
-22:04:08 - 3 salje 0
-22:04:08 - 3 salje 0
-22:04:08 - 3 salje 0
-22:04:08 - 3 salje 0
-22:04:08 - 3 salje 0
-22:04:08 - 3 salje 0
-22:04:08 - 3 salje 0
-22:04:08 - 3 salje 0
-22:04:08 - 3 salje 0
-22:04:08 - 3 salje 3
-22:04:08 - 3 salje 0
-22:04:08 - 3 salje 0
-22:04:08 - 3 salje 3
-22:04:08 - 3 salje 0
-22:04:08 - 3 salje 0
-22:04:08 - 3 salje 1
-22:04:08 - 3 salje 0
-22:04:08 - 3 salje 0
-22:04:08 - 3 salje 0
-22:04:08 - 3 salje 0
-22:04:08 - 3 salje 0
-22:04:08 - 3 salje 3
-22:04:08 - 3 salje 0
-22:04:08 - 3 salje 0
-22:04:08 - 3 salje 3
-22:04:08 - 3 salje 1
-22:04:08 - 3 salje 0
-22:04:08 - 3 salje 0
-22:04:08 - 3 salje 0
-22:04:08 - 3 salje 0
-22:04:08 - 3 salje 1
-22:04:08 - 3 salje 1
-22:04:08 - 3 salje 0
-22:04:08 - 3 salje 0
-22:04:08 - 3 salje 0
-22:04:08 - 3 salje 0
-22:04:08 - 3 salje 0
-22:04:08 - 3 salje 0
-22:04:08 - 3 salje 0
+22:48:55 - 3 salje 1
+22:48:55 - Novi receiver 1
+22:48:55 - Novi receiver 2
+22:48:55 - Novi receiver 4
+22:48:55 - 3 salje 1
+22:48:55 - Novi receiver 1
+22:48:55 - da li je ab_tell: false
+22:48:55 - Novi receiver 1
+22:48:55 - Novi receiver 2
+22:48:55 - Novi receiver 2
+22:48:55 - Novi receiver 4
+22:48:55 - Novi receiver 4
+22:48:55 - da li je ab_tell: false
+22:48:55 - Novi receiver 1
+22:48:55 - Novi receiver 2
+22:48:55 - Novi receiver 4
+22:48:55 - 3 salje 1
+22:48:55 - da li je ab_tell: false
+22:48:55 - Novi receiver 1
+22:48:55 - Novi receiver 2
+22:48:55 - Novi receiver 4
+22:48:56 - 3 salje 0
+22:48:56 - Novi receiver 1
+22:48:56 - Novi receiver 2
+22:48:56 - Novi receiver 4
+22:48:56 - 3 salje 1
+22:48:56 - da li je ab_tell: false
+22:48:56 - Novi receiver 1
+22:48:56 - Novi receiver 2
+22:48:56 - Novi receiver 1
+22:48:56 - Novi receiver 4
+22:48:56 - Novi receiver 2
+22:48:56 - Novi receiver 4
+22:48:56 - Novi receiver 1
+22:48:56 - Novi receiver 2
+22:48:56 - Novi receiver 4
+22:48:56 - 3 salje 2
+22:48:56 - Novi receiver 1
+22:48:56 - Novi receiver 2
+22:48:56 - Novi receiver 1
+22:48:56 - Novi receiver 4
+22:48:56 - Novi receiver 2
+22:48:56 - Novi receiver 4
+22:48:56 - 3 salje 1
+22:48:56 - 3 salje 0
+22:48:56 - Novi receiver 1
+22:48:56 - Novi receiver 1
+22:48:56 - Novi receiver 1
+22:48:56 - Novi receiver 2
+22:48:56 - Novi receiver 2
+22:48:56 - Novi receiver 2
+22:48:56 - Novi receiver 4
+22:48:56 - Novi receiver 4
+22:48:56 - Novi receiver 4
+22:48:56 - Novi receiver 1
+22:48:56 - Novi receiver 2
+22:48:56 - Novi receiver 4
+22:48:56 - Novi receiver 1
+22:48:56 - Novi receiver 1
+22:48:56 - Novi receiver 2
+22:48:56 - Novi receiver 1
+22:48:56 - Novi receiver 2
+22:48:56 - Novi receiver 4
+22:48:56 - Novi receiver 4
+22:48:56 - Novi receiver 1
+22:48:56 - Novi receiver 1
+22:48:56 - Novi receiver 2
+22:48:56 - Novi receiver 2
+22:48:56 - Novi receiver 4
+22:48:56 - Novi receiver 1
+22:48:56 - Novi receiver 2
+22:48:56 - Novi receiver 1
+22:48:56 - Novi receiver 4
+22:48:56 - Novi receiver 2
+22:48:56 - Novi receiver 1
+22:48:56 - Novi receiver 4
+22:48:56 - Novi receiver 1
+22:48:56 - Novi receiver 2
+22:48:56 - Novi receiver 1
+22:48:56 - Novi receiver 4
+22:48:56 - Novi receiver 2
+22:48:56 - Novi receiver 4
+22:48:56 - Novi receiver 2
+22:48:56 - Novi receiver 4
+22:48:56 - Novi receiver 1
+22:48:56 - BROJ COLLECTED VALUES 1
+22:48:56 - Novi receiver 2
+22:48:56 - Novi receiver 4
+22:48:56 - Novi receiver 2
+22:48:56 - Novi receiver 4
+22:48:56 - Novi receiver 4
+22:48:56 - 3 salje 1
+22:48:56 - 3 salje 1
+22:48:56 - 3 salje 1
+22:48:56 - 3 salje 1
+22:48:56 - 3 salje 1
+22:48:56 - 3 salje 0
+22:48:56 - da li je ab_tell: false
+22:48:56 - Novi receiver 1
+22:48:56 - Novi receiver 2
+22:48:56 - Novi receiver 1
+22:48:56 - Novi receiver 4
+22:48:56 - Novi receiver 1
+22:48:56 - Novi receiver 1
+22:48:56 - Novi receiver 2
+22:48:56 - Novi receiver 1
+22:48:56 - Novi receiver 4
+22:48:56 - Novi receiver 1
+22:48:56 - Novi receiver 2
+22:48:56 - Novi receiver 2
+22:48:56 - Novi receiver 4
+22:48:56 - Novi receiver 4
+22:48:56 - Novi receiver 2
+22:48:56 - Novi receiver 2
+22:48:56 - Novi receiver 4
+22:48:56 - Novi receiver 1
+22:48:56 - Novi receiver 4
+22:48:56 - Novi receiver 2
+22:48:56 - Novi receiver 4
+22:48:56 - 3 salje 1
+22:48:56 - 3 salje 1
+22:48:56 - 3 salje 1
+22:48:56 - 3 salje 1
+22:48:56 - 3 salje 0
+22:48:56 - Novi receiver 1
+22:48:56 - Novi receiver 1
+22:48:56 - Novi receiver 1
+22:48:56 - da li je ab_tell: false
+22:48:56 - Novi receiver 2
+22:48:56 - da li je ab_tell: false
+22:48:56 - Novi receiver 1
+22:48:56 - da li je ab_tell: false
+22:48:56 - Novi receiver 2
+22:48:56 - Novi receiver 4
+22:48:56 - Novi receiver 1
+22:48:56 - Novi receiver 1
+22:48:56 - Novi receiver 2
+22:48:56 - Novi receiver 2
+22:48:56 - Novi receiver 1
+22:48:56 - Novi receiver 1
+22:48:56 - Novi receiver 2
+22:48:56 - Novi receiver 2
+22:48:56 - Novi receiver 4
+22:48:56 - Novi receiver 4
+22:48:56 - Novi receiver 1
+22:48:56 - Novi receiver 4
+22:48:56 - Novi receiver 2
+22:48:56 - Novi receiver 2
+22:48:56 - Novi receiver 4
+22:48:56 - Novi receiver 4
+22:48:56 - Novi receiver 4
+22:48:56 - Novi receiver 4
+22:48:56 - Novi receiver 2
+22:48:56 - Novi receiver 4
+22:48:56 - 3 salje 2
+22:48:56 - da li je ab_tell: false
+22:48:56 - Novi receiver 1
+22:48:56 - Novi receiver 1
+22:48:56 - Novi receiver 1
+22:48:56 - Novi receiver 2
+22:48:56 - Novi receiver 2
+22:48:56 - Novi receiver 2
+22:48:56 - Novi receiver 4
+22:48:56 - Novi receiver 4
+22:48:56 - Novi receiver 4
+22:48:56 - 3 salje 1
+22:48:56 - 3 salje 2
+22:48:56 - da li je ab_tell: false
+22:48:56 - Novi receiver 1
+22:48:56 - Novi receiver 1
+22:48:56 - Novi receiver 1
+22:48:56 - Novi receiver 2
+22:48:56 - Novi receiver 2
+22:48:56 - Novi receiver 4
+22:48:56 - Novi receiver 4
+22:48:56 - Novi receiver 2
+22:48:56 - Novi receiver 4
+22:48:57 - 3 salje 2
+22:48:57 - da li je ab_tell: false
+22:48:57 - Novi receiver 1
+22:48:57 - da li je ab_tell: false
+22:48:57 - Novi receiver 2
+22:48:57 - Novi receiver 4
+22:48:57 - 3 salje 0
+22:48:57 - Novi receiver 1
+22:48:57 - Novi receiver 2
+22:48:57 - Novi receiver 1
+22:48:57 - Novi receiver 4
+22:48:57 - Novi receiver 2
+22:48:57 - Novi receiver 4
+22:48:57 - 3 salje 0
+22:48:57 - 3 salje 0
+22:48:57 - 3 salje 2
+22:48:57 - BROJ COLLECTED VALUES 1
+22:48:57 - 3 salje 1
+22:48:57 - 3 salje 0
+22:48:57 - 3 salje 2
+22:48:57 - 3 salje 1
+22:48:57 - 3 salje 0
+22:48:57 - 3 salje 1
+22:48:57 - 3 salje 0
+22:48:57 - 3 salje 2
+22:48:57 - 3 salje 2
+22:48:57 - 3 salje 2
+22:48:58 - 3 salje 2
+22:48:58 - 3 salje 2
+22:48:58 - 3 salje 0
+22:48:58 - 3 salje 2
+22:48:58 - 3 salje 0
+22:48:58 - 3 salje 2
+22:48:58 - 3 salje 0
+22:48:58 - 3 salje 0
+22:48:58 - 3 salje 1
+22:48:58 - 3 salje 2
+22:48:58 - 3 salje 0
+22:48:58 - 3 salje 0
+22:48:58 - 3 salje 1
+22:48:58 - 3 salje 2
+22:48:58 - 3 salje 2
+22:48:58 - 3 salje 2
+22:48:58 - 3 salje 2
+22:48:58 - 3 salje 1
+22:48:58 - BROJ COLLECTED VALUES 1
+22:48:58 - 3 salje 1
+22:48:58 - 3 salje 3
+22:48:58 - 3 salje 2
+22:48:58 - 3 salje 2
+22:48:58 - 3 salje 3
+22:48:58 - 3 salje 3
+22:48:58 - 3 salje 3
+22:48:58 - 3 salje 0
+22:48:58 - 3 salje 2
+22:48:58 - 3 salje 3
+22:48:58 - 3 salje 0
+22:48:58 - 3 salje 1
+22:48:58 - 3 salje 0
+22:48:58 - 3 salje 3
+22:48:58 - 3 salje 3
+22:48:58 - 3 salje 0
+22:48:58 - 3 salje 0
+22:48:58 - 3 salje 1
+22:48:58 - 3 salje 1
+22:48:58 - 3 salje 3
+22:48:59 - 3 salje 0
+22:48:59 - 3 salje 0
+22:48:59 - 3 salje 0
+22:48:59 - 3 salje 0
+22:48:59 - 3 salje 0
+22:48:59 - 3 salje 0
+22:48:59 - 3 salje 3
+22:48:59 - 3 salje 3
+22:48:59 - 3 salje 3
+22:48:59 - 3 salje 2
+22:48:59 - 3 salje 2
+22:48:59 - 3 salje 3
+22:48:59 - 3 salje 2
+22:48:59 - 3 salje 3
+22:48:59 - 3 salje 2
+22:48:59 - 3 salje 3
+22:48:59 - 3 salje 2
+22:48:59 - 3 salje 2
+22:48:59 - 3 salje 3
+22:48:59 - 3 salje 3
+22:48:59 - 3 salje 3
+22:48:59 - 3 salje 3
+22:48:59 - 3 salje 0
+22:48:59 - 3 salje 3
+22:48:59 - 3 salje 3
+22:48:59 - 3 salje 2
+22:48:59 - 3 salje 3
+22:48:59 - 3 salje 0
+22:48:59 - 3 salje 3
+22:48:59 - 3 salje 3
+22:48:59 - 3 salje 0
+22:48:59 - 3 salje 0
+22:48:59 - 3 salje 3
+22:48:59 - 3 salje 0
+22:48:59 - 3 salje 3
+22:48:59 - 3 salje 0
+22:48:59 - 3 salje 2
+22:48:59 - 3 salje 3
+22:48:59 - 3 salje 0
+22:48:59 - BROJ COLLECTED VALUES 1
+22:48:59 - 3 salje 2
+22:48:59 - 3 salje 0
+22:48:59 - 3 salje 3
+22:48:59 - 3 salje 3
+22:48:59 - 3 salje 3
+22:48:59 - 3 salje 2
+22:48:59 - da li je ab_tell: true
+22:48:59 - servent.message.snapshot.ABTellMessage
+22:48:59 - 3 salje 2
+22:48:59 - 3 salje 2
+22:48:59 - 3 salje 0
+22:48:59 - 3 salje 3
+22:48:59 - 3 salje 0
+22:48:59 - 3 salje 3
+22:48:59 - 3 salje 3
+22:48:59 - 3 salje 3
+22:48:59 - 3 salje 0
+22:48:59 - 3 salje 2
+22:48:59 - 3 salje 2
+22:48:59 - 3 salje 0
+22:48:59 - 3 salje 0
+22:48:59 - 3 salje 3
+22:48:59 - 3 salje 3
+22:48:59 - 3 salje 2
+22:48:59 - 3 salje 0
+22:48:59 - 3 salje 3
+22:48:59 - 3 salje 0
+22:48:59 - 3 salje 0
+22:48:59 - 3 salje 2
+22:48:59 - 3 salje 0
+22:48:59 - 3 salje 0
+22:48:59 - 3 salje 2
+22:48:59 - 3 salje 3
+22:48:59 - 3 salje 0
+22:48:59 - 3 salje 3
+22:48:59 - 3 salje 3
+22:48:59 - 3 salje 0
+22:48:59 - 3 salje 0
+22:49:00 - 3 salje 0
+22:49:00 - 3 salje 0
+22:49:00 - 3 salje 0
+22:49:00 - 3 salje 3
+22:49:00 - 3 salje 0
+22:49:00 - 3 salje 1
+22:49:00 - da li je ab_tell: true
+22:49:00 - servent.message.snapshot.ABTellMessage
+22:49:00 - 3 salje 2
+22:49:00 - 3 salje 3
+22:49:00 - 3 salje 0
+22:49:00 - 3 salje 2
+22:49:00 - 3 salje 3
+22:49:00 - 3 salje 0
+22:49:00 - 3 salje 3
+22:49:00 - 3 salje 3
+22:49:00 - 3 salje 3
+22:49:00 - 3 salje 3
+22:49:00 - 3 salje 2
+22:49:00 - 3 salje 2
+22:49:00 - 3 salje 3
+22:49:00 - 3 salje 0
+22:49:00 - 3 salje 3
+22:49:00 - 3 salje 3
+22:49:00 - 3 salje 0
+22:49:00 - 3 salje 2
+22:49:00 - 3 salje 0
+22:49:00 - 3 salje 3
+22:49:00 - 3 salje 0
+22:49:00 - 3 salje 2
+22:49:00 - 3 salje 0
+22:49:00 - 3 salje 2
+22:49:00 - 3 salje 2
+22:49:00 - 3 salje 3
+22:49:00 - 3 salje 0
+22:49:00 - 3 salje 0
+22:49:00 - 3 salje 3
+22:49:00 - 3 salje 3
+22:49:00 - 3 salje 3
+22:49:00 - 3 salje 3
+22:49:00 - 3 salje 3
+22:49:00 - 3 salje 3
+22:49:00 - 3 salje 2
+22:49:00 - 3 salje 3
+22:49:00 - 3 salje 0
+22:49:00 - 3 salje 3
+22:49:00 - 3 salje 0
+22:49:00 - 3 salje 3
+22:49:00 - 3 salje 3
+22:49:00 - 3 salje 3
+22:49:00 - 3 salje 3
+22:49:00 - 3 salje 2
+22:49:00 - 3 salje 2
+22:49:00 - 3 salje 3
+22:49:00 - 3 salje 0
+22:49:00 - 3 salje 3
+22:49:00 - 3 salje 2
+22:49:00 - 3 salje 0
+22:49:00 - 3 salje 2
+22:49:00 - 3 salje 3
+22:49:00 - 3 salje 2
+22:49:00 - 3 salje 0
+22:49:00 - 3 salje 0
+22:49:00 - 3 salje 2
+22:49:00 - 3 salje 2
+22:49:00 - 3 salje 3
+22:49:00 - 3 salje 2
+22:49:00 - 3 salje 2
+22:49:00 - 3 salje 3
+22:49:00 - 3 salje 3
+22:49:00 - 3 salje 3
+22:49:00 - 3 salje 2
+22:49:00 - 3 salje 3
+22:49:00 - 3 salje 0
+22:49:00 - 3 salje 2
+22:49:00 - 3 salje 3
+22:49:00 - 3 salje 0
+22:49:00 - 3 salje 2
+22:49:00 - 3 salje 0
+22:49:00 - 3 salje 0
+22:49:00 - 3 salje 0
+22:49:00 - 3 salje 0
+22:49:00 - BROJ COLLECTED VALUES 3
+22:49:00 - 3 salje 3
+22:49:00 - 3 salje 3
+22:49:00 - 3 salje 0
+22:49:00 - da li je ab_tell: true
+22:49:00 - servent.message.snapshot.ABTellMessage
+22:49:00 - 3 salje 2
+22:49:00 - 3 salje 0
+22:49:00 - 3 salje 3
+22:49:00 - 3 salje 3
+22:49:00 - 3 salje 2
+22:49:00 - 3 salje 0
+22:49:00 - 3 salje 0
+22:49:00 - 3 salje 2
+22:49:00 - 3 salje 0
+22:49:01 - 3 salje 4
+22:49:01 - da li je ab_tell: true
+22:49:01 - servent.message.snapshot.ABTellMessage
+22:49:01 - 3 salje 0
+22:49:01 - 3 salje 2
+22:49:01 - 3 salje 2
+22:49:01 - 3 salje 0
+22:49:01 - 3 salje 2
+22:49:01 - 3 salje 0
+22:49:01 - 3 salje 2
+22:49:01 - 3 salje 0
+22:49:01 - 3 salje 2
+22:49:01 - 3 salje 1
+22:49:01 - 3 salje 2
+22:49:01 - 3 salje 2
+22:49:01 - 3 salje 0
+22:49:01 - 3 salje 2
+22:49:01 - 3 salje 2
+22:49:01 - 3 salje 0
+22:49:01 - 3 salje 1
+22:49:01 - BROJ COLLECTED VALUES 5
+22:49:01 - 3 salje 2
+22:49:01 - 3 salje 0
+22:49:01 - 3 salje 0
+22:49:01 - 3 salje 0
+22:49:01 - 3 salje 2
+22:49:01 - 3 salje 1
+22:49:01 - 3 salje 2
+22:49:01 - 3 salje 1
+22:49:01 - 3 salje 2
+22:49:01 - 3 salje 2
+22:49:01 - 3 salje 2
+22:49:01 - 3 salje 2
+22:49:01 - 3 salje 2
+22:49:01 - 3 salje 0
+22:49:02 - 3 salje 1
+22:49:02 - 3 salje 0
+22:49:02 - 3 salje 2
+22:49:02 - 3 salje 2
+22:49:02 - 3 salje 0
+22:49:02 - 3 salje 1
+22:49:02 - 3 salje 0
+22:49:02 - 3 salje 4
+22:49:02 - 3 salje 4
+22:49:03 - 3 salje 0
+22:49:03 - 3 salje 1
+22:49:03 - 3 salje 4
+22:49:03 - 3 salje 4
+22:49:03 - 3 salje 4
+22:49:04 - 3 salje 4

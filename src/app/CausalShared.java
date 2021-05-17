@@ -10,7 +10,10 @@ import java.util.concurrent.CopyOnWriteArrayList;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 
+import app.snapshot_bitcake.AVBitcakeManager;
 import app.snapshot_bitcake.SnapshotCollector;
+import app.snapshot_bitcake.SnapshotCollectorWorker;
+import app.snapshot_bitcake.SnapshotType;
 import servent.handler.BasicMessageHandler;
 import servent.handler.MessageHandler;
 import servent.handler.NullHandler;
@@ -18,7 +21,11 @@ import servent.handler.RebroadcastHandler;
 import servent.handler.TransactionHandler;
 import servent.handler.snapshot.ABMarkerHandler;
 import servent.handler.snapshot.ABTellHandler;
+import servent.handler.snapshot.AVMarkerHandler;
+import servent.handler.snapshot.AVTellHandler;
+import servent.handler.snapshot.AVTerminateHandler;
 import servent.message.Message;
+import servent.message.MessageType;
 import servent.message.snapshot.ABTellMessage;
 
 
@@ -137,20 +144,38 @@ public class CausalShared {
 								messagehandler = new BasicMessageHandler(pendingMessage);
 								break;
 							case TRANSACTION:
+								if(snapshotCollector instanceof SnapshotCollectorWorker) {
+									SnapshotCollectorWorker snapshotCollectorWorker = (SnapshotCollectorWorker) snapshotCollector;
+									if(snapshotCollectorWorker.getSnapshotType() == SnapshotType.AV) {
+										AVBitcakeManager avBitcakeManager = (AVBitcakeManager) snapshotCollectorWorker.getBitcakeManager();
+										boolean markerReceived = AVBitcakeManager.markerReceived.get();
+										if(markerReceived) {
+											if(!(otherClockGreater(AVBitcakeManager.getVectorClockForMarker(), pendingMessage.getVectorClock()))) {
+												avBitcakeManager.addChannelMessage(pendingMessage);
+											}
+										}else {
+											avBitcakeManager.addChannelMessage(pendingMessage);
+										}
+									}
+								}
 								messagehandler = new TransactionHandler(pendingMessage, snapshotCollector.getBitcakeManager());
 								break;
 							case AB_MARKER:
 								messagehandler = new ABMarkerHandler(pendingMessage, snapshotCollector);
 								break;
 							case AB_TELL:
-								AppConfig.timestampedStandardPrint("AB_TELL HANDLE" );
 								messagehandler = new ABTellHandler(pendingMessage, snapshotCollector);
 								break;
 							case AV_MARKER:
-								//messagehandler = new AVMarkerHandler();
+								AVBitcakeManager.markerReceived.set(true);
+								messagehandler = new AVMarkerHandler(pendingMessage,snapshotCollector);
 								break;
-						//	case AV_TELL:
-								//messageHandler = new АVTellHandler(clientMessage, snapshotCollector);
+							case AV_TELL:
+								messagehandler = new AVTellHandler(pendingMessage, snapshotCollector);
+								break;
+							case AV_TERMINATE:
+								messagehandler = new AVTerminateHandler(pendingMessage, snapshotCollector);
+								break;
 							default :
 								break;
 							}
@@ -164,6 +189,10 @@ public class CausalShared {
 						commitedCausalMessageList.add(pendingMessage);
 						AppConfig.timestampedStandardPrint("Commiting from : " + pendingMessage);
 						incrementClock(pendingMessage.getOriginalSenderInfo().getId());
+						
+						if(pendingMessage.getMessageType() == MessageType.AV_MARKER && pendingMessage.getTargetInfo().getId()==AppConfig.myServentInfo.getId()) {
+							AVBitcakeManager.setVectorClockForMarker(getVectorClock());
+						}
 						iterator.remove();
 						
 						break;

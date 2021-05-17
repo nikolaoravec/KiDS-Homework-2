@@ -1,6 +1,7 @@
 package app.snapshot_bitcake;
 
 import java.io.Serializable;
+import java.util.List;
 import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;
 
@@ -21,26 +22,25 @@ public class AVSnapshotResult implements Serializable {
 	
 	private final int serventId;
 	private final int recordedAmount;
-	private final Map<Integer, Integer> giveHistory;
-	private final Map<Integer, Integer> getHistory;
+	private final Map<String, List<Integer>> allChannelTransaction;
 	
-	public AVSnapshotResult(int serventId, int recordedAmount,
-			Map<Integer, Integer> giveHistory, Map<Integer, Integer> getHistory) {
+	public AVSnapshotResult(int serventId, 
+			int recordedAmount,
+			Map<String, List<Integer>> allChannelTransaction) {
 		this.serventId = serventId;
 		this.recordedAmount = recordedAmount;
-		this.giveHistory = new ConcurrentHashMap<>(giveHistory);
-		this.getHistory = new ConcurrentHashMap<>(getHistory);
+		this.allChannelTransaction = new ConcurrentHashMap<>(allChannelTransaction);
 	}
+		
 	public int getServentId() {
 		return serventId;
 	}
 	public int getRecordedAmount() {
 		return recordedAmount;
 	}
-	public Map<Integer, Integer> getGiveHistory() {
-		return giveHistory;
+	
+	public Map<String, List<Integer>> getAllChannelTransaction() {
+		return allChannelTransaction;
 	}
-	public Map<Integer, Integer> getGetHistory() {
-		return getHistory;
-	}
+	
 }

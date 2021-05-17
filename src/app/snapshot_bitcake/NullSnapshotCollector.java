@@ -1,5 +1,8 @@
 package app.snapshot_bitcake;
 
+import java.util.List;
+import java.util.Map;
+
 /**
  * This class is used if the user hasn't specified a snapshot type in config.
  * 
@@ -27,5 +30,11 @@ public class NullSnapshotCollector implements SnapshotCollector {
 
 	@Override
 	public void startCollecting() {}
+
+	@Override
+	public void addChannelMessages(int id, Map<String, List<Integer>> channel) {
+		// TODO Auto-generated method stub
+		
+	}
 
 }

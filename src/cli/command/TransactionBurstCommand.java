@@ -4,7 +4,6 @@ import java.util.Map;
 
 import app.AppConfig;
 import app.CausalShared;
-import app.ServentInfo;
 import app.snapshot_bitcake.BitcakeManager;
 import servent.message.Message;
 import servent.message.MessageType;
@@ -13,13 +12,8 @@ import servent.message.util.MessageUtil;
 
 public class TransactionBurstCommand implements CLICommand {
 
-	private static final int BURST_WORKERS = 5;
-	private static final int MAX_TRANSFER_AMOUNT = 10;
-	
-	//Chandy-Lamport
-//	private static final int TRANSACTION_COUNT = 3;
-//	private static final int BURST_WORKERS = 5;
-//	private static final int MAX_TRANSFER_AMOUNT = 10;
+	private static final int BURST_WORKERS = 1;
+	private static final int MAX_TRANSFER_AMOUNT = 50;
 	
 	private final BitcakeManager bitcakeManager;
 	

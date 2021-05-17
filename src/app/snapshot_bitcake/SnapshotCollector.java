@@ -1,5 +1,8 @@
 package app.snapshot_bitcake;
 
+import java.util.List;
+import java.util.Map;
+
 import app.Cancellable;
 
 /**
@@ -14,7 +17,7 @@ public interface SnapshotCollector extends Runnable, Cancellable {
 
 	void addABSnapshotInfo(int id, ABSnapshotResult abSnapshotResult);
 	void addAVSnapshotInfo(int id, AVSnapshotResult avSnapshotResult);
-
+	void addChannelMessages(int id, Map<String, List<Integer>> channel);
 	void startCollecting();
 
 }

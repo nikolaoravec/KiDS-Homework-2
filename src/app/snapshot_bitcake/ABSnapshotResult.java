@@ -1,7 +1,6 @@
 package app.snapshot_bitcake;
 
 import java.io.Serializable;
-import java.util.List;
 import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;
 
@@ -19,21 +18,21 @@ public class ABSnapshotResult implements Serializable {
 
 	private final int serventId;
 	private final int recordedAmount;
-//	private final Map<Integer, Integer> sent;
-//	private final Map<Integer, Integer> received;
+	private final Map<Integer, Integer> sent;
+	private final Map<Integer, Integer> received;
 
-//	public ABSnapshotResult(int serventId, int recordedAmount/*, Map<Integer, Integer> sent, Map<Integer, Integer> received*/) {
-//		this.serventId = serventId;
-//		this.recordedAmount = recordedAmount;
-////		this.sent = new ConcurrentHashMap<>(sent);
-////		this.received = new ConcurrentHashMap<>(received);
-//	}
-//	
-
-	public ABSnapshotResult(int serventId, int recordedAmount) {
+	public ABSnapshotResult(int serventId, int recordedAmount, Map<Integer, Integer> sent, Map<Integer, Integer> received) {
 		this.serventId = serventId;
 		this.recordedAmount = recordedAmount;
+		this.sent = new ConcurrentHashMap<>(sent);
+		this.received = new ConcurrentHashMap<>(received);
 	}
+	
+//
+//	public ABSnapshotResult(int serventId, int recordedAmount) {
+//		this.serventId = serventId;
+//		this.recordedAmount = recordedAmount;
+//	}
 
 	public int getServentId() {
 		return serventId;
@@ -42,11 +41,13 @@ public class ABSnapshotResult implements Serializable {
 	public int getRecordedAmount() {
 		return recordedAmount;
 	}
-//	public Map<Integer, Integer> getSent() {
-//		return sent;
-//	}
-//	public Map<Integer, Integer> getReceived() {
-//		return received;
-//	}
+	
+	public Map<Integer, Integer> getSent() {
+		return sent;
+	}
+	
+	public Map<Integer, Integer> getReceived() {
+		return received;
+	}
 
 }

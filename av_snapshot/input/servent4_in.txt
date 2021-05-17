@@ -1,4 +1,4 @@
 pause 500
-bitcake_info
+snapshot
 pause 15000
 stop

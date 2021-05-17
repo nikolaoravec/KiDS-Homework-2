@@ -27,6 +27,18 @@ public class TransactionHandler implements MessageHandler {
 				int amount = Integer.parseInt(clientMessage.getMessageText());
 
 				manager.addSomeBitcakes(amount);
+				
+				manager.recordReceivedTransaction(clientMessage.getOriginalSenderInfo().getId(), amount);
+			}
+			
+			if (bitcakeManager instanceof AVBitcakeManager) {
+
+				AVBitcakeManager manager = (AVBitcakeManager) bitcakeManager;
+
+				int amount = Integer.parseInt(clientMessage.getMessageText());
+
+				manager.addSomeBitcakes(amount);
+				
 			}
 		} catch (Exception e) {
 			e.printStackTrace();

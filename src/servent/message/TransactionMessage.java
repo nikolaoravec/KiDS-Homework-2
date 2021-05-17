@@ -7,6 +7,7 @@ import java.util.Map;
 import app.AppConfig;
 import app.ServentInfo;
 import app.snapshot_bitcake.ABBitcakeManager;
+import app.snapshot_bitcake.AVBitcakeManager;
 import app.snapshot_bitcake.BitcakeManager;
 
 /**
@@ -87,7 +88,13 @@ public class TransactionMessage extends BasicMessage {
 
 			manager.takeSomeBitcakes(amount);
 
-			// manager.recordSendTransaction(getReceiverInfo().getId(), amount);
+			manager.recordSendTransaction(getTargetInfo().getId(), amount);
+		}
+		if (bitcakeManager instanceof AVBitcakeManager) {
+			AppConfig.timestampedErrorPrint("usao sam u bitcake");
+			AVBitcakeManager manager = (AVBitcakeManager) bitcakeManager;
+
+			manager.takeSomeBitcakes(amount);
 		}
 	}
 }
