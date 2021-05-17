@@ -1,4 +1,5 @@
 # KiDS-Homework2
+University homework in distributed programming with concurrency.
 
 Commands to use in console  
 -stop  
