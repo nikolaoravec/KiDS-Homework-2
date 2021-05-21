@@ -1,229 +1,245 @@
-18:51:07 - BROJ COLLECTED VALUES 1
-18:51:08 - 4 salje 1
-18:51:08 - Novi receiver 3
-18:51:08 - da li je ab_tell: false
-18:51:08 - Novi receiver 5
-18:51:08 - 4 salje 1
-18:51:08 - Novi receiver 3
-18:51:08 - Novi receiver 5
-18:51:08 - 4 salje 1
-18:51:08 - Novi receiver 3
-18:51:08 - Novi receiver 3
-18:51:08 - Novi receiver 5
-18:51:08 - Novi receiver 5
-18:51:08 - 4 salje 1
-18:51:08 - 4 salje 1
-18:51:08 - BROJ COLLECTED VALUES 1
-18:51:08 - 4 salje 1
-18:51:08 - 4 salje 1
-18:51:08 - Novi receiver 3
-18:51:08 - Novi receiver 5
-18:51:08 - Novi receiver 3
-18:51:08 - Novi receiver 5
-18:51:08 - 4 salje 1
-18:51:08 - Novi receiver 3
-18:51:08 - Novi receiver 5
-18:51:08 - 4 salje 1
-18:51:08 - 4 salje 1
-18:51:09 - 4 salje 4
-18:51:09 - 4 salje 1
-18:51:09 - 4 salje 1
-18:51:09 - 4 salje 1
-18:51:09 - 4 salje 1
-18:51:09 - 4 salje 2
-18:51:09 - Novi receiver 3
-18:51:09 - Novi receiver 3
-18:51:09 - Novi receiver 3
-18:51:09 - Novi receiver 5
-18:51:09 - Novi receiver 5
-18:51:09 - Novi receiver 5
-18:51:09 - Novi receiver 3
-18:51:09 - Novi receiver 5
-18:51:09 - 4 salje 1
-18:51:09 - 4 salje 1
-18:51:09 - 4 salje 1
-18:51:09 - 4 salje 1
-18:51:09 - 4 salje 1
-18:51:09 - 4 salje 1
-18:51:09 - 4 salje 1
-18:51:10 - BROJ COLLECTED VALUES 1
-18:51:10 - 4 salje 1
-18:51:10 - 4 salje 4
-18:51:10 - 4 salje 1
-18:51:10 - da li je ab_tell: false
-18:51:10 - da li je ab_tell: false
-18:51:10 - da li je ab_tell: false
-18:51:10 - da li je ab_tell: false
-18:51:10 - 4 salje 4
-18:51:10 - 4 salje 4
-18:51:10 - 4 salje 1
-18:51:10 - Novi receiver 3
-18:51:10 - Novi receiver 3
-18:51:10 - Novi receiver 5
-18:51:10 - Novi receiver 3
-18:51:10 - Novi receiver 3
-18:51:10 - Novi receiver 5
-18:51:10 - Novi receiver 5
-18:51:10 - Novi receiver 5
-18:51:10 - 4 salje 1
-18:51:10 - 4 salje 1
-18:51:10 - 4 salje 1
-18:51:10 - 4 salje 1
-18:51:10 - 4 salje 2
-18:51:10 - Novi receiver 3
-18:51:10 - Novi receiver 3
-18:51:10 - Novi receiver 5
-18:51:10 - Novi receiver 5
-18:51:10 - 4 salje 4
-18:51:10 - 4 salje 2
-18:51:10 - 4 salje 2
-18:51:10 - da li je ab_tell: false
-18:51:10 - Novi receiver 3
-18:51:10 - Novi receiver 5
-18:51:10 - Novi receiver 3
-18:51:10 - Novi receiver 3
-18:51:10 - Novi receiver 5
-18:51:10 - Novi receiver 3
-18:51:10 - Novi receiver 5
-18:51:10 - Novi receiver 5
-18:51:10 - 4 salje 4
-18:51:10 - Novi receiver 3
-18:51:10 - Novi receiver 5
-18:51:10 - Novi receiver 3
-18:51:10 - Novi receiver 5
-18:51:10 - Novi receiver 3
-18:51:10 - Novi receiver 5
-18:51:10 - 4 salje 4
-18:51:10 - 4 salje 4
-18:51:10 - 4 salje 4
-18:51:10 - 4 salje 4
-18:51:10 - 4 salje 4
-18:51:10 - 4 salje 4
-18:51:10 - 4 salje 4
-18:51:10 - 4 salje 4
-18:51:10 - 4 salje 2
-18:51:10 - 4 salje 4
-18:51:10 - 4 salje 4
-18:51:10 - Novi receiver 3
-18:51:10 - 4 salje 1
-18:51:10 - Novi receiver 5
-18:51:10 - Novi receiver 3
-18:51:10 - 4 salje 1
-18:51:10 - Novi receiver 5
-18:51:10 - Novi receiver 3
-18:51:10 - Novi receiver 5
-18:51:10 - 4 salje 1
-18:51:10 - 4 salje 2
-18:51:10 - 4 salje 2
-18:51:10 - 4 salje 4
-18:51:10 - 4 salje 4
-18:51:10 - 4 salje 4
-18:51:10 - 4 salje 2
-18:51:11 - 4 salje 2
-18:51:11 - 4 salje 4
-18:51:11 - 4 salje 4
-18:51:11 - 4 salje 4
-18:51:11 - 4 salje 4
-18:51:11 - 4 salje 2
-18:51:11 - 4 salje 4
-18:51:11 - BROJ COLLECTED VALUES 1
-18:51:11 - 4 salje 4
-18:51:11 - 4 salje 4
-18:51:11 - 4 salje 2
-18:51:11 - 4 salje 2
-18:51:11 - 4 salje 4
-18:51:11 - 4 salje 4
-18:51:11 - 4 salje 4
-18:51:11 - 4 salje 2
-18:51:11 - Novi receiver 3
-18:51:11 - Novi receiver 3
-18:51:11 - Novi receiver 5
-18:51:11 - Novi receiver 5
-18:51:11 - Novi receiver 3
-18:51:11 - Novi receiver 5
-18:51:11 - da li je ab_tell: false
-18:51:11 - Novi receiver 3
-18:51:11 - Novi receiver 5
-18:51:11 - da li je ab_tell: false
-18:51:11 - Novi receiver 3
-18:51:11 - Novi receiver 5
-18:51:11 - 4 salje 2
-18:51:11 - 4 salje 4
-18:51:11 - 4 salje 5
-18:51:11 - da li je ab_tell: false
-18:51:11 - 4 salje 4
-18:51:11 - 4 salje 2
-18:51:11 - 4 salje 2
-18:51:11 - Novi receiver 3
-18:51:11 - Novi receiver 3
-18:51:11 - Novi receiver 5
-18:51:11 - Novi receiver 5
-18:51:11 - 4 salje 4
-18:51:11 - 4 salje 4
-18:51:11 - 4 salje 2
-18:51:11 - Novi receiver 3
-18:51:11 - Novi receiver 3
-18:51:11 - Novi receiver 5
-18:51:11 - Novi receiver 5
-18:51:11 - da li je ab_tell: false
-18:51:11 - da li je ab_tell: false
-18:51:11 - Novi receiver 3
-18:51:11 - Novi receiver 5
-18:51:11 - 4 salje 2
-18:51:11 - 4 salje 2
-18:51:11 - 4 salje 2
-18:51:11 - 4 salje 4
-18:51:11 - 4 salje 3
-18:51:11 - da li je ab_tell: false
-18:51:11 - 4 salje 2
-18:51:11 - 4 salje 2
-18:51:11 - 4 salje 2
-18:51:11 - 4 salje 4
-18:51:11 - 4 salje 2
-18:51:12 - 4 salje 4
-18:51:12 - BROJ COLLECTED VALUES 3
-18:51:12 - 4 salje 2
-18:51:12 - 4 salje 2
-18:51:12 - 4 salje 2
-18:51:12 - 4 salje 4
-18:51:12 - 4 salje 2
-18:51:12 - 4 salje 2
-18:51:12 - 4 salje 2
-18:51:12 - 4 salje 2
-18:51:12 - 4 salje 2
-18:51:12 - 4 salje 4
-18:51:12 - 4 salje 2
-18:51:12 - 4 salje 4
-18:51:12 - 4 salje 2
-18:51:12 - 4 salje 2
-18:51:13 - BROJ COLLECTED VALUES 3
-18:51:13 - 4 salje 2
-18:51:13 - 4 salje 2
-18:51:14 - 4 salje 2
-18:51:14 - 4 salje 2
-18:51:14 - 4 salje 2
-18:51:14 - 4 salje 2
-18:51:14 - 4 salje 2
-18:51:14 - 4 salje 2
-18:51:14 - 4 salje 2
-18:51:14 - BROJ COLLECTED VALUES 3
-18:51:15 - 4 salje 2
-18:51:15 - 4 salje 5
-18:51:15 - 4 salje 2
-18:51:15 - 4 salje 2
-18:51:15 - da li je ab_tell: false
-18:51:15 - 4 salje 2
-18:51:15 - 4 salje 2
-18:51:15 - 4 salje 1
-18:51:15 - da li je ab_tell: false
-18:51:15 - 4 salje 2
-18:51:15 - 4 salje 1
-18:51:15 - 4 salje 3
-18:51:15 - 4 salje 2
-18:51:15 - BROJ COLLECTED VALUES 5
-18:51:16 - BROJ COLLECTED VALUES 5
-18:51:17 - 4 salje 0
-18:51:17 - da li je ab_tell: false
-18:51:17 - 4 salje 2
-18:51:18 - BROJ COLLECTED VALUES 6
-18:51:18 - 4 salje 0
+17:25:31 - Unknown command: transction_burst
+17:25:32 - 4 salje 1
+17:25:32 - 4 salje 1
+17:25:32 - Novi receiver 3
+17:25:32 - Novi receiver 3
+17:25:32 - 4 salje 1
+17:25:32 - Novi receiver 3
+17:25:32 - Novi receiver 5
+17:25:32 - Novi receiver 5
+17:25:32 - Novi receiver 5
+17:25:33 - 4 salje 1
+17:25:33 - Novi receiver 3
+17:25:33 - Novi receiver 3
+17:25:33 - Novi receiver 3
+17:25:33 - Novi receiver 5
+17:25:33 - Novi receiver 5
+17:25:33 - Novi receiver 5
+17:25:33 - 4 salje 1
+17:25:33 - 4 salje 1
+17:25:33 - 4 salje 1
+17:25:33 - Novi receiver 3
+17:25:33 - Novi receiver 3
+17:25:33 - Novi receiver 5
+17:25:33 - Novi receiver 5
+17:25:33 - Novi receiver 3
+17:25:33 - Novi receiver 5
+17:25:33 - Novi receiver 3
+17:25:33 - Novi receiver 5
+17:25:33 - 4 salje 1
+17:25:33 - 4 salje 1
+17:25:33 - 4 salje 1
+17:25:33 - 4 salje 1
+17:25:33 - 4 salje 1
+17:25:33 - 4 salje 1
+17:25:33 - Novi receiver 3
+17:25:33 - Novi receiver 5
+17:25:33 - Novi receiver 3
+17:25:33 - Novi receiver 5
+17:25:33 - Novi receiver 3
+17:25:33 - Novi receiver 5
+17:25:33 - Novi receiver 3
+17:25:33 - Novi receiver 5
+17:25:33 - Novi receiver 3
+17:25:33 - Novi receiver 5
+17:25:33 - da li je ab_tell: false
+17:25:33 - da li je ab_tell: false
+17:25:33 - da li je ab_tell: false
+17:25:33 - Novi receiver 3
+17:25:33 - da li je ab_tell: false
+17:25:33 - Novi receiver 5
+17:25:33 - Novi receiver 3
+17:25:33 - Novi receiver 3
+17:25:33 - Novi receiver 5
+17:25:33 - da li je ab_tell: false
+17:25:33 - Novi receiver 5
+17:25:33 - Novi receiver 3
+17:25:33 - Novi receiver 5
+17:25:33 - Novi receiver 3
+17:25:33 - Novi receiver 5
+17:25:34 - 4 salje 1
+17:25:34 - 4 salje 1
+17:25:34 - 4 salje 1
+17:25:34 - 4 salje 1
+17:25:34 - 4 salje 1
+17:25:34 - 4 salje 1
+17:25:34 - 4 salje 1
+17:25:34 - 4 salje 1
+17:25:34 - 4 salje 1
+17:25:34 - 4 salje 1
+17:25:34 - 4 salje 1
+17:25:34 - 4 salje 1
+17:25:34 - 4 salje 1
+17:25:34 - 4 salje 1
+17:25:34 - 4 salje 2
+17:25:34 - Novi receiver 3
+17:25:34 - Novi receiver 5
+17:25:34 - 4 salje 2
+17:25:34 - 4 salje 1
+17:25:34 - 4 salje 2
+17:25:34 - Novi receiver 3
+17:25:34 - Novi receiver 3
+17:25:34 - Novi receiver 5
+17:25:34 - Novi receiver 5
+17:25:34 - 4 salje 2
+17:25:34 - 4 salje 1
+17:25:34 - 4 salje 2
+17:25:34 - 4 salje 1
+17:25:34 - 4 salje 2
+17:25:34 - 4 salje 2
+17:25:34 - 4 salje 2
+17:25:34 - Novi receiver 3
+17:25:34 - Novi receiver 5
+17:25:34 - Novi receiver 3
+17:25:34 - Novi receiver 3
+17:25:34 - Novi receiver 5
+17:25:34 - Novi receiver 5
+17:25:34 - 4 salje 2
+17:25:34 - 4 salje 2
+17:25:34 - da li je ab_tell: false
+17:25:34 - da li je ab_tell: false
+17:25:34 - da li je ab_tell: false
+17:25:34 - da li je ab_tell: false
+17:25:34 - Novi receiver 3
+17:25:34 - Novi receiver 5
+17:25:34 - 4 salje 2
+17:25:34 - Novi receiver 3
+17:25:34 - Novi receiver 5
+17:25:34 - Novi receiver 3
+17:25:34 - Novi receiver 3
+17:25:34 - Novi receiver 5
+17:25:34 - Novi receiver 5
+17:25:34 - Novi receiver 3
+17:25:34 - Novi receiver 5
+17:25:34 - Novi receiver 3
+17:25:34 - Novi receiver 5
+17:25:34 - Novi receiver 3
+17:25:34 - Novi receiver 5
+17:25:34 - Novi receiver 3
+17:25:34 - Novi receiver 3
+17:25:34 - Novi receiver 5
+17:25:34 - Novi receiver 5
+17:25:34 - 4 salje 2
+17:25:34 - da li je ab_tell: false
+17:25:34 - Novi receiver 3
+17:25:34 - Novi receiver 5
+17:25:35 - 4 salje 2
+17:25:35 - 4 salje 2
+17:25:35 - 4 salje 2
+17:25:35 - 4 salje 2
+17:25:35 - 4 salje 2
+17:25:36 - 4 salje 2
+17:25:36 - 4 salje 2
+17:25:37 - 4 salje 0
+17:25:37 - da li je ab_tell: false
+17:25:37 - 4 salje 0
+17:25:37 - 4 salje 0
+17:25:37 - 4 salje 0
+17:25:37 - 4 salje 0
+17:25:37 - 4 salje 0
+17:25:37 - 4 salje 0
+17:25:37 - 4 salje 0
+17:25:37 - 4 salje 0
+17:25:37 - 4 salje 0
+17:25:37 - 4 salje 0
+17:25:37 - da li je ab_tell: false
+17:25:37 - 4 salje 0
+17:25:37 - 4 salje 0
+17:25:37 - 4 salje 0
+17:25:37 - 4 salje 0
+17:25:37 - 4 salje 0
+17:25:37 - 4 salje 0
+17:25:37 - 4 salje 0
+17:25:37 - da li je ab_tell: false
+17:25:37 - da li je ab_tell: false
+17:25:37 - da li je ab_tell: false
+17:25:38 - 4 salje 0
+17:25:38 - 4 salje 3
+17:25:38 - 4 salje 0
+17:25:38 - 4 salje 0
+17:25:38 - 4 salje 0
+17:25:38 - 4 salje 0
+17:25:38 - 4 salje 0
+17:25:38 - 4 salje 0
+17:25:38 - 4 salje 0
+17:25:38 - 4 salje 0
+17:25:38 - 4 salje 0
+17:25:38 - 4 salje 0
+17:25:38 - 4 salje 0
+17:25:38 - 4 salje 0
+17:25:39 - 4 salje 0
+17:25:39 - 4 salje 1
+17:25:39 - da li je ab_tell: false
+17:25:39 - da li je ab_tell: false
+17:25:39 - 4 salje 0
+17:25:39 - 4 salje 5
+17:25:39 - da li je ab_tell: false
+17:25:39 - 4 salje 0
+17:25:39 - 4 salje 0
+17:25:39 - 4 salje 0
+17:25:39 - 4 salje 1
+17:25:39 - 4 salje 0
+17:25:39 - 4 salje 0
+17:25:39 - 4 salje 0
+17:25:39 - 4 salje 0
+17:25:39 - 4 salje 0
+17:25:39 - 4 salje 0
+17:25:39 - 4 salje 2
+17:25:39 - da li je ab_tell: false
+17:25:39 - 4 salje 0
+17:25:39 - 4 salje 2
+17:25:40 - 4 salje 4
+17:25:40 - 4 salje 3
+17:25:40 - 4 salje 5
+17:25:40 - 4 salje 4
+17:25:43 - 4 salje 0
+17:25:44 - 4 salje 0
+17:25:44 - 4 salje 0
+17:25:44 - 4 salje 0
+17:25:44 - 4 salje 0
+17:25:44 - 4 salje 0
+17:25:44 - 4 salje 0
+17:25:44 - 4 salje 0
+17:25:44 - 4 salje 0
+17:25:44 - 4 salje 0
+17:25:44 - 4 salje 0
+17:25:44 - 4 salje 0
+17:25:44 - 4 salje 0
+17:25:44 - 4 salje 0
+17:25:45 - 4 salje 0
+17:25:45 - 4 salje 0
+17:25:45 - 4 salje 0
+17:25:45 - 4 salje 0
+17:25:45 - 4 salje 0
+17:25:45 - 4 salje 0
+17:25:45 - 4 salje 0
+17:25:46 - 4 salje 0
+17:25:46 - 4 salje 0
+17:25:46 - 4 salje 0
+17:25:46 - 4 salje 0
+17:25:46 - 4 salje 0
+17:25:46 - 4 salje 0
+17:25:46 - 4 salje 0
+17:25:46 - 4 salje 0
+17:25:46 - 4 salje 0
+17:25:46 - 4 salje 0
+17:25:46 - 4 salje 0
+17:25:46 - 4 salje 0
+17:25:46 - da li je ab_tell: false
+17:25:46 - da li je ab_tell: false
+17:25:46 - da li je ab_tell: false
+17:25:46 - da li je ab_tell: false
+17:25:46 - da li je ab_tell: false
+17:25:46 - 4 salje 0
+17:25:46 - 4 salje 0
+17:25:46 - 4 salje 0
+17:25:46 - 4 salje 0
+17:25:46 - 4 salje 0
+17:25:46 - 4 salje 0
+17:25:46 - 4 salje 0
+17:25:46 - 4 salje 0
+17:25:46 - 4 salje 0
+Exception in thread "Thread-2" java.util.NoSuchElementException: No line found
+	at java.base/java.util.Scanner.nextLine(Scanner.java:1651)
+	at cli.CLIParser.run(CLIParser.java:64)
+	at java.base/java.lang.Thread.run(Thread.java:830)

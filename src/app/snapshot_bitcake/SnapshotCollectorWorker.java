@@ -100,6 +100,7 @@ public class SnapshotCollectorWorker implements SnapshotCollector {
 				case AV:
 					AppConfig.timestampedErrorPrint("BROJ COLLECTED VALUES " + collectedAVValues.size());
 					if (collectedAVValues.size() == AppConfig.getServentCount()) {
+						((AVBitcakeManager) bitcakeManager).terminateEvent(AppConfig.myServentInfo.getId(), this);
 						waiting = false;
 					}
 					break;
@@ -174,44 +175,61 @@ public class SnapshotCollectorWorker implements SnapshotCollector {
 				break;
 			case AV:
 				suma = 0;
+				
+				AVBitcakeManager avBitcakeManager = (AVBitcakeManager) bitcakeManager;
+				
 				for (Entry<Integer, AVSnapshotResult> nodeResult : collectedAVValues.entrySet()) {
 					suma += nodeResult.getValue().getRecordedAmount();
 					AppConfig.timestampedStandardPrint("Recorded bitcake amount for " + nodeResult.getKey() + " = "
 							+ nodeResult.getValue().getRecordedAmount());
-					if (nodeResult.getValue().getAllChannelTransaction().size() == 0) {
-						AppConfig.timestampedStandardPrint("No channel bitcake for " + nodeResult.getKey());
-					} else {
-						for (Entry<String, List<Integer>> channelMessages : nodeResult.getValue()
-								.getAllChannelTransaction().entrySet()) {
-							int channelSum = 0;
-							for (Integer val : channelMessages.getValue()) {
-								channelSum += val;
-							}
-							AppConfig.timestampedStandardPrint("Channel bitcake for " + channelMessages.getKey() + ": "
-									+ channelMessages.getValue() + " with channel bitcake sum: " + channelSum);
-
-							suma += channelSum;
-						}
-					}
 				}
-
-				for (Entry<Integer, Map<String, List<Integer>>> channelMessagesForServents : allChannelTransaction
-						.entrySet()) {
-
-					for (Entry<String, List<Integer>> channelMessages : channelMessagesForServents.getValue()
-							.entrySet()) {
-						int channelSum = 0;
-						for (Integer val : channelMessages.getValue()) {
-							channelSum += val;
-						}
-						AppConfig.timestampedStandardPrint("Channel bitcake for " + channelMessages.getKey() + ": "
-								+ channelMessages.getValue() + " with channel bitcake sum: " + channelSum);
-
-						suma += channelSum;
+				for (Entry<String, List<Integer>> channel : avBitcakeManager.getAllChannelTransactions().entrySet()) {
+					int sumOfChannel = 0;
+					for (Integer val : channel.getValue()) {
+						sumOfChannel += val;
 					}
-
+					//suma += sumOfChannel;
+					AppConfig.timestampedStandardPrint("Bitcake transactions before the marker for servent "
+							+ AppConfig.myServentInfo.getId() + " from " + channel.getKey() + " is" + sumOfChannel);
 				}
-
+//				for (Entry<Integer, AVSnapshotResult> nodeResult : collectedAVValues.entrySet()) {
+//					suma += nodeResult.getValue().getRecordedAmount();
+//					AppConfig.timestampedStandardPrint("Recorded bitcake amount for " + nodeResult.getKey() + " = "
+//							+ nodeResult.getValue().getRecordedAmount());
+//					if (nodeResult.getValue().getAllChannelTransaction().size() == 0) {
+//						AppConfig.timestampedStandardPrint("No channel bitcake for " + nodeResult.getKey());
+//					} else {
+//						for (Entry<String, List<Integer>> channelMessages : nodeResult.getValue()
+//								.getAllChannelTransaction().entrySet()) {
+//							int channelSum = 0;
+//							for (Integer val : channelMessages.getValue()) {
+//								channelSum += val;
+//							}
+//							AppConfig.timestampedStandardPrint("Channel bitcake for " + channelMessages.getKey() + ": "
+//									+ channelMessages.getValue() + " with channel bitcake sum: " + channelSum);
+//
+//							suma += channelSum;
+//						}
+//					}
+//				}
+//
+//				for (Entry<Integer, Map<String, List<Integer>>> channelMessagesForServents : allChannelTransaction
+//						.entrySet()) {
+//
+//					for (Entry<String, List<Integer>> channelMessages : channelMessagesForServents.getValue()
+//							.entrySet()) {
+//						int channelSum = 0;
+//						for (Integer val : channelMessages.getValue()) {
+//							channelSum += val;
+//						}
+//						AppConfig.timestampedStandardPrint("Channel bitcake for " + channelMessages.getKey() + ": "
+//								+ channelMessages.getValue() + " with channel bitcake sum: " + channelSum);
+//
+//						suma += channelSum;
+//					}
+//
+//				}
+//
 				AppConfig.timestampedStandardPrint("Sum off all bitckaes in system is " + suma);
 
 				break;

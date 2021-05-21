@@ -1,9 +1,11 @@
 package servent.handler.snapshot;
 
+import java.util.List;
+import java.util.Map.Entry;
+
 import app.AppConfig;
 import app.snapshot_bitcake.AVBitcakeManager;
 import app.snapshot_bitcake.SnapshotCollector;
-import app.snapshot_bitcake.SnapshotCollectorWorker;
 import servent.handler.MessageHandler;
 import servent.message.Message;
 import servent.message.MessageType;
@@ -12,7 +14,7 @@ public class AVTerminateHandler implements MessageHandler {
 
 	private Message clientMessage;
 	private SnapshotCollector snapshotCollector;
-	
+
 	public AVTerminateHandler(Message clientMessage, SnapshotCollector snapshotCollector) {
 		this.clientMessage = clientMessage;
 		this.snapshotCollector = snapshotCollector;
@@ -21,15 +23,25 @@ public class AVTerminateHandler implements MessageHandler {
 	@Override
 	public void run() {
 		if (clientMessage.getMessageType() == MessageType.AV_TERMINATE) {
-			SnapshotCollectorWorker snapshotCollectorWorker = (SnapshotCollectorWorker) snapshotCollector;
-			AVBitcakeManager avBitcakeManager = (AVBitcakeManager) snapshotCollectorWorker.getBitcakeManager();
-			
-			snapshotCollectorWorker.addChannelMessages(AppConfig.myServentInfo.getId(), avBitcakeManager.getAllChannelTransactions());
-		
+			if (snapshotCollector.getBitcakeManager() instanceof AVBitcakeManager) {
+				int sum = 0;
+				AVBitcakeManager bitcakeManager = (AVBitcakeManager) snapshotCollector.getBitcakeManager();
+
+				for (Entry<String, List<Integer>> channel : bitcakeManager.getAllChannelTransactions().entrySet()) {
+					int sumOfChannel = 0;
+					for (Integer val : channel.getValue()) {
+						sumOfChannel += val;
+					}
+					sum += sumOfChannel;
+					AppConfig.timestampedStandardPrint("Bitcake transactions before the marker for servent "
+							+ AppConfig.myServentInfo.getId() + " from " + channel.getKey() + " is" + sumOfChannel);
+				}
+
+				AppConfig.timestampedStandardPrint("Sum of all bitcakes: " + sum);
+				AVBitcakeManager.markerReceived.set(false);
+			}
 		} else {
 			AppConfig.timestampedErrorPrint("Tell amount handler got: " + clientMessage);
 		}
-
 	}
 }
-

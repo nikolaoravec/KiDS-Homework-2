@@ -1,306 +1,136 @@
-18:51:07 - 2 salje 1
-18:51:07 - Novi receiver 0
-18:51:07 - Novi receiver 3
-18:51:07 - Novi receiver 1
-18:51:07 - 2 salje 1
-18:51:07 - Novi receiver 0
-18:51:07 - Novi receiver 3
-18:51:07 - Novi receiver 1
-18:51:07 - Novi receiver 0
-18:51:07 - Novi receiver 3
-18:51:07 - Novi receiver 1
-18:51:07 - Novi receiver 0
-18:51:07 - Ja sam 2 i saljem bitcake [0|localhost|1100]
-18:51:07 - Novi receiver 3
-18:51:07 - Ja sam 2 i saljem bitcake [0|localhost|1100]
-18:51:07 - Novi receiver 1
-18:51:07 - Ja sam 2 i saljem bitcake [0|localhost|1100]
-18:51:07 - usao sam u bitcake
-18:51:07 - Novi receiver 2
-18:51:07 - Novi receiver 0
-18:51:07 - Novi receiver 0
-18:51:07 - Novi receiver 0
-18:51:07 - Ja sam 2 i saljem bitcake [1|localhost|1200]
-18:51:07 - Novi receiver 3
-18:51:07 - Novi receiver 3
-18:51:07 - Novi receiver 3
-18:51:07 - Novi receiver 1
-18:51:07 - Ja sam 2 i saljem bitcake [1|localhost|1200]
-18:51:07 - Novi receiver 1
-18:51:07 - Novi receiver 1
-18:51:07 - Ja sam 2 i saljem bitcake [1|localhost|1200]
-18:51:07 - usao sam u bitcake
-18:51:07 - Novi receiver 2
-18:51:07 - Novi receiver 0
-18:51:07 - Novi receiver 0
-18:51:07 - Novi receiver 0
-18:51:07 - Ja sam 2 i saljem bitcake [3|localhost|1400]
-18:51:07 - Novi receiver 3
-18:51:07 - Novi receiver 3
-18:51:07 - Novi receiver 3
-18:51:07 - Novi receiver 1
-18:51:07 - Ja sam 2 i saljem bitcake [3|localhost|1400]
-18:51:07 - Novi receiver 1
-18:51:07 - Novi receiver 1
-18:51:07 - Ja sam 2 i saljem bitcake [3|localhost|1400]
-18:51:07 - usao sam u bitcake
-18:51:07 - Novi receiver 2
-18:51:07 - Novi receiver 0
-18:51:07 - Novi receiver 0
-18:51:07 - Novi receiver 0
-18:51:07 - Ja sam 2 i saljem bitcake [4|localhost|1500]
-18:51:07 - Novi receiver 3
-18:51:07 - Novi receiver 3
-18:51:07 - Novi receiver 3
-18:51:07 - Novi receiver 1
-18:51:07 - Ja sam 2 i saljem bitcake [4|localhost|1500]
-18:51:07 - Novi receiver 1
-18:51:07 - Novi receiver 1
-18:51:07 - Ja sam 2 i saljem bitcake [4|localhost|1500]
-18:51:07 - usao sam u bitcake
-18:51:07 - Novi receiver 2
-18:51:07 - Novi receiver 0
-18:51:07 - Novi receiver 0
-18:51:07 - Ja sam 2 i saljem bitcake [5|localhost|1600]
-18:51:07 - Novi receiver 3
-18:51:07 - Novi receiver 1
-18:51:07 - Novi receiver 0
-18:51:07 - Novi receiver 3
-18:51:07 - Novi receiver 3
-18:51:07 - Ja sam 2 i saljem bitcake [5|localhost|1600]
-18:51:07 - Novi receiver 1
-18:51:07 - Novi receiver 1
-18:51:07 - Ja sam 2 i saljem bitcake [5|localhost|1600]
-18:51:07 - usao sam u bitcake
-18:51:07 - Novi receiver 2
-18:51:07 - Novi receiver 0
-18:51:07 - Novi receiver 3
-18:51:07 - Novi receiver 1
-18:51:07 - Novi receiver 0
-18:51:07 - Novi receiver 3
-18:51:07 - Novi receiver 1
-18:51:08 - 2 salje 1
-18:51:08 - Novi receiver 0
-18:51:08 - Novi receiver 3
-18:51:08 - Novi receiver 1
-18:51:08 - Novi receiver 0
-18:51:08 - Novi receiver 3
-18:51:08 - Novi receiver 1
-18:51:08 - Novi receiver 0
-18:51:08 - Novi receiver 3
-18:51:08 - Novi receiver 1
-18:51:08 - 2 salje 1
-18:51:08 - Novi receiver 0
-18:51:08 - Novi receiver 0
-18:51:08 - Novi receiver 3
-18:51:08 - Novi receiver 3
-18:51:08 - Novi receiver 0
-18:51:08 - Novi receiver 1
-18:51:08 - Novi receiver 3
-18:51:08 - Novi receiver 0
-18:51:08 - Novi receiver 1
-18:51:08 - Novi receiver 3
-18:51:08 - da li je ab_tell: false
-18:51:08 - Novi receiver 1
-18:51:08 - Novi receiver 1
-18:51:08 - da li je ab_tell: false
-18:51:08 - Novi receiver 0
-18:51:08 - Novi receiver 3
-18:51:08 - Novi receiver 1
-18:51:08 - Novi receiver 0
-18:51:08 - da li je ab_tell: false
-18:51:08 - Novi receiver 3
-18:51:08 - Novi receiver 0
-18:51:08 - Novi receiver 1
-18:51:08 - Novi receiver 3
-18:51:08 - Novi receiver 1
-18:51:08 - 2 salje 1
-18:51:08 - Novi receiver 0
-18:51:08 - da li je ab_tell: false
-18:51:08 - Novi receiver 3
-18:51:08 - da li je ab_tell: false
-18:51:08 - Novi receiver 1
-18:51:08 - Novi receiver 0
-18:51:08 - Novi receiver 0
-18:51:08 - Novi receiver 3
-18:51:08 - Novi receiver 3
-18:51:08 - Novi receiver 1
-18:51:08 - Novi receiver 1
-18:51:08 - 2 salje 1
-18:51:08 - 2 salje 1
-18:51:08 - 2 salje 1
-18:51:08 - 2 salje 1
-18:51:08 - 2 salje 1
-18:51:08 - 2 salje 1
-18:51:08 - 2 salje 1
-18:51:08 - 2 salje 1
-18:51:09 - 2 salje 2
-18:51:09 - 2 salje 1
-18:51:09 - 2 salje 1
-18:51:09 - 2 salje 1
-18:51:09 - 2 salje 1
-18:51:09 - 2 salje 1
-18:51:09 - 2 salje 2
-18:51:09 - 2 salje 1
-18:51:09 - 2 salje 2
-18:51:09 - 2 salje 1
-18:51:09 - 2 salje 1
-18:51:10 - 2 salje 2
-18:51:10 - 2 salje 1
-18:51:10 - 2 salje 4
-18:51:10 - 2 salje 1
-18:51:10 - 2 salje 1
-18:51:10 - 2 salje 2
-18:51:10 - 2 salje 4
-18:51:10 - 2 salje 4
-18:51:10 - 2 salje 2
-18:51:10 - 2 salje 2
-18:51:10 - 2 salje 2
-18:51:10 - 2 salje 2
-18:51:10 - 2 salje 4
-18:51:10 - da li je ab_tell: false
-18:51:10 - 2 salje 4
-18:51:10 - 2 salje 1
-18:51:10 - 2 salje 2
-18:51:10 - 2 salje 1
-18:51:10 - 2 salje 2
-18:51:10 - 2 salje 2
-18:51:10 - 2 salje 4
-18:51:10 - 2 salje 2
-18:51:10 - 2 salje 4
-18:51:10 - 2 salje 2
-18:51:10 - 2 salje 2
-18:51:10 - 2 salje 4
-18:51:10 - 2 salje 2
-18:51:10 - 2 salje 2
-18:51:10 - 2 salje 2
-18:51:10 - 2 salje 2
-18:51:10 - 2 salje 2
-18:51:10 - 2 salje 2
-18:51:10 - 2 salje 2
-18:51:10 - 2 salje 2
-18:51:11 - 2 salje 2
-18:51:11 - 2 salje 4
-18:51:11 - 2 salje 4
-18:51:11 - 2 salje 2
-18:51:11 - 2 salje 2
-18:51:11 - 2 salje 2
-18:51:11 - 2 salje 2
-18:51:11 - 2 salje 4
-18:51:11 - da li je ab_tell: false
-18:51:11 - 2 salje 2
-18:51:11 - 2 salje 2
-18:51:11 - 2 salje 2
-18:51:11 - 2 salje 4
-18:51:11 - 2 salje 2
-18:51:11 - 2 salje 3
-18:51:11 - 2 salje 4
-18:51:11 - 2 salje 2
-18:51:11 - 2 salje 2
-18:51:11 - 2 salje 2
-18:51:11 - 2 salje 2
-18:51:11 - 2 salje 2
-18:51:11 - 2 salje 4
-18:51:11 - 2 salje 2
-18:51:11 - 2 salje 2
-18:51:11 - 2 salje 2
-18:51:11 - 2 salje 2
-18:51:11 - 2 salje 2
-18:51:11 - 2 salje 2
-18:51:11 - 2 salje 2
-18:51:11 - 2 salje 2
-18:51:11 - 2 salje 4
-18:51:11 - 2 salje 2
-18:51:11 - 2 salje 4
-18:51:11 - 2 salje 4
-18:51:11 - 2 salje 4
-18:51:11 - 2 salje 4
-18:51:11 - 2 salje 2
-18:51:11 - 2 salje 2
-18:51:12 - 2 salje 2
-18:51:12 - 2 salje 2
-18:51:12 - 2 salje 2
-18:51:12 - 2 salje 4
-18:51:12 - 2 salje 2
-18:51:12 - 2 salje 2
-18:51:12 - 2 salje 4
-18:51:12 - da li je ab_tell: false
-18:51:12 - da li je ab_tell: false
-18:51:12 - da li je ab_tell: false
-18:51:12 - da li je ab_tell: false
-18:51:12 - 2 salje 2
-18:51:12 - 2 salje 2
-18:51:12 - 2 salje 4
-18:51:12 - 2 salje 2
-18:51:12 - 2 salje 4
-18:51:12 - 2 salje 2
-18:51:12 - 2 salje 2
-18:51:12 - 2 salje 4
-18:51:12 - 2 salje 4
-18:51:12 - 2 salje 2
-18:51:13 - 2 salje 2
-18:51:13 - 2 salje 4
-18:51:13 - 2 salje 4
-18:51:13 - 2 salje 4
-18:51:13 - 2 salje 4
-18:51:13 - 2 salje 2
-18:51:13 - 2 salje 2
-18:51:13 - 2 salje 4
-18:51:13 - 2 salje 2
-18:51:13 - 2 salje 4
-18:51:13 - 2 salje 4
-18:51:13 - 2 salje 4
-18:51:13 - 2 salje 4
-18:51:13 - 2 salje 1
-18:51:13 - da li je ab_tell: false
-18:51:13 - 2 salje 4
-18:51:13 - 2 salje 2
-18:51:14 - 2 salje 4
-18:51:14 - 2 salje 4
-18:51:14 - 2 salje 4
-18:51:14 - 2 salje 4
-18:51:15 - 2 salje 4
-18:51:15 - 2 salje 4
-18:51:15 - 2 salje 4
-18:51:15 - 2 salje 4
-18:51:15 - 2 salje 4
-18:51:15 - 2 salje 0
-18:51:15 - da li je ab_tell: false
-18:51:15 - 2 salje 4
-18:51:15 - 2 salje 4
-18:51:15 - 2 salje 4
-18:51:15 - 2 salje 5
-18:51:15 - da li je ab_tell: false
-18:51:15 - 2 salje 2
-18:51:15 - 2 salje 5
-18:51:15 - 2 salje 3
-18:51:15 - 2 salje 1
-18:51:15 - 2 salje 4
-18:51:16 - 2 salje 4
-18:51:16 - 2 salje 4
-18:51:16 - 2 salje 4
-18:51:16 - 2 salje 4
-18:51:16 - 2 salje 0
-18:51:16 - 2 salje 4
-18:51:16 - 2 salje 4
-18:51:16 - 2 salje 2
-18:51:16 - 2 salje 4
-18:51:16 - 2 salje 4
-18:51:16 - 2 salje 4
-18:51:16 - 2 salje 4
-18:51:16 - 2 salje 4
-18:51:16 - 2 salje 3
-18:51:16 - 2 salje 4
-18:51:17 - 2 salje 4
-18:51:17 - 2 salje 4
-18:51:17 - 2 salje 3
-18:51:17 - 2 salje 3
-18:51:17 - 2 salje 4
-18:51:17 - 2 salje 5
-18:51:17 - 2 salje 4
-18:51:17 - 2 salje 0
-18:51:17 - 2 salje 4
-18:51:17 - 2 salje 4
-18:51:17 - 2 salje 4
-18:51:17 - 2 salje 2
-18:51:17 - 2 salje 1
+17:34:50 - Novi receiver 0
+17:34:50 - Ja sam 2 i saljem bitcake [0|localhost|1100]
+17:34:50 - Novi receiver 3
+17:34:50 - Ja sam 2 i saljem bitcake [0|localhost|1100]
+17:34:50 - Novi receiver 1
+17:34:50 - Ja sam 2 i saljem bitcake [0|localhost|1100]
+17:34:50 - usao sam u bitcake
+17:34:50 - Novi receiver 2
+17:34:50 - Novi receiver 0
+17:34:50 - Ja sam 2 i saljem bitcake [1|localhost|1200]
+17:34:50 - Novi receiver 3
+17:34:50 - Ja sam 2 i saljem bitcake [1|localhost|1200]
+17:34:50 - Novi receiver 1
+17:34:50 - Ja sam 2 i saljem bitcake [1|localhost|1200]
+17:34:50 - usao sam u bitcake
+17:34:50 - Novi receiver 2
+17:34:50 - Novi receiver 0
+17:34:50 - Ja sam 2 i saljem bitcake [3|localhost|1400]
+17:34:50 - Novi receiver 3
+17:34:50 - Ja sam 2 i saljem bitcake [3|localhost|1400]
+17:34:50 - Novi receiver 1
+17:34:50 - Ja sam 2 i saljem bitcake [3|localhost|1400]
+17:34:50 - usao sam u bitcake
+17:34:50 - Novi receiver 2
+17:34:50 - 2 salje 1
+17:34:50 - Novi receiver 0
+17:34:50 - Novi receiver 3
+17:34:50 - Novi receiver 1
+17:34:50 - 2 salje 1
+17:34:50 - Novi receiver 0
+17:34:50 - Novi receiver 0
+17:34:50 - Novi receiver 3
+17:34:50 - Novi receiver 1
+17:34:50 - Novi receiver 3
+17:34:50 - da li je ab_tell: false
+17:34:50 - Novi receiver 1
+17:34:50 - da li je ab_tell: false
+17:34:50 - Novi receiver 0
+17:34:50 - Novi receiver 3
+17:34:50 - Novi receiver 1
+17:34:50 - 2 salje 1
+17:34:50 - da li je ab_tell: false
+17:34:50 - Novi receiver 0
+17:34:50 - Novi receiver 3
+17:34:50 - Novi receiver 1
+17:34:50 - 2 salje 1
+17:34:51 - 2 salje 1
+17:34:51 - 2 salje 1
+17:34:51 - 2 salje 1
+17:34:51 - 2 salje 1
+17:34:51 - 2 salje 1
+17:34:51 - 2 salje 1
+17:34:51 - 2 salje 1
+17:34:51 - 2 salje 1
+17:34:51 - 2 salje 2
+17:34:51 - 2 salje 2
+17:34:51 - 2 salje 2
+17:34:51 - 2 salje 2
+17:34:51 - 2 salje 2
+17:34:51 - 2 salje 2
+17:34:51 - 2 salje 2
+17:34:52 - 2 salje 1
+17:34:52 - 2 salje 2
+17:34:52 - 2 salje 2
+17:34:52 - 2 salje 2
+17:34:52 - 2 salje 1
+17:34:52 - 2 salje 2
+17:34:52 - 2 salje 2
+17:34:52 - 2 salje 2
+17:34:52 - 2 salje 2
+17:34:52 - 2 salje 2
+17:34:52 - 2 salje 2
+17:34:52 - 2 salje 2
+17:34:52 - 2 salje 2
+17:34:52 - 2 salje 2
+17:34:52 - 2 salje 2
+17:34:52 - 2 salje 2
+17:34:52 - 2 salje 2
+17:34:52 - 2 salje 2
+17:34:52 - 2 salje 2
+17:34:53 - 2 salje 0
+17:34:53 - 2 salje 0
+17:34:53 - da li je ab_tell: false
+17:34:53 - 2 salje 0
+17:34:53 - da li je ab_tell: false
+17:34:53 - da li je ab_tell: false
+17:34:53 - 2 salje 0
+17:34:53 - 2 salje 0
+17:34:54 - 2 salje 0
+17:34:54 - 2 salje 0
+17:34:54 - 2 salje 0
+17:34:54 - 2 salje 0
+17:34:54 - 2 salje 0
+17:34:54 - 2 salje 0
+17:34:54 - 2 salje 0
+17:34:54 - 2 salje 0
+17:34:54 - 2 salje 0
+17:34:55 - 2 salje 1
+17:34:55 - da li je ab_tell: false
+17:34:55 - 2 salje 0
+17:34:55 - 2 salje 2
+17:34:55 - 2 salje 0
+17:34:55 - 2 salje 2
+17:34:55 - 2 salje 0
+17:34:55 - 2 salje 0
+17:34:55 - 2 salje 3
+17:34:55 - da li je ab_tell: false
+17:34:55 - 2 salje 0
+17:34:55 - 2 salje 2
+17:34:55 - 2 salje 2
+17:34:55 - 2 salje 0
+17:34:55 - 2 salje 0
+17:34:55 - 2 salje 1
+17:34:55 - 2 salje 0
+17:34:55 - 2 salje 1
+17:34:56 - 2 salje 2
+17:34:56 - 2 salje 3
+17:34:57 - 2 salje 3
+17:34:58 - 2 salje 0
+17:34:58 - 2 salje 0
+17:34:58 - da li je ab_tell: false
+17:34:58 - 2 salje 0
+17:34:58 - da li je ab_tell: false
+17:34:58 - da li je ab_tell: false
+17:34:59 - 2 salje 0
+17:35:00 - 2 salje 0
+17:35:00 - 2 salje 0
+17:35:00 - 2 salje 0
+17:35:00 - 2 salje 0
+17:35:00 - 2 salje 0
+17:35:00 - 2 salje 0
+17:35:00 - 2 salje 0
+Exception in thread "Thread-2" java.util.NoSuchElementException: No line found
+	at java.base/java.util.Scanner.nextLine(Scanner.java:1651)
+	at cli.CLIParser.run(CLIParser.java:64)
+	at java.base/java.lang.Thread.run(Thread.java:830)

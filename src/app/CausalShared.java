@@ -152,13 +152,18 @@ public class CausalShared {
 										if(markerReceived) {
 											if(!(otherClockGreater(AVBitcakeManager.getVectorClockForMarker(), pendingMessage.getVectorClock()))) {
 												avBitcakeManager.addChannelMessage(pendingMessage);
+												messagehandler = new TransactionHandler(pendingMessage, snapshotCollector.getBitcakeManager());
+
 											}
 										}else {
+											messagehandler = new TransactionHandler(pendingMessage, snapshotCollector.getBitcakeManager());
 											avBitcakeManager.addChannelMessage(pendingMessage);
 										}
+									}else {
+										messagehandler = new TransactionHandler(pendingMessage, snapshotCollector.getBitcakeManager());
+										
 									}
 								}
-								messagehandler = new TransactionHandler(pendingMessage, snapshotCollector.getBitcakeManager());
 								break;
 							case AB_MARKER:
 								messagehandler = new ABMarkerHandler(pendingMessage, snapshotCollector);
@@ -191,7 +196,7 @@ public class CausalShared {
 						incrementClock(pendingMessage.getOriginalSenderInfo().getId());
 						
 						if(pendingMessage.getMessageType() == MessageType.AV_MARKER && pendingMessage.getTargetInfo().getId()==AppConfig.myServentInfo.getId()) {
-							AVBitcakeManager.setVectorClockForMarker(getVectorClock());
+							AVBitcakeManager.setVectorClockForMarker(pendingMessage.getVectorClock());
 						}
 						iterator.remove();
 						

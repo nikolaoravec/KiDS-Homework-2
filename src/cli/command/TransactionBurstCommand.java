@@ -12,7 +12,7 @@ import servent.message.util.MessageUtil;
 
 public class TransactionBurstCommand implements CLICommand {
 
-	private static final int BURST_WORKERS = 1;
+	private static final int BURST_WORKERS =1;
 	private static final int MAX_TRANSFER_AMOUNT = 50;
 	
 	private final BitcakeManager bitcakeManager;

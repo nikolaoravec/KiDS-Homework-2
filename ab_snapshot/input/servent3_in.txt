@@ -1,4 +1,2 @@
-pause 1000
-snapshot
-pause 20000
+pause 30000
 stop

@@ -1,4 +1,3 @@
 pause 500
-snapshot
-pause 15000
-stop
+transction_burst
+pause 19000

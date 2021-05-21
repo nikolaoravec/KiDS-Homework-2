@@ -1,2 +1,6 @@
-pause 15000
+pause 500
+snapshot
+pause 25000
+snapshot
+pause 10000
 stop
