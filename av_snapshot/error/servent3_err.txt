@@ -1,101 +1,84 @@
-17:34:49 - 3 salje 1
-17:34:49 - Novi receiver 1
-17:34:49 - Novi receiver 2
-17:34:50 - 3 salje 1
-17:34:50 - Novi receiver 1
-17:34:50 - Novi receiver 2
-17:34:50 - Novi receiver 1
-17:34:50 - Novi receiver 2
-17:34:50 - 3 salje 1
-17:34:50 - Novi receiver 1
-17:34:50 - Novi receiver 1
-17:34:50 - Novi receiver 1
-17:34:50 - Novi receiver 2
-17:34:50 - Novi receiver 2
-17:34:50 - da li je ab_tell: false
-17:34:50 - Novi receiver 2
-17:34:50 - da li je ab_tell: false
-17:34:50 - Novi receiver 1
-17:34:50 - da li je ab_tell: false
-17:34:50 - Novi receiver 2
-17:34:50 - Novi receiver 1
-17:34:50 - Novi receiver 2
-17:34:50 - 3 salje 2
-17:34:50 - Novi receiver 1
-17:34:50 - Novi receiver 2
-17:34:51 - 3 salje 1
-17:34:51 - 3 salje 2
-17:34:51 - Novi receiver 1
-17:34:51 - Novi receiver 1
-17:34:51 - Novi receiver 2
-17:34:51 - Novi receiver 2
-17:34:51 - 3 salje 2
-17:34:51 - Novi receiver 1
-17:34:51 - da li je ab_tell: false
-17:34:51 - Novi receiver 2
-17:34:51 - Novi receiver 1
-17:34:51 - da li je ab_tell: false
-17:34:51 - da li je ab_tell: false
-17:34:51 - Novi receiver 2
-17:34:51 - Novi receiver 1
-17:34:51 - Novi receiver 1
-17:34:51 - Novi receiver 2
-17:34:51 - Novi receiver 2
-17:34:51 - Novi receiver 1
-17:34:51 - Novi receiver 2
-17:34:51 - Novi receiver 1
-17:34:51 - Novi receiver 2
-17:34:51 - 3 salje 1
-17:34:51 - 3 salje 1
-17:34:51 - 3 salje 1
-17:34:51 - 3 salje 1
-17:34:51 - 3 salje 2
-17:34:51 - 3 salje 2
-17:34:52 - 3 salje 2
-17:34:52 - 3 salje 2
-17:34:52 - 3 salje 2
-17:34:52 - 3 salje 2
-17:34:52 - 3 salje 2
-17:34:52 - 3 salje 2
-17:34:53 - 3 salje 0
-17:34:53 - 3 salje 0
-17:34:53 - 3 salje 0
-17:34:53 - 3 salje 0
-17:34:54 - 3 salje 2
-17:34:54 - 3 salje 0
-17:34:54 - da li je ab_tell: false
-17:34:54 - da li je ab_tell: false
-17:34:54 - da li je ab_tell: false
-17:34:54 - da li je ab_tell: false
-17:34:54 - 3 salje 0
-17:34:54 - 3 salje 1
-17:34:54 - da li je ab_tell: false
-17:34:54 - 3 salje 0
-17:34:54 - 3 salje 0
-17:34:54 - 3 salje 0
-17:34:54 - 3 salje 0
-17:34:54 - 3 salje 0
-17:34:54 - 3 salje 0
-17:34:54 - 3 salje 2
-17:34:54 - 3 salje 0
-17:34:55 - 3 salje 0
-17:34:55 - 3 salje 0
-17:34:56 - 3 salje 3
-17:34:56 - 3 salje 3
-17:34:56 - 3 salje 1
-17:34:59 - 3 salje 0
-17:34:59 - da li je ab_tell: false
-17:34:59 - 3 salje 0
-17:34:59 - 3 salje 0
-17:34:59 - 3 salje 0
-17:34:59 - 3 salje 0
-17:34:59 - da li je ab_tell: false
-17:34:59 - da li je ab_tell: false
-17:34:59 - 3 salje 0
-17:34:59 - 3 salje 0
-17:34:59 - 3 salje 0
-17:34:59 - 3 salje 0
-17:35:00 - 3 salje 0
+18:18:22 - 3 salje 1
+18:18:22 - Novi receiver 1
+18:18:22 - da li je ab_tell: false
+18:18:22 - Novi receiver 2
+18:18:22 - 3 salje 1
+18:18:22 - Novi receiver 1
+18:18:22 - Novi receiver 2
+18:18:22 - 3 salje 1
+18:18:22 - Novi receiver 1
+18:18:22 - da li je ab_tell: false
+18:18:22 - Novi receiver 1
+18:18:22 - Novi receiver 2
+18:18:22 - Novi receiver 2
+18:18:22 - da li je ab_tell: false
+18:18:22 - Novi receiver 1
+18:18:22 - Novi receiver 2
+18:18:23 - 3 salje 1
+18:18:23 - 3 salje 1
+18:18:23 - 3 salje 1
+18:18:23 - 3 salje 1
+18:18:23 - 3 salje 1
+18:18:23 - 3 salje 2
+18:18:23 - Novi receiver 1
+18:18:23 - Novi receiver 2
+18:18:23 - 3 salje 1
+18:18:23 - 3 salje 1
+18:18:23 - 3 salje 2
+18:18:23 - da li je ab_tell: false
+18:18:23 - Novi receiver 1
+18:18:23 - Novi receiver 2
+18:18:23 - Novi receiver 1
+18:18:23 - Novi receiver 2
+18:18:23 - Novi receiver 1
+18:18:23 - Novi receiver 2
+18:18:23 - 3 salje 1
+18:18:23 - 3 salje 2
+18:18:24 - 3 salje 2
+18:18:24 - da li je ab_tell: false
+18:18:24 - Novi receiver 1
+18:18:24 - da li je ab_tell: false
+18:18:24 - Novi receiver 2
+18:18:24 - Novi receiver 1
+18:18:24 - Novi receiver 1
+18:18:24 - Novi receiver 2
+18:18:24 - Novi receiver 2
+18:18:24 - 3 salje 1
+18:18:24 - 3 salje 2
+18:18:25 - 3 salje 2
+18:18:26 - 3 salje 0
+18:18:26 - 3 salje 0
+18:18:26 - 3 salje 0
+18:18:27 - 3 salje 0
+18:18:27 - 3 salje 0
+18:18:27 - 3 salje 0
+18:18:27 - 3 salje 0
+18:18:27 - 3 salje 0
+18:18:27 - 3 salje 0
+18:18:27 - da li je ab_tell: false
+18:18:27 - da li je ab_tell: false
+18:18:27 - da li je ab_tell: false
+18:18:27 - 3 salje 1
+18:18:27 - da li je ab_tell: false
+18:18:27 - 3 salje 2
+18:18:27 - da li je ab_tell: false
+18:18:28 - 3 salje 0
+18:18:28 - 3 salje 2
+18:18:28 - 3 salje 0
+18:18:28 - 3 salje 1
+18:18:28 - 3 salje 3
+18:18:30 - 3 salje 3
+18:18:30 - 3 salje 0
+18:18:30 - da li je ab_tell: false
+18:18:31 - 3 salje 0
+18:18:31 - 3 salje 0
+18:18:31 - da li je ab_tell: false
+18:18:31 - da li je ab_tell: false
+18:18:32 - 3 salje 0
+18:18:32 - 3 salje 0
+18:18:32 - 3 salje 0
+18:18:32 - 3 salje 0
+18:18:32 - 3 salje 0
 Exception in thread "Thread-2" java.util.NoSuchElementException: No line found
 	at java.base/java.util.Scanner.nextLine(Scanner.java:1651)
 	at cli.CLIParser.run(CLIParser.java:64)

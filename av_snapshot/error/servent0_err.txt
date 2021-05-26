@@ -1,89 +1,51 @@
-17:34:49 - 0 salje 1
-17:34:49 - Novi receiver 1
-17:34:49 - da li je ab_tell: false
-17:34:49 - Novi receiver 2
-17:34:50 - 0 salje 1
-17:34:50 - da li je ab_tell: false
-17:34:50 - Novi receiver 1
-17:34:50 - Novi receiver 2
-17:34:50 - 0 salje 1
-17:34:50 - Novi receiver 1
-17:34:50 - da li je ab_tell: false
-17:34:50 - Novi receiver 2
-17:34:50 - 0 salje 1
-17:34:51 - 0 salje 2
-17:34:51 - Novi receiver 1
-17:34:51 - Novi receiver 2
-17:34:51 - 0 salje 1
-17:34:51 - 0 salje 1
-17:34:51 - 0 salje 2
-17:34:51 - da li je ab_tell: false
-17:34:51 - Novi receiver 1
-17:34:51 - Novi receiver 1
-17:34:51 - Novi receiver 2
-17:34:51 - Novi receiver 2
-17:34:51 - Novi receiver 1
-17:34:51 - Novi receiver 2
-17:34:51 - 0 salje 1
-17:34:51 - 0 salje 2
-17:34:51 - da li je ab_tell: false
-17:34:51 - Novi receiver 1
-17:34:51 - Novi receiver 1
-17:34:51 - da li je ab_tell: false
-17:34:51 - Novi receiver 1
-17:34:51 - Novi receiver 2
-17:34:51 - Novi receiver 2
-17:34:51 - Novi receiver 2
-17:34:51 - 0 salje 1
-17:34:52 - 0 salje 2
-17:34:52 - 0 salje 2
-17:34:52 - 0 salje 2
+18:18:22 - 0 salje 1
+18:18:22 - Novi receiver 1
+18:18:23 - 0 salje 1
+18:18:23 - Novi receiver 1
+18:18:23 - Novi receiver 1
+18:18:23 - da li je ab_tell: false
+18:18:23 - Novi receiver 1
+18:18:23 - 0 salje 1
+18:18:23 - Novi receiver 1
+18:18:23 - Novi receiver 1
+18:18:23 - da li je ab_tell: false
+18:18:23 - da li je ab_tell: false
+18:18:23 - Novi receiver 1
+18:18:24 - 0 salje 2
+18:18:24 - da li je ab_tell: false
+18:18:24 - Novi receiver 1
+18:18:24 - BROJ COLLECTED VALUES 1
 Exception in thread "Thread-2" java.util.NoSuchElementException: No line found
 	at java.base/java.util.Scanner.nextLine(Scanner.java:1651)
 	at cli.CLIParser.run(CLIParser.java:64)
 	at java.base/java.lang.Thread.run(Thread.java:830)
-17:34:52 - BROJ COLLECTED VALUES 1
-17:34:52 - 0 salje 2
-17:34:52 - 0 salje 2
-17:34:52 - 0 salje 2
-17:34:52 - 0 salje 2
-17:34:52 - 0 salje 2
-17:34:53 - BROJ COLLECTED VALUES 1
-17:34:53 - 0 salje 0
-17:34:53 - 0 salje 0
-17:34:53 - 0 salje 0
-17:34:54 - 0 salje 0
-17:34:54 - 0 salje 0
-17:34:54 - 0 salje 0
-17:34:54 - 0 salje 0
-17:34:54 - BROJ COLLECTED VALUES 1
-17:34:54 - 0 salje 0
-17:34:54 - 0 salje 0
-17:34:54 - 0 salje 0
-17:34:54 - 0 salje 0
-17:34:54 - 0 salje 0
-17:34:54 - 0 salje 0
-17:34:54 - 0 salje 0
-17:34:54 - 0 salje 2
-17:34:54 - da li je ab_tell: false
-17:34:55 - 0 salje 1
-17:34:55 - da li je ab_tell: false
-17:34:55 - 0 salje 0
-17:34:55 - BROJ COLLECTED VALUES 3
-17:34:55 - 0 salje 2
-17:34:56 - 0 salje 1
-17:34:56 - BROJ COLLECTED VALUES 3
-17:34:56 - 0 salje 3
-17:34:56 - da li je ab_tell: false
-17:34:56 - 0 salje 3
-17:34:57 - BROJ COLLECTED VALUES 4
-17:34:59 - 0 salje 0
-17:34:59 - 0 salje 0
-17:34:59 - 0 salje 0
-17:34:59 - 0 salje 0
-17:34:59 - 0 salje 0
-17:34:59 - 0 salje 0
-17:34:59 - 0 salje 0
-17:34:59 - 0 salje 0
-17:34:59 - 0 salje 0
-17:34:59 - 0 salje 0
+18:18:24 - 0 salje 2
+18:18:24 - Novi receiver 1
+18:18:25 - 0 salje 2
+18:18:25 - da li je ab_tell: false
+18:18:25 - Novi receiver 1
+18:18:25 - da li je ab_tell: false
+18:18:25 - Novi receiver 1
+18:18:25 - Novi receiver 1
+18:18:25 - BROJ COLLECTED VALUES 1
+18:18:26 - 0 salje 0
+18:18:26 - 0 salje 0
+18:18:26 - BROJ COLLECTED VALUES 1
+18:18:26 - 0 salje 0
+18:18:27 - 0 salje 1
+18:18:27 - da li je ab_tell: false
+18:18:27 - 0 salje 0
+18:18:27 - 0 salje 0
+18:18:27 - 0 salje 0
+18:18:27 - 0 salje 0
+18:18:27 - 0 salje 0
+18:18:27 - BROJ COLLECTED VALUES 2
+18:18:28 - BROJ COLLECTED VALUES 2
+18:18:28 - 0 salje 2
+18:18:28 - da li je ab_tell: false
+18:18:29 - 0 salje 3
+18:18:29 - da li je ab_tell: false
+18:18:29 - BROJ COLLECTED VALUES 4
+18:18:30 - 0 salje 0
+18:18:31 - 0 salje 0
+18:18:31 - 0 salje 0
